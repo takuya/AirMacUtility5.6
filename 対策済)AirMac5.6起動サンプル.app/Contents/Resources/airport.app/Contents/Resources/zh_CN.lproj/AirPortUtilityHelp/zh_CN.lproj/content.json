@@ -1,0 +1,721 @@
+[{
+"content": {
+"aprt2731": {
+"content": "<div id='aprt2731' class='apd-topic'><div class='subjectids'><a name='aprt2731'><\/a><a name='alap11006'><\/a><a name='alap11038'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>如果 USB 打印机没有响应<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您已经将打印机连接到无线网络上的基站或 Time Capsule 上的 USB 端口，并且网络上的电脑不能打印，您可以使用这些建议以尝试解决问题。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>确定打印机的电源插头已插入墙上的插座中，且打印机打开了。<\/span><\/li><li class='li step'><span class='ph cmd'>如果打印机处于打开状态，请尝试关闭它，等待几秒钟，然后再次打开它。<\/span><\/li><li class='li step'><span class='ph cmd'>请确定电缆的一端已经牢固地连接到打印机，并且另一端已经牢固地连接到无线设备的 USB 端口。<\/span><\/li><li class='li step'><span class='ph cmd'>确定在客户端电脑的“打印机列表”中选择了该打印机。<\/span><table border='1' frame='hsides' rules='rows' cellpadding='4' cellspacing='0' summary='' class='simpletable choicetable choicetableborder'><thead><tr><th id='d7539e84-option' valign='bottom' align='left'>选项<\/th><th id='d7539e84-desc' valign='bottom' align='left'>描述<\/th><\/tr><\/thead><tbody><tr class='strow chrow'><td valign='top' headers='d7539e84-option' id='d7539e88' class='stentry choption'><strong>在运行 Mac OS X 的电脑上：<\/strong><\/td><td valign='top' headers='d7539e84-desc d7539e88' class='stentry chdesc'> 打开“系统偏好设置”，然后点按“打印与扫描”。选择打印机，然后点按“删除”。点按“添加”并从列表中选择该打印机。如果打印机不在列表中，请点按添加按钮 (+)；在列表中找到您的打印机后，点按“添加”。<\/td><\/tr><tr class='strow chrow'><td valign='top' headers='d7539e84-option' id='d7539e97' class='stentry choption'><strong>在运行 Windows 的电脑上：<\/strong><\/td><td valign='top' headers='d7539e84-desc d7539e97' class='stentry chdesc'> 从 AirPort Utility CD 安装 Bonjour（Windows 版），然后根据屏幕指示连接到打印机。<\/td><\/tr><\/tbody><\/table><\/li><\/ul><\/div><div class='section postreq'><p class='p'>某些 USB 打印机与 AirPort 不兼容。如果您仍不能打印，请咨询打印机制造商。您可能会在打印机制造商的网站上找到新的打印机驱动程序。<\/p><\/div><\/div>", 
+"alternativeName": "如果 USB 打印机没有响应", 
+"name": "如果 USB 打印机没有响应", 
+"summary": "以下是排除打印机故障的一些方法。"}
+, 
+"aprt2724": {
+"content": "<div id='aprt2724' class='apd-topic'><div class='subjectids'><a name='aprt2724'><\/a><a name='alap11006'><\/a><a name='alap12689'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>最小化 Wi-Fi 网络中的干扰<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果有人经常在基站或 Time Capsule 附近使用微波炉或其他干扰源，您可能会遇到网络性能问题。若要帮助将干扰降到最低，请打开高抗干扰性。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“无线”。<\/span><\/li><li class='li step'><span class='ph cmd'>选取“无线网络选项”，然后选择“使用高抗干扰性”注记格。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果电脑配备了 AirPort Extreme 卡，您必须从菜单栏中的 AirPort 状态菜单选取“使用高抗干扰性”以利用此功能。配备了较早的 AirPort 卡的客户端电脑已经充分利用了此功能。<\/p><\/div><\/div>", 
+"keywords": "高抗干扰性, 解决 AirPort 问题", 
+"name": "最小化 Wi-Fi 网络中的干扰", 
+"alternativeName": "最小化 Wi-Fi 网络中的干扰", 
+"summary": "若要帮助将干扰降到最低，请打开高抗干扰性。"}
+, 
+"aprt2725": {
+"content": "<div id='aprt2725' class='apd-topic'><div class='subjectids'><a name='aprt2725'><\/a><a name='alap11006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>查找无线设备的 MAC 地址<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以查看连接在网络上的基站的媒体访问控制 (MAC) 地址。无线设备的无线和有线（以太网）接口都有唯一的 MAC 地址。<\/p><p class='p'>地址印刷在 AirPort Extreme 基站和 Time Capsule 的底部和 AirPort Express 的背面。<\/p><p class='p'>无线 MAC 地址有时称为 AirPort ID。<\/p><p class='p'>您可能需要给互联网服务商 (ISP) 或网络上的客户端提供 MAC 地址。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择基站或 Time Capsule，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>无线 MAC 地址在“AirPort 实用工具”的“摘要”面板中显示为 AirPort ID。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "解决 AirPort 问题", 
+"name": "查找无线设备的 MAC 地址", 
+"alternativeName": "查找无线设备的 MAC 地址", 
+"summary": "您可以查看连接在网络上的基站的媒体访问控制 (MAC) 地址。"}
+, 
+"aprt2718": {
+"content": "<div id='aprt2718' class='apd-topic'><div class='subjectids'><a name='aprt2718'><\/a><a name='alap11006'><\/a><a name='alap12704'><\/a><a name='alap10987'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>监视网络上的无线客户端<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以监视连接在基站上的所有客户端在一段时间内的无线信号质量、噪声和数据包传输。<\/p><p class='p'>这可以帮助您解决网络问题或连接在网络上的各个客户端的问题。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的无线设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“高级”，然后点按“日志与统计数据”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“日志和统计数据”，然后点按“无线客户端”。您可以监视网络上的无线客户端的信号、噪音和数据速率。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果网络中有多个基站或 Time Capsule，无线客户端可能会被多个设备监视。<\/p><\/div><\/div>", 
+"keywords": "关于 AirPort, 日志记录, 解决 AirPort 问题", 
+"name": "监视网络上的无线客户端", 
+"alternativeName": "监视网络上的无线客户端", 
+"summary": "您可以监视网络上所有客户端的无线信号的质量、噪音、以及数据包传输。"}
+, 
+"aprt2732": {
+"navigation": "false", 
+"content": "<div id='aprt2732' class='apd-topic'><div class='subjectids'><a name='aprt2732'><\/a><a name='alap11006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>如果您不能选取 Wi-Fi 网络<\/h1><div class='body taskbody'><div class='section context'><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>可能不在覆盖范围内。请确定电脑处于您正在连接的无线设备的通信范围内。<\/span><\/li><li class='li step'><span class='ph cmd'>检查无线频率干扰的来源，例如微波炉。<\/span><\/li><li class='li step'><span class='ph cmd'>通过拔出并再次插上电源线来重新启动您的基站。然后尝试重新连接。<\/span><\/li><li class='li step'><span class='ph cmd'>在“AirPort 实用工具”的“AirPort”设置的“无线”面板中，确定未将“无线模式”弹出式菜单设定为“关闭”。<\/span><\/li><li class='li step'><span class='ph cmd'>Wi-Fi 服务可能未选定。<\/span><table border='1' frame='hsides' rules='rows' cellpadding='4' cellspacing='0' summary='' class='simpletable choicetable choicetableborder'><thead><tr><th id='d7773e82-option' valign='bottom' align='left'>选项<\/th><th id='d7773e82-desc' valign='bottom' align='left'>描述<\/th><\/tr><\/thead><tbody><tr class='strow chrow'><td valign='top' headers='d7773e82-option' id='d7773e86' class='stentry choption'><strong>在 Mac 上：<\/strong><\/td><td valign='top' headers='d7773e82-desc d7773e86' class='stentry chdesc'> 在 Mac 上，打开“系统偏好设置”，然后点按“网络”。确定 Wi-Fi 在网络连接服务列表中列出。如果未列出，请点按添加按钮 (+)，然后从“界面”弹出式菜单中选取“Wi-Fi”。为 Wi-Fi 服务输入一个名称，点按“创建”，然后点按“应用”。<\/td><\/tr><tr class='strow chrow'><td valign='top' headers='d7773e82-option' id='d7773e95' class='stentry choption'><strong>在运行 Windows 的电脑上：<\/strong><\/td><td valign='top' headers='d7773e82-desc d7773e95' class='stentry chdesc'> 打开“网络”控制面板，然后确定已正确设置无线网络连接。<\/td><\/tr><\/tbody><\/table><\/li><\/ul><\/div><div class='related-links'><div class='linklist linklist'><strong>相关主题<\/strong><br><div><a class='link' href='#aprt2734'>能够干扰 Wi-Fi 网络的设备<\/a><\/div><\/div><\/div><\/div>", 
+"keywords": "解决 AirPort 问题", 
+"name": "如果您不能选取 Wi-Fi 网络", 
+"alternativeName": "如果您不能选取 Wi-Fi 网络", 
+"summary": "如果您不能选取 Wi-Fi 网络，请查阅此处。"}
+, 
+"aprt2740": {
+"content": "<div id='aprt2740' class='apd-topic'><div class='subjectids'><a name='aprt2740'><\/a><a name='alap10991'><\/a><a name='alap11032'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>控制电脑 IP 地址的有效期<\/h1><div class='body taskbody'><div class='section context'><p class='p'>若要控制 Wi-Fi 网络中一台电脑的 IP 地址的有效期，请设定动态主机配置协议 (DHCP) 租借时间。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“互联网”，从“连接共享”弹出式菜单中选取“共享公共 IP 地址”或“分配 IP 地址范围”，然后点按“DHCP”。<\/span><\/li><li class='li step'><span class='ph cmd'>在“DHCP 租期”栏中输入一个数字，然后从弹出式菜单中选取“分钟”、“小时”或“天”。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果使用非常短的租期，在电脑多于可用 IP 地址的网络中，DHCP 可以动态地重新配置网络。<\/p><p class='p'>如果您已经设置了 DHCP 保留，则当 DHCP 租借过期时，列表中的电脑将无法获得新的 DHCP 地址。<\/p><\/div><\/div>", 
+"keywords": "DHCP, 建立 AirPort 网络", 
+"name": "控制电脑 IP 地址的有效期", 
+"alternativeName": "控制电脑 IP 地址的有效期", 
+"summary": "您可以在“AirPort 实用工具”中设定动态主机配置协议 (DHCP) 租借时间。"}
+, 
+"aprt2719": {
+"content": "<div id='aprt2719' class='apd-topic'><div class='subjectids'><a name='aprt2719'><\/a><a name='alap10989'><\/a><a name='alap11032'><\/a><a name='alap12704'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>监视网络上的 DHCP 客户端<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以查看连接到无线网络的客户端电脑的 MAC 地址、IP 地址、客户端 ID 和 DHCP 租借时间。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“高级”，然后点按“日志与统计数据”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“日志和统计数据”，然后点按“DHCP 客户端”。您可以查看网络上的客户端的 Mac 地址、IP 地址、客户端 ID 和租借时间。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>客户端 ID 是可选的，您的网络对此可能不作要求。<\/p><\/div><\/div>", 
+"keywords": "DHCP, 日志记录, 设置 AirPort 无线设备", 
+"name": "监视网络上的 DHCP 客户端", 
+"alternativeName": "监视网络上的 DHCP 客户端", 
+"summary": "您可以查看连接到无线网络的客户端电脑的 MAC 地址、IP 地址、客户端 ID 和 DHCP 租借时间。"}
+, 
+"ap20913": {
+"content": "<div id='ap20913' class='apd-topic'><div class='subjectids'><a name='ap20913'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>抹掉 Time Capsule 磁盘<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您正在使用 Time Capsule，您可以使用“AirPort 实用工具”来抹掉它的磁盘。<\/p><p class='p'>抹掉内置 AirPort 磁盘时，您可以选取以下级别的安全性：<\/p><p class='p'><strong class='ph b'>快速抹掉（不安全）：<\/strong>“快速抹掉”会抹掉磁盘的目录信息，使数据不再可供访问。数据会保留在磁盘上，直到额外的数据改写它。由于数据有可能被恢复，此选择最不安全。<\/p><p class='p'><strong class='ph b'>填零清除数据：<\/strong>如果您想要写入零来覆盖磁盘上的所有数据，请选取此选项。此选项以尽可能短的耗时提供良好的数据保护。由于此选项会写入整个磁盘，它比“快速抹掉”所花的时间要长。<\/p><p class='p'><strong class='ph b'>7 次抹掉：<\/strong>此选项会将零写入整个磁盘七次。“7 次抹掉”提供高安全性的数据抹掉，所花时间比“填零清除数据”选项多七倍。<\/p><p class='p'><strong class='ph b'>35 次抹掉：<\/strong>选取此选项以最安全地抹掉磁盘。此选项会将零写入整个磁盘 35 次。它最安全，并且所花时间是“填零清除数据”选项的 35 倍。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择包含想要抹掉的内置 AirPort 磁盘的 Time Capsule，然后点按“手动设置”。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“磁盘”，选择内置 AirPort 磁盘，然后从弹出式菜单中选取“抹掉磁盘”。<\/span><\/li><li class='li step'><span class='ph cmd'>为磁盘提供名称，从“安全抹掉”弹出式菜单中选取安全性级别，然后点按“抹掉”。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>抹掉磁盘时，Time Capsule 状态灯会呈琥珀色闪烁。您将无法更改设置、更新固件或重新启动 Time Capsule，直到磁盘被抹掉并再次可用。<\/p><\/div><\/div>", 
+"alternativeName": "抹掉 Time Capsule 磁盘", 
+"name": "抹掉 Time Capsule 磁盘", 
+"summary": "如果您正在使用 Time Capsule，您可以使用“AirPort 实用工具”来抹掉内置 AirPort 磁盘。"}
+, 
+"aprt2727": {
+"content": "<div id='aprt2727' class='apd-topic'><div class='subjectids'><a name='aprt2727'><\/a><a name='alap10990'><\/a><a name='alap11032'><\/a><a name='alap12696'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>共享互联网连接<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以将基站或 Time Capsule 设置为使用动态主机配置协议 (DHCP) 和网络地址转换 (NAT) 来与网络上的所有客户端共享单个 IP 地址。<\/p><p class='p'>如果基站或 Time Capsule 使用 PPPoE 连接到互联网，它已经使用 DHCP 和 NAT 共享单个 IP 地址了。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入基站密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“互联网”，然后点按“互联网连接”。<\/span><\/li><li class='li step'><span class='ph cmd'>从“连接共享”弹出式菜单中选取“共享公共 IP 地址”或“分配一个 IP 地址范围”。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>通过共享公共 IP 地址来启用 DHCP 和 NAT，或者分配一个 IP 地址范围让基站或 Time Capsule 动态并自动地将 IP 地址分配给客户端电脑，这会简化每台电脑的 TCP\/IP 配置。<\/p><\/div><\/div>", 
+"alternativeName": "共享互联网连接", 
+"name": "共享互联网连接", 
+"summary": "您可以设置基站使用 DHCP 和 NAT 与网络上的所有客户端共享单个 IP 地址，或者将它设置为网桥。"}
+, 
+"aprt2741": {
+"content": "<div id='aprt2741' class='apd-topic'><div class='subjectids'><a name='aprt2741'><\/a><a name='alap10990'><\/a><a name='alap10991'><\/a><a name='alap12698'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>将网络数据流引导到网络上的特定电脑<\/h1><div class='body taskbody'><div class='section context'><p class='p'>若要确保请求能够正确地被发送到 Web、AppleShare、FTP 服务器或网络上的特定电脑，您需要建立用于服务器或电脑的固定 IP 地址，并且将“入站端口映射”信息提供给 AirPort 基站或 Time Capsule。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“高级”，然后点按“端口映射”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按添加按钮 (+)，然后从“服务”弹出式菜单中选取服务（例如“个人文件共享”）。<\/span><\/li><li class='li step'><span class='ph cmd'>在“专用 IP 地址”栏中输入服务器的 IP 地址。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>若要使用端口映射，您必须在运行 Web、AppleShare 或 FTP 服务器的电脑上手动配置 TCP\/IP。<\/p><\/div><\/div>", 
+"keywords": "前进, 端口映射, 建立 AirPort 网络, 使用 AirPort", 
+"name": "将网络数据流引导到网络上的特定电脑", 
+"alternativeName": "将网络数据流引导到网络上的特定电脑", 
+"summary": "若要确保请求能够正确地被发送到 Web、AppleShare 或网络上的 FTP 服务器，您需要建立用于服务器的固定 IP 地址，并且将入站端口映射信息提供给 AirPort 基站或 Time Capsule。"}
+, 
+"aprt2734": {
+"content": "<div id='aprt2734' class='apd-topic'><div class='subjectids'><a name='aprt2734'><\/a><a name='alap11006'><\/a><a name='alap11846'><\/a><a name='alap12710'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>能够干扰 Wi-Fi 网络的设备<\/h1><div class='body taskbody'><div class='section context'><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>微波炉。<\/span><\/li><li class='li step'><span class='ph cmd'>直接卫星服务 (DSS) 无线频率泄漏。<\/span><\/li><li class='li step'><span class='ph cmd'>某些类型的碟形卫星天线所附带的早期同轴电缆。请联系设备制造商以获得新型电缆。<\/span><\/li><li class='li step'><span class='ph cmd'>某些电气设备，如电线、电气铁路轨道和发电站。<\/span><\/li><li class='li step'><span class='ph cmd'>2.4 或 5 千兆赫 (GHz) 电话频率范围内的无绳电话。如果您的电话或 AirPort 通信有问题，请更改基站的频道。<\/span><\/li><li class='li step'><span class='ph cmd'>其他 Wi-Fi 网络。<\/span><\/li><li class='li step'><span class='ph cmd'>相近的无线设备使用相邻的频道。例如，如果无线设备 A 设定为频道 1，则无线设备 B 应该设定为频道 6 或 11。<\/span><\/li><li class='li step'><span class='ph cmd'>移动临时放置在电脑与基站之间的带有金属的物体。<\/span><\/li><\/ul><\/div><\/div>", 
+"alternativeName": "能够干扰 Wi-Fi 网络的设备", 
+"name": "能够干扰 Wi-Fi 网络的设备", 
+"summary": "某些设备会干扰无线网络。"}
+, 
+"aprt2730": {
+"content": "<div id='aprt2730' class='apd-topic'><div class='subjectids'><a name='aprt2730'><\/a><a name='alap11038'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>使用 Wi-Fi 网络上的 USB 打印机<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您将兼容的 USB 打印机连接在 AirPort Extreme 基站、AirPort Express 或 Time Capsule 上，网络上的所有电脑（有线的和无线的）都可以使用此打印机进行打印。<\/p><p class='p'>请先将打印机连接到电脑并打印测试页，然后再将它连接到设备。<\/p><p class='p'>确定打印机工作正常后，请将打印机连接到无线设备的 USB 端口。<\/p><\/div><div class='li step p'><span class='ph cmd'>在运行 Mac OS X 的电脑上：打开“系统偏好设置”，然后点按“打印与扫描”。从列表中选择您的打印机。如果未列出该打印机，请点按添加 (+)，选择您的打印机，然后点按“添加”。<\/span><p class='p'>在运行 Windows 的电脑上：从 AirPort Utility CD 安装 Bonjour（Windows 版），然后根据屏幕指示连接到打印机。<\/p><\/div><\/div><div class='section postreq'><p class='p'>当打印机连接到无线设备时，错误或状态信息可能不可用。例如，您可能无法获得类似“缺纸”或“打印机忙”这类的信息。<\/p><\/div><\/div>", 
+"alternativeName": "使用 Wi-Fi 网络上的 USB 打印机", 
+"name": "使用 Wi-Fi 网络上的 USB 打印机", 
+"summary": "将 USB 打印机连接到 AirPort Extreme 基站，这样，AirPort 网络上的所有电脑（无论安装 Mac OS X v10.2.3 或更高版本，还是安装 Windows XP Service Pack 2）都可以用它来进行打印。"}
+, 
+"aprt2742": {
+"navigation": "false", 
+"content": "<div id='aprt2742' class='apd-topic'><div class='subjectids'><a name='aprt2742'><\/a><a name='alap10989'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>查找 AirPort 设置<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您正在 Macintosh 电脑上使用“AirPort 实用工具”，您可以使用“AirPort 实用工具”中的搜索栏以快速找到您正在查找的设置（比如基站或 Time Capsule 的 IP 地址或广播模式）。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”，它位于“应用程序”文件夹的“实用工具”文件夹中。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在搜索栏中键入单词或短语。<\/span><\/li><li class='li step'><span class='ph cmd'>从列表中选择一种设置以移到该设置。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "查找 AirPort 设置", 
+"name": "查找 AirPort 设置", 
+"summary": "您可以使用“AirPort 实用工具”中的搜索栏来快速找到您要查找的设置。"}
+, 
+"aprt2735": {
+"content": "<div id='aprt2735' class='apd-topic'><div class='subjectids'><a name='aprt2735'><\/a><a name='alap10987'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>关于 AirPort<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 提供了一种简便的方式，可让您在家里或教室的任何地方以无线方式连接到互联网。AirPort 不是使用电缆来创建网络，而是使用无线局域网 (WLAN) 技术以在各台电脑之间提供无线通信服务。<\/p><p class='p'>使用 AirPort，您的电脑不会直接与互联网服务商 (ISP) 创建无线连接。您设置的无线连接是从电脑连接到基站或 Time Capsule（此基站或 Time Capsule 连接在互联网上，或连接在已接入互联网的网络上）。<\/p><\/div><div class='li step p'><span class='ph cmd'>使用“AirPort 实用工具”配置电脑以访问 AirPort 网络，或者设置 AirPort 基站或 Time Capsule。<\/span><p class='p'>在 Mac 上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，“AirPort 实用工具”位于“开始”>“所有程序”>“AirPort”中。<\/p><\/div><\/div><\/div>", 
+"alternativeName": "关于 AirPort", 
+"name": "关于 AirPort", 
+"summary": "AirPort 提供了一种简便的方式，可让您在家里或教室的任何地方以无线方式连接到互联网。"}
+, 
+"aprt2736": {
+"content": "<div id='aprt2736' class='apd-topic'><div class='subjectids'><a name='aprt2736'><\/a><a name='alap10991'><\/a><a name='alap11031'><\/a><a name='alap11855'><\/a><a name='alap12685'><\/a><a name='alap12708'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>使用密码保护无线网络<\/h1><div class='body taskbody'><div class='section context'><p class='p'>若要保护无线网络上的通信，请在 AirPort 基站或 Time Capsule 上开启数据加密。要求加入无线网络的用户输入密码、或者用户名和密码。<\/p><p class='p'>取决于您正在设置的设备和将加入网络的客户端电脑的功能，您可以选取不同类型的密码来保护网络：<\/p><p class='p'><strong class='ph b'>WEP：<\/strong>如果基站支持，请选取此选项并输入一个密码，以使用有线等效保密 (WEP) 密码来保护网络。一些 AirPort Extreme 基站和 AirPort Express 基站支持 40 位和 128 位加密。从“无线安全性”弹出式菜单中选取“WEP 40 位”以获得最高兼容性，或者选取“WEP 128 位”以获得更高的 WEP 安全性。<\/p><p class='p'>如果您选取 128 位加密，只有配备了 128 位加密功能无线联网卡的电脑才能够加入网络。如果您选取 40 位加密，配备了 40 位和 128 位加密功能无线联网卡的电脑都能够加入无线网络，但它们将仅使用 40 位加密加入。<\/p><p class='p'><strong class='ph b'>WPA\/WPA2 个人级：<\/strong>选取此选项以使用 Wi-Fi 保护访问协议来保护网络。选取“密码”，输入介于 8 至 63 个 ASCII 字符的密码，或者选取“预共享密钥”，输入刚好为 64 个十六进制字符的密码。使用 WPA 或 WPA2 的无线客户端电脑都可以加入网络。<\/p><p class='p'><strong class='ph b'>WPA2 个人级：<\/strong>如果只有使用 WPA2 的客户端电脑加入网络，请选取此选项以使用 Wi-Fi 保护访问协议来保护网络。<\/p><p class='p'><strong class='ph b'>WPA\/WPA2 企业级：<\/strong>如果您正在建立的网络包括鉴定服务器，比如远程鉴定拨入用户服务 (RADIUS) 服务器，请选取此选项。输入首选和备用服务器的 IP 地址和端口号，然后输入“共享密钥”（它是服务器的密码）。如果使用 WPA 和 WPA2 的无线客户端电脑将加入网络，则请使用此选项。<\/p><p class='p'><strong class='ph b'>WPA2 企业级：<\/strong>如果您要建立的网络包含鉴定服务器，而且只有使用 WPA2 的客户端电脑将加入网络，则请选取此选项。<\/p><p class='p'><strong class='ph b'>WEP（过渡安全网络）：<\/strong>如果兼容 WEP 和兼容 WPA\/WPA2 的电脑都将加入网络，则请使用此选项。使用刚好由 13 个字符组成的密码。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的无线设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“无线”。<\/span><\/li><li class='li step'><span class='ph cmd'>从“无线安全性”弹出式菜单中选取一种密码方案。<\/span><\/li><li class='li step'><span class='ph cmd'>输入密码，所有用户加入该无线网络都需要这个密码。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果从“无线安全性”弹出式菜单中选取“无”，则在网络覆盖范围内的任何用户都可以访问您的无线网络。<\/p><p class='p'>有关 WPA 个人级和 WPA 企业级的更多信息，请点按下面的链接。<\/p><\/div><\/div>", 
+"keywords": "AirPort 安全性, RADIUS, 建立 AirPort 网络, Wi-Fi 保护访问协议 (WPA), 有线等效保密 (WEP), AirPort Extreme", 
+"name": "使用密码保护无线网络", 
+"alternativeName": "使用密码保护无线网络", 
+"summary": "若要保护无线网络，请从“无线安全性”弹出式菜单（在“AirPort 实用工具”的“AirPort”面板中）选取一种密码方案。"}
+, 
+"aprt2723": {
+"content": "<div id='aprt2723' class='apd-topic'><div class='subjectids'><a name='aprt2723'><\/a><a name='alap10991'><\/a><a name='alap11031'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>隐藏网络的名称<\/h1><div class='body taskbody'><div class='section context'><p class='p'>当您使用 AirPort 基站或 Time Capsule 创建封闭网络时，扫描无线网络的电脑将无法发现该网络名称。用户必须输入准确的网络名称才能加入网络，而且系统可能还会要求他们输入密码。网络名称和密码都是区分大小写的。封闭网络能够为网络提供附加的安全性。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“无线”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“无线网络选项”，然后选择“创建封闭网络”注记格。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>若要加入封闭网络，请从菜单栏的 AirPort 状态菜单中选取“其他”，然后输入网络名称和网络密码（如有必要）。如果您不知道网络名称或密码，请咨询网络管理员。<\/p><\/div><\/div>", 
+"keywords": "AirPort 安全性, 建立 AirPort 网络", 
+"name": "隐藏网络的名称", 
+"alternativeName": "隐藏网络的名称", 
+"summary": "您可以隐藏 Wi-Fi 网络的名称，这样用户必须输入网络的名称之后才能加入该网络。"}
+, 
+"aprt2728": {
+"content": "<div id='aprt2728' class='apd-topic'><div class='subjectids'><a name='aprt2728'><\/a><a name='alap10989'><\/a><a name='alap11038'><\/a><a name='alap12693'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设置远程打印<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果基站或 Time Capsule 已连接在以太网络上，并且您已经将兼容的 USB 打印机连接在它上面，则以太网络上的客户端可以使用此打印机进行打印。这就称为远程打印。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“打印机”，确定打印机在列表中。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>选择“通过 WAN 共享打印机”以共享无线设备 WAN 端口上的打印机。您还可以使用 Bonjour 通过互联网共享打印机。<\/p><\/div><\/div>", 
+"alternativeName": "设置远程打印", 
+"name": "设置远程打印", 
+"summary": "如果基站已连接到以太网络，并且您已经将 USB 打印机连接到基站，则以太网络上的客户端就能够使用该打印机进行打印。"}
+, 
+"aprt2744": {
+"content": "<div id='aprt2744' class='apd-topic'><div class='subjectids'><a name='aprt2744'><\/a><a name='alap10991'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>查看有关基站或 Time Capsule 的信息<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以查看基站或 Time Capsule 设置，比如它的 IP 地址、它正在创建的网络的名称、设备的固件版本以及更多信息。如果您正在尝试解决问题或者与其他用户或网络管理员共享信息，这可能很有用。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您想要使用的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>连按设置的标题来前往“AirPort 实用工具”中该设置的面板。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果您正在 Mac 上使用“AirPort 实用工具”，您还可以在搜索栏中键入词或短语，然后从列表中选取结果以前往“AirPort 实用工具”中该结果的面板。<\/p><\/div><\/div>", 
+"keywords": "建立 AirPort 网络", 
+"name": "查看有关基站或 Time Capsule 的信息", 
+"alternativeName": "查看有关基站或 Time Capsule 的信息", 
+"summary": "使用“AirPort 实用工具”的“摘要”面板来查看基站的设置，例如它的 IP 地址、它所创建的网络的名称、基站的固件版本以及更多。"}
+, 
+"aprt2737": {
+"content": "<div id='aprt2737' class='apd-topic'><div class='subjectids'><a name='aprt2737'><\/a><a name='alap11006'><\/a><a name='alap12689'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>如果 Wi-Fi 网络受到干扰<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果学校或办公室里有几个 Wi-Fi 网络，而其中一个正受到干扰，您不妨更改它所使用的频道。<\/p><p class='p'>默认情况下，当基站或 Time Capsule 接电时，AirPort 软件会自动选择最佳可用频道。如果基站或 Time Capsule 正在遭受干扰，请尝试更改它使用的频道。<\/p><p class='p'>如果您正在 5 千兆赫 (GHz) 的范围内使用 AirPort Extreme，您不能更改它使用的频道。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入基站密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“无线”。<\/span><\/li><li class='li step'><span class='ph cmd'>从“频道”弹出式菜单中选取新的频道。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>相近的无线设备应该至少相隔五个频道。例如，如果无线设备 A 设定为频道 1，则无线设备 B 应该设定为频道 6 或 11。<\/p><p class='p'>Wi-Fi 网络上的电脑会自动调谐到无线设备使用的频道。如果更改了设备的频道，您无需更改连接到无线网络的电脑的频道。<\/p><\/div><\/div>", 
+"keywords": "高抗干扰性, 解决 AirPort 问题", 
+"name": "如果 Wi-Fi 网络受到干扰", 
+"alternativeName": "如果 Wi-Fi 网络受到干扰", 
+"summary": "如果 Wi-Fi 网络受到干扰，您可能需要更改它所使用的频道。"}
+, 
+"button-0": {
+"type": "navigation", 
+"howdyPageID": "ap35497", 
+"alternativeNameStyle": "replace"}
+, 
+"aprt2752": {
+"content": "<div id='aprt2752' class='apd-topic'><div class='subjectids'><a name='aprt2752'><\/a><a name='alap11031'><\/a><a name='alap11855'><\/a><a name='alap12685'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>通过 Wi-Fi 保护访问协议 2 (WPA2) 保护无线网络<\/h1><div class='body taskbody'><div class='section context'><p class='p'>“AirPort 实用工具”支持两种 WPA2 模式：“企业级”模式会将 RADIUS 服务器用于用户鉴定，“个人级”模式则不要求 RADIUS 服务器。<\/p><p class='p'>“企业级”模式专为大型网络而设，很有可能由 IT 专业人员来建立和管理。为建立 WPA 企业级网络，必须首先设置一个 802.1X 连接。802.1X 连接要求鉴定协议，如 TTLS、LEAP 或 PEAP。它还需要一个鉴定服务器来管理网络用户的凭证和证书。<\/p><p class='p'>有关建立 WPA 企业级网络的信息和说明，请点按下面的链接。<\/p><p class='p'><a class='xref' href='#aprt2753'>建立 WPA2 企业级网络<\/a><\/p><p class='p'>个人级模式面向家庭或小型办公室网络，可以由大多数用户设置并管理。个人级模式不需要单独的鉴定服务器。网络用户通常只需要输入用户名称和密码就可以加入网络。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“无线”。<\/span><\/li><li class='li step'><span class='ph cmd'>如果您想要兼容 WPA 和 WPA2 的电脑加入网络，请从“无线安全性”弹出式菜单中选取“WPA\/WPA2 个人级”。如果您只想要兼容 WPA2 的电脑加入网络，请选取“WPA2 个人级”。<\/span><\/li><li class='li step'><span class='ph cmd'>输入一个介于 8 到 63 个 ASCII 字符的 ASCII 密码。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "AirPort 安全性, RADIUS, Wi-Fi 保护访问协议 (WPA)", 
+"name": "通过 Wi-Fi 保护访问协议 2 (WPA2) 保护无线网络", 
+"alternativeName": "通过 Wi-Fi 保护访问协议 2 (WPA2) 保护无线网络", 
+"summary": "AirPort 支持两种 WPA2 模式： 企业级模式，将 RADIUS 服务器用于用户鉴定；个人级模式，不需要 RADIUS 服务器。"}
+, 
+"aprt2738": {
+"content": "<div id='aprt2738' class='apd-topic'><div class='subjectids'><a name='aprt2738'><\/a><a name='alap10991'><\/a><a name='alap11032'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>在一个以太网络中使用多个基站<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以设置多个 AirPort Extreme 基站或 Time Capsule 以创建单个无线网络（称为“漫游”网络）。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>将所有基站和 Time Capsule 连接到以太网络上的同一个子网，并且将同一网络名称和密码指定给每个设备。<\/span><\/li><li class='li step'><span class='ph cmd'>若要使用动态主机配置协议 (DHCP) 将 IP 地址分配给网络上的客户端，请将一个设备设置为 DHCP 服务器。若要这样做：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。选择您正在设置的设备作为 DHCP 服务器，然后点按“手动设置”。<\/p><p class='p'>确定设备分配的 IP 地址范围是真实的。网络地址转换 (NAT) 所使用的专用 IP 地址不能用于漫游。请在工具栏中点按“互联网”，接着点按“互联网连接”，然后从“连接共享”弹出式菜单中选取“分配一个 IP 地址范围”。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>通过关闭 DHCP 和 NAT，将所有其他基站设置为网桥。若要这样做：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>在“AirPort 实用工具”中，选择您想要设置为网桥的设备，然后点按“手动设置”。如有必要，请输入密码。<\/p><p class='p'>请在工具栏中点按“互联网”，接着点按 “互联网连接”，然后从您想要设置为网桥的设备上的“连接共享”弹出式菜单中选取“关闭（网桥模式）”。<\/p><\/li><\/ul><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果您正在使用的无线设备支持 802.11n，您可以通过设置动态无线分布系统来扩展网络的范围。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>相关主题<\/strong><br><div><a class='link' href='#ap11953'>扩展 802.11n 网络的覆盖范围<\/a><\/div><\/div><\/div><\/div>", 
+"keywords": "DHCP, 建立 AirPort 网络, AirPort Extreme", 
+"name": "在一个以太网络中使用多个基站", 
+"alternativeName": "在一个以太网络中使用多个基站", 
+"summary": "您可以在同一个以太网子网中设置多个基站来创建单个无线网络。"}
+, 
+"ap35497": {
+"navigation": "false", 
+"content": "<div class='apd-topic' id='ap35497'><div class='subjectids'><a name='ap35497'><\/a><\/div><h1 class='title topictitle1'>AirPort 实用工具帮助<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>AirPort 实用工具帮助<\/h2><p class='p'>查找有关设置 Apple 无线设备或 Wi-Fi 网络的帮助。<\/p><\/div><\/div><\/div>", 
+"alternativeName": "AirPort 实用工具帮助", 
+"name": "AirPort 实用工具帮助", 
+"class": "default"}
+, 
+"aprt2760": {
+"content": "<div id='aprt2760' class='apd-topic'><div class='subjectids'><a name='aprt2760'><\/a><a name='alap10989'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>将 USB 硬盘连接到基站<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果基站支持的话，您可以将 USB 硬盘连接到基站的 USB 端口，而且网络（有线的和无线的）上的电脑可以连接到该 USB 硬盘以访问、共享和储存文件与数据。<\/p><p class='p'>如果您正在使用 Time Capsule，它已经包含了内置 AirPort 磁盘。您可以将附加的 USB 磁盘连接到 Time Capsule 上的 USB 端口。<\/p><\/div><div class='li step p'><span class='ph cmd'>将硬盘插入到设备背面上的 USB 端口。如果您将 USB 集线器连接在设备上，您可以将几个硬盘连接到它，然后从无线网络访问它们。<\/span><p class='p'>“AirPort 实用工具”不支持格式化磁盘。用电脑格式化该硬盘。在 Macintosh 电脑上，请使用 Mac OS 扩展（又称 HFS Plus）格式来格式化硬盘。在运行 Windows 的电脑上，请使用 FAT32。<\/p><p class='p'>如果您使用的是 Time Capsule，则可以从“AirPort 实用工具”的“磁盘”面板中抹掉内置 AirPort 磁盘的内容。<\/p><\/div><\/div><div class='section postreq'><p class='p'>若要查看有关硬盘的信息，请打开“AirPort 实用工具”，选择基站，然后选取“基站”>“手动设置”。如有必要，请输入基站密码。在工具栏中点按“磁盘”。<\/p><p class='p'>您可以在“文件共享”面板中为硬盘设定访问权限，以及给它创建一个工作组名称。<\/p><p class='p'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/p><\/div><\/div>", 
+"keywords": "设置 AirPort 无线设备, 共享 USB 设备", 
+"name": "将 USB 硬盘连接到基站", 
+"alternativeName": "将 USB 硬盘连接到基站", 
+"summary": "您可以将 USB 硬盘连接到网络，这样网络上的电脑就能够访问该磁盘以共享和储存文件与数据。"}
+, 
+"aprt2753": {
+"content": "<div id='aprt2753' class='apd-topic'><div class='subjectids'><a name='aprt2753'><\/a><a name='alap11031'><\/a><a name='alap11855'><\/a><a name='alap12685'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>建立 WPA2 企业级网络<\/h1><div class='body taskbody'><div class='section context'><p class='p'>建立 WPA2 企业级网络要求设置 RADIUS 服务器来管理和验证网络用户的凭证，如用户名称、密码和用户证书。若要设置 RADIUS 服务器，请参阅它所附带的文稿。服务器设置完后，请按照以下步骤来建立“WPA2 企业级”网络。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“无线”。<\/span><\/li><li class='li step'><span class='ph cmd'>根据您要设置的基站以及将要加入网络的无线客户端电脑的功能，从“无线安全性”弹出式菜单中选取“WPA\/WPA2 企业级”或“WPA2 企业级”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“配置 RADIUS”，然后输入首选和备用 RADIUS 鉴定服务器的 IP 地址、共享密钥（或密码）以及端口。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "AirPort 安全性, RADIUS, Wi-Fi 保护访问协议 (WPA)", 
+"name": "建立 WPA2 企业级网络", 
+"alternativeName": "建立 WPA2 企业级网络", 
+"summary": "建立 WPA2 企业级网络要求设置 RADIUS 服务器来管理和验证网络用户的凭证，如用户名称、密码和用户证书。"}
+, 
+"aprt2739": {
+"content": "<div id='aprt2739' class='apd-topic'><div class='subjectids'><a name='aprt2739'><\/a><a name='alap10989'><\/a><a name='alap10990'><\/a><a name='alap12711'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>控制音频流和视频流的质量<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果 Wi-Fi 网络中的音频流和视频流服务器或其他应用程序具备多址广播功能，您就可以通过设置多址广播速率来控制传输的质量。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“无线”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“无线网络选项”，然后从“多址广播速率”弹出式菜单中选取一个速率。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果多址广播速率设得太高，则只有在网络覆盖范围内、且能够达到已设定的速率的客户端才可以收到传输的信息。<\/p><p class='p'>您可以将多址广播速率设置为 1 兆位\/秒 (Mbps)，使网络的覆盖范围拓宽到默认的范围以外。<\/p><\/div><\/div>", 
+"keywords": "设置 AirPort 无线设备, 使用 AirPort, 多址广播速率", 
+"name": "控制音频流和视频流的质量", 
+"alternativeName": "控制音频流和视频流的质量", 
+"summary": "您可以通过设置多址广播速率来控制 Wi-Fi 网络上的音频\/视频流质量。"}
+, 
+"ap20881": {
+"navigation": "false", 
+"content": "<div id='ap20881' class='apd-topic'><div class='subjectids'><a name='ap20881'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>通过以太广域网端口共享打印机<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您将基站或 Time Capsule 设置为使用以太广域网端口来共享打印机，则不在本地网络上的电脑可以使用它进行打印。例如，如果您在公司，您可以使用在家里的连接到基站的 USB 打印机进行打印。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>请将 USB 打印机连接到 AirPort 基站或 Time Capsule。<\/span><\/li><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>请选择将共享打印机的设备，然后点按“手动设置”。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“打印机”，然后选择“通过以太广域网端口共享打印机”。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "通过以太广域网端口共享打印机", 
+"name": "通过以太广域网端口共享打印机", 
+"summary": "如果您将基站设置为使用以太广域网端口来共享打印机，则不在本地网络上的电脑可以使用它进行打印。"}
+, 
+"aprt2754": {
+"content": "<div id='aprt2754' class='apd-topic'><div class='subjectids'><a name='aprt2754'><\/a><a name='alap11006'><\/a><a name='alap11031'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>如果您忘记了基站密码、Time Capsule 密码或网络密码<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您忘记了基站密码、Time Capsule 密码或网络密码，您可以将设备复位，然后选择新密码。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>在设备接电时，使用笔尖按住复位按钮几秒钟。设备和网络密码会暂时还原为“public”。<\/span><\/li><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择已复位的设备，然后点按“手动设置”。如有必要，请输入密码。默认密码是“public”。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“基站”。<\/span><\/li><li class='li step'><span class='ph cmd'>给设备创建新密码，然后点按“更新”。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果在复位后五分钟内没有做出更改，您必须再次将设备复位。<\/p><\/div><\/div>", 
+"keywords": "AirPort 安全性, 解决 AirPort 问题", 
+"name": "如果您忘记了基站密码、Time Capsule 密码或网络密码", 
+"alternativeName": "如果您忘记了基站密码、Time Capsule 密码或网络密码", 
+"summary": "如果您忘记了密码，请将基站复位并选择一个新密码。"}
+, 
+"aprt2761": {
+"content": "<div id='aprt2761' class='apd-topic'><div class='subjectids'><a name='aprt2761'><\/a><a name='alap11038'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>给 USB 打印机重新命名<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以使用“AirPort 实用工具”更改连接到基站或 Time Capsule 的 USB 打印机的名称。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的基站或 Time Capsule，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“打印机”。<\/span><\/li><li class='li step'><span class='ph cmd'>在“USB 打印机”栏中键入新的名称。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>您还可以将 USB 集线器连接到基站的 USB 端口，然后将多台打印机连接到 USB 集线器。这样您就可以用“AirPort 实用工具”来给所有打印机重新命名。<\/p><\/div><\/div>", 
+"alternativeName": "给 USB 打印机重新命名", 
+"name": "给 USB 打印机重新命名", 
+"summary": "您可以用“AirPort 实用工具”来更改打印机的名称。"}
+, 
+"aprt2755": {
+"content": "<div id='aprt2755' class='apd-topic'><div class='subjectids'><a name='aprt2755'><\/a><a name='alap11032'><\/a><a name='alap12694'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>如果基站或 Time Capsule 已连接到提供 NAT 和 DHCP 的路由器<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果基站或 Time Capsule 已连接到路由器或其他使用网络地址转换 (NAT) 来与网络上的多台电脑共享单个互联网连接的网络设备，并且您的设备正在使用动态主机配置协议 (DHCP) 来提供专用 IP 地址，您需要在基站或 Time Capsule 上关闭 NAT 和 DHCP。<\/p><p class='p'>大多数网络仅需一台设备使用 NAT 和 DHCP 来提供 IP 地址。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“互联网”，然后点按“互联网连接”。<\/span><\/li><li class='li step'><span class='ph cmd'>从“连接共享”弹出式菜单中选取“关闭（网桥模式）”。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>当 NAT 和 DHCP 关闭时，设备用作网络上的有线电脑和无线电脑之间的简单网桥。<\/p><\/div><\/div>", 
+"alternativeName": "如果基站或 Time Capsule 已连接到提供 NAT 和 DHCP 的路由器", 
+"name": "如果基站或 Time Capsule 已连接到提供 NAT 和 DHCP 的路由器", 
+"summary": "如果路由器使用 NAT 和 DHCP，您需要关闭基站或 Time Capsule 上的 NAT 和 DHCP。"}
+, 
+"aprt2748": {
+"content": "<div id='aprt2748' class='apd-topic'><div class='subjectids'><a name='aprt2748'><\/a><a name='alap10991'><\/a><a name='alap12688'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>控制网络的覆盖范围<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以限制 Wi-Fi 网络的覆盖范围，从而通过降低发射功率设置来控制谁可以访问它。当您缩小网络的范围时，只有离基站或 Time Capsule 足够近的电脑才可以加入网络。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您想要控制的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“无线”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“无线网络选项”，然后从“发射功率”弹出式菜单中选取一项设置（百分比越低，网络的覆盖范围越小）。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "建立 AirPort 网络, 发射功率", 
+"name": "控制网络的覆盖范围", 
+"alternativeName": "控制网络的覆盖范围", 
+"summary": "您可以限制无线网络的覆盖范围，从而通过降低发射功率设置来控制谁可以访问它。"}
+, 
+"button-1": {
+"type": "navigation", 
+"howdyPageID": "searchable-landing-com-apple-airportutility-help", 
+"alternativeNameStyle": "replace"}
+, 
+"aprt2756": {
+"content": "<div id='aprt2756' class='apd-topic'><div class='subjectids'><a name='aprt2756'><\/a><a name='alap11032'><\/a><a name='alap12694'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>与多台电脑共享互联网连接<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 基站或 Time Capsule 可以在几台电脑之间共享单个互联网连接。基站或 Time Capsule 使用动态主机配置协议 (DHCP) 和网络地址转换 (NAT) 将 IP 地址提供给 Wi-Fi 网络上的电脑，将互联网信息发送到 Wi-Fi 网络上的电脑。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“互联网”，然后点按“互联网连接”。<\/span><\/li><li class='li step'><span class='ph cmd'>从“连接共享”弹出式菜单中选取“共享公共 IP 地址”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“DHCP”，然后从“DHCP 范围”弹出式菜单中选取一个地址范围。默认情况下，设备使用地址范围 10.0.1.2 至 10.0.1.200。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>您还可以设定其他 DHCP 选项，比如客户端电脑接收的 IP 地址的有效时间、为特定客户端电脑保留特定 IP 地址以及更多选项。<\/p><\/div><\/div>", 
+"alternativeName": "与多台电脑共享互联网连接", 
+"name": "与多台电脑共享互联网连接", 
+"summary": "AirPort 基站能够在若干台电脑之间共享单个互联网连接。"}
+, 
+"aprt2763": {
+"content": "<div id='aprt2763' class='apd-topic'><div class='subjectids'><a name='aprt2763'><\/a><a name='alap12684'><\/a><a name='alap12686'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>关闭 SNMP<\/h1><div class='body taskbody'><div class='section context'><p class='p'>由简单网络管理协议 (SNMP) 管理的网络很容易受到“服务拒绝”的攻击。（SNMP 在“AirPort 实用工具”中是默认打开的。）类似地，如果您允许通过广域网 (WAN) 端口以远程方式配置您的基站，则未经授权的用户也许就能够更改您的网络设置。<\/p><p class='p'>若要帮助保护网络和无线设备，请关闭 SNMP。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“高级”，然后点按“日志与统计数据”。<\/span><\/li><li class='li step'><span class='ph cmd'>取消选择“允许 SNMP 访问”注记格。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>您可以选取在广域网 (WAN) 端口上允许 SNMP，方法是选择“允许 WAN 上的 SNMP”注记格。允许 WAN 端口上的 SNMP 使您能够以远程方式管理设备。<\/p><p class='p'>点按下面的“记录无线网络信息”，以了解如何设置无线设备记录网络信息。<\/p><\/div><\/div>", 
+"keywords": "远程配置, SNMP", 
+"name": "关闭 SNMP", 
+"alternativeName": "关闭 SNMP", 
+"summary": "若要帮助保护网络和基站，请关闭 SNMP。"}
+, 
+"button-2": {
+"type": "navigation", 
+"alternativeNameStyle": "replace"}
+, 
+"aprt2694": {
+"content": "<div id='aprt2694' class='apd-topic'><div class='subjectids'><a name='aprt2694'><\/a><a name='alap10989'><\/a><a name='alap10987'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>更改 AirPort 设置<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以使用“AirPort 实用工具”的“摘要”面板来快速访问您想要更改的 AirPort 设置。<\/p><\/div><div class='li step p'><span class='ph cmd'>请点按基站设置的标题，例如“无线安全性”，以进入到“AirPort 实用工具”中该设置的面板。<\/span><\/div><\/div><\/div>", 
+"alternativeName": "更改 AirPort 设置", 
+"name": "更改 AirPort 设置", 
+"summary": "您可以使用“AirPort 实用工具”的“摘要”面板来快速访问您想要更改的 AirPort 设置。"}
+, 
+"ap11863": {
+"navigation": "false", 
+"content": "<div id='ap11863' class='apd-topic'><div class='subjectids'><a name='ap11863'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>了解 AirPort<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 使您能够在家里的每个房间领略网上世界，而不必使用难看且混乱的电缆将各台接入互联网的电脑连接在一起。有关特定问题的答案，请在栏中键入词或短语。若要浏览 AirPort 的功能，请点按主题。<\/p><\/div><\/div><div class='topic task nested1' id='ap11863-a'><a name='ap11863-a'><!-- --><\/a><h2 class='title topictitle2'>AirPort 的发展<\/h2><div class='body taskbody'><div class='section context'><p class='p'>Apple 在 1999 年推出了 AirPort，这是一种简单易用的无线访问互联网的解决方案。2003 年，AirPort Extreme 利用 802.11g 无线标准使无线连接升上一个新台阶。2004 年，AirPort Express 继续向前推进无线联网的发展，推出了首个基站，它是集成了无线联网、音频、打印和桥接功能的单个便携设备。下一代 AirPort 无线设备是迄今为止速度最快、功能最强大的无线设备。新 AirPort Extreme、新 AirPort Express 和 Time Capsule 基于 IEEE 802.11n 草案规格，将发送速度提升为从前的五倍，将范围扩大了两倍。<\/p><\/div><\/div><\/div><div class='topic task nested1' id='ap11863-c'><a name='ap11863-c'><!-- --><\/a><h2 class='title topictitle2'>设置 AirPort 无线设备<\/h2><div class='body taskbody'><div class='section context'><p class='p'>设置 AirPort Extreme 基站、AirPort Express 或 Time Capsule 变得前所未有的容易。“AirPort 实用工具”替您完成了大部分工作，它可以建立网络以及配置电脑以访问由 AirPort 无线设备创建的 AirPort 网络。将设备接电并且状态指示灯稳定亮起后，请打开“AirPort 实用工具”，然后按照屏幕指示进行操作。若要设置或更改其他设置（比如高级安全选项、封闭网络、DHCP 租期、访问控制、WAN 保密或功率控制），您可以使用“AirPort 实用工具”来手动设置设备。<\/p><\/div><\/div><\/div><div class='topic task nested1' id='ap11863-e'><a name='ap11863-e'><!-- --><\/a><h2 class='title topictitle2'>使用 AirPort<\/h2><div class='body taskbody'><div class='section context'><p class='p'>与多台电脑共享单个互联网连接，并可以在家里或办公室的任何地方访问 Web 和收发电子邮件。以无线方式与任一位家人或同事交换文件、玩游戏以及共享硬盘或打印机。使用 AirPort Express，事实上您可以在家里的任何房间享受您的 iTunes 音乐资料库。<\/p><\/div><\/div><\/div><\/div>", 
+"alternativeName": "了解 AirPort", 
+"name": "了解 AirPort", 
+"summary": "AirPort Extreme 使您能够在家里的每个房间领略网上世界，而不必使用难看且混乱的电缆将各台接入互联网的电脑连接在一起。"}
+, 
+"aprt2771": {
+"content": "<div id='aprt2771' class='apd-topic'><div class='subjectids'><a name='aprt2771'><\/a><a name='alap10989'><\/a><a name='alap11032'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设定基站或 Time Capsule 的 DHCP 选项<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您已经将基站或 Time Capsule 设置为使用动态主机配置协议 (DHCP) 来将 IP 地址提供给无线网络上的电脑和设备，您可以选取设备使用的 IP 地址范围、确定电脑 IP 地址的有效时间、输入欢迎信息以及保留特定 IP 地址以分配给加入网络的特定电脑。<\/p><p class='p'>打开“AirPort 实用工具”（在 Mac 上，它位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，它位于“开始”>“所有程序”>“AirPort”中），在列表中选择设备，然后点按“手动设置”。如有必要，请输入密码。在工具栏中点按“互联网”，然后点按“DHCP”。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>从“DHCP 范围”弹出式菜单中选取一个 IP 地址范围。根据您想要基站提供的地址，选取 10.0、192.168 或 172.16，然后在“DHCP 开始地址”栏和“DHCP 结束地址”栏中分别输入开始地址和结束地址。<\/span><\/li><li class='li step'><span class='ph cmd'>在“DHCP 租期”栏中输入一个数字，然后从弹出式菜单中选取“分钟”、“小时”或“天”。<\/span><\/li><li class='li step'><span class='ph cmd'>在“DHCP 信息”栏中键入欢迎信息。电脑加入网络时将显示此信息。<\/span><\/li><li class='li step'><span class='ph cmd'>若要将特定 IP 地址提供给无线网络上的特定电脑，请点按“DHCP 保留”列表下面的添加按钮 (+)，然后按照屏幕指示给保留的地址命名。按 MAC 地址或 DHCP 客户端 ID 来保留地址。如果选取 MAC 地址，请点按“继续”并输入 MAC 地址和特定的 IP 地址。<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>如果网络被设置为使用网络上的轻量级目录访问协议 (LDAP) 服务器，则可以在“LDAP 服务器”栏中输入服务器的地址，而网络上的电脑将有权访问它。<\/p><\/div><\/div>", 
+"keywords": "DHCP, 设置 AirPort 无线设备", 
+"name": "设定基站或 Time Capsule 的 DHCP 选项", 
+"alternativeName": "设定基站或 Time Capsule 的 DHCP 选项", 
+"summary": "如果您已经设置基站使用 DHCP 来提供 IP 地址给无线网络上的电脑和设备，则可以为基站设定 DHCP 选项。"}
+, 
+"aprt2695": {
+"content": "<div id='aprt2695' class='apd-topic'><div class='subjectids'><a name='aprt2695'><\/a><a name='alap10991'><\/a><a name='alap11846'><\/a><a name='alap11855'><\/a><a name='alap12688'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>为网络设定无线选项<\/h1><div class='body taskbody'><div class='section context'><p class='p'>使用“AirPort 实用工具”中的“无线”面板来管理网络的无线设置。<\/p><p class='p'>若要找到“无线”面板，请打开“AirPort 实用工具”，选择基站或 Time Capsule（如果您正在使用一个），然后选取“基站”>“手动设置”。如有必要，请输入设备密码。在工具栏中点按“AirPort”，然后点按“无线”。<\/p><p class='p'>在运行 Mac OS X 的电脑上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，“AirPort 实用工具”位于“开始”>“所有程序”>“AirPort”中。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>将网络模式设定为创建无线网络、加入无线分布系统 (WDS) 或扩展无线网络（如果设备支持它并且您计划将其他 802.11n 设备连接到网络）。<\/span><\/li><li class='li step'><span class='ph cmd'>给无线网络命名。<\/span><\/li><li class='li step'><span class='ph cmd'>取决于您的基站和将加入网络的客户端电脑，请将广播模式设定为“802.11n（兼容 802.11b\/g）”、“仅 802.11n (2.4 GHz)”、“802.11n（兼容 802.11a）”或“仅 802.11n (5 GHz)”。<\/span><\/li><li class='li step'><span class='ph cmd'>取决于您正在设置的基站和将加入网络的客户端电脑的功能，为使用 WEP 或 WPA 的无线网络设定无线安全性级别。建议使用“WPA\/WPA2 个人级”安全性级别。<\/span><\/li><li class='li step'><span class='ph cmd'>若要设定附加选项，例如多址广播速率和发射功率，请点按“无线网络选项”。<\/span><\/li><\/ul><\/div><\/div>", 
+"alternativeName": "为网络设定无线选项", 
+"name": "为网络设定无线选项", 
+"summary": "使用“AirPort 实用工具”中的“无线”面板来管理基站的无线设置。"}
+, 
+"aprt2758": {
+"content": "<div id='aprt2758' class='apd-topic'><div class='subjectids'><a name='aprt2758'><\/a><a name='alap12696'><\/a><a name='alap12698'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设置网络上的默认主机<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以将 Wi-Fi 网络上的一台电脑设置为默认主机，从而使这台电脑面向于互联网并接收所有入站数据流。如果您使用网络上的电脑来玩网络游戏，或者如果您想要通过单台电脑发送所有互联网通信，这可能很有用。<\/p><p class='p'>基站或 Time Capsule 需要被设置为使用动态主机配置协议 (DHCP) 和网络地址转换 (NAT) 来共享它的互联网连接。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“互联网”，然后点按“NAT”。<\/span><\/li><li class='li step'><span class='ph cmd'>选择“启用默认主机于”，然后给网络上您想要将其设置为默认主机的电脑分配 IP 地址。默认地址是 10.0.1.25。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "端口映射, 网络地址转换 (NAT)", 
+"name": "设置网络上的默认主机", 
+"alternativeName": "设置网络上的默认主机", 
+"summary": "您可以设置网络上的电脑为默认主机。 这台电脑将面向于互联网并接收所有入站数据流。"}
+, 
+"aprt2757": {
+"content": "<div id='aprt2757' class='apd-topic'><div class='subjectids'><a name='aprt2757'><\/a><a name='alap11032'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>为客户端电脑提供特定的 DHCP 地址<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以将 802.11n 基站或 Time Capsule 设置为给网络上的客户端电脑保留 DHCP 地址。当那些客户端电脑加入网络时，基站或 Time Capsule 会将同一个 DHCP 地址提供该客户端。<\/p><p class='p'>基站或 Time Capsule 必须先被设置为使用 DHCP 给网络上的客户端电脑提供 IP 地址，然后您才可以保留 DHCP。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“互联网”，然后点按“DHCP”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“DHCP 保留”列表下面的添加按钮 (+)，然后按照屏幕指示来保留 DHCP 地址。您将需要知道为其保留地址的客户端电脑的 MAC 地址，并且您将需要决定想要从 DHCP 范围中保留哪个地址。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "DHCP", 
+"name": "为客户端电脑提供特定的 DHCP 地址", 
+"alternativeName": "为客户端电脑提供特定的 DHCP 地址", 
+"summary": "您可以设置基站为网络上的客户端电脑保留 DHCP 地址。"}
+, 
+"aprt2759": {
+"content": "<div id='aprt2759' class='apd-topic'><div class='subjectids'><a name='aprt2759'><\/a><a name='alap12702'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设置用于连接到 Wi-Fi 网络的磁盘的用户帐户<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以为无线网络的用户设置帐户，以此来控制用户如何共享已连接到基站的 USB 硬盘。如果您正在使用 Time Capsule，您可以为内置 AirPort 磁盘的用户设置帐户。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“磁盘”，然后点按“文件共享”。<\/span><\/li><li class='li step'><span class='ph cmd'>从“保护共享磁盘”弹出式菜单中选取“使用帐户”，然后点按“配置帐户”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按添加按钮 (+)，输入用户名称，然后给用户创建密码。<\/span><\/li><li class='li step'><span class='ph cmd'>根据您要指定给此用户的访问权限，从“文件共享访问”弹出式菜单中选取“读取和写入”、“只读”或“不被允许”。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "设置用于连接到 Wi-Fi 网络的磁盘的用户帐户", 
+"name": "设置用于连接到 Wi-Fi 网络的磁盘的用户帐户", 
+"summary": "您可以为无线网络的用户设置帐户。"}
+, 
+"aprt2773": {
+"content": "<div id='aprt2773' class='apd-topic'><div class='subjectids'><a name='aprt2773'><\/a><a name='alap11037'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>使用 AirPort Express 通过 AirPlay 播放音乐<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您将 AirPort Express 连接到立体声或有源扬声器，则可以使用 AirPlay 来播放 iTunes 音乐。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>用 AirPort Express 顶部的迷你插孔将立体声或有源扬声器连接到 AirPort Express，然后将 AirPort Express 插入到墙上的插座。<\/span><\/li><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“音乐”，然后选择“启用 AirPlay”注记格。<\/span><\/li><li class='li step'><span class='ph cmd'>输入 iTunes 扬声器的名称和密码。此名称将显示在 iTunes 窗口底部的弹出式菜单中。<\/span><p class='p'>如果您是首次设置 AirPort Express，请选取“基站”>“向导”，然后按照屏幕指示进行操作。<\/p><\/li><\/ol><\/div><div class='section postreq'><p class='p'>AirPort Express 已连接并被正确设置后，请打开 iTunes，然后从 iTunes 窗口底部的弹出式菜单中选取 AirPort Express。<\/p><\/div><\/div>", 
+"keywords": "AirPort Express", 
+"name": "使用 AirPort Express 通过 AirPlay 播放音乐", 
+"alternativeName": "使用 AirPort Express 通过 AirPlay 播放音乐", 
+"summary": "如果您将 AirPort Express 连接到立体声或有源扬声器，则可以使用 AirPlay 来播放 iTunes 音乐。"}
+, 
+"aprt2774": {
+"content": "<div id='aprt2774' class='apd-topic'><div class='subjectids'><a name='aprt2774'><\/a><a name='alap11031'><\/a><a name='alap12679'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>控制用户何时能访问网络<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以控制电脑可以访问 Wi-Fi 网络的时间和日期。您可以确定用户何时可以使用网络来访问互联网、共享文件或玩游戏。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择基站或 Time Capsule，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“访问控制”。<\/span><\/li><li class='li step'><span class='ph cmd'>请点按添加按钮 (+)，然后输入您允许其访问网络的电脑的 MAC 地址和描述或名称。您还可以点按“本机”以添加您正在使用的电脑的 MAC 地址和名称。<\/span><\/li><li class='li step'><span class='ph cmd'>从弹出式菜单中选取一个值。从“天数”弹出式菜单中选取星期或“每天”，然后从其他弹出式菜单中选取“全天”或“之间”。如果选取“之间”，则可以通过连按时间栏来编辑该日的时间。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果未列出任何电脑，则可以调整任何加入网络的用户的默认行为，方法是点按“编辑”并从弹出式菜单中选取值。<\/p><\/div><\/div>", 
+"keywords": "访问控制, AirPort 安全性", 
+"name": "控制用户何时能访问网络", 
+"alternativeName": "控制用户何时能访问网络", 
+"summary": "您可以确定用户何时可以使用网络来访问互联网、共享文件或玩游戏。"}
+, 
+"aprt2697": {
+"content": "<div id='aprt2697' class='apd-topic'><div class='subjectids'><a name='aprt2697'><\/a><a name='alap10990'><\/a><a name='alap10991'><\/a><a name='alap11035'><\/a><a name='alap11037'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>扩展无线网络的覆盖范围<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以将多个 AirPort Extreme 基站或 AirPort Express 基站设置为无线分布系统 (WDS)，以扩大无线网络的覆盖范围。当您在 WDS 中以无线方式连接基站时，应当将各个基站设置为主基站、远程基站或中继基站。<\/p><div class='note note'><span class='notetitle'>注：<\/span> 如果您正在扩展 802.11n 无线网络的范围，要获得简要说明，请点按以下链接。<\/div><p class='p'><a class='xref' href='#ap11953'>扩展 802.11n 网络的覆盖范围<\/a><\/p><p class='p'>主基站连接到互联网，然后与远程和中继基站共享它的连接。远程基站可以轻松地共享主基站的互联网连接。中继基站共享主基站的互联网连接并将连接传输给其他远程基站。<\/p><p class='p'>所有这三种基站配置（主基站、远程基站和中继基站）也能够以无线方式与客户端电脑共享主基站的互联网连接，或者说，如果这些客户端电脑是通过以太网连接到基站的，则可以通过以太网连接来共享此连接。<\/p><p class='p'>在 WDS 中设置基站时，您需要知道每个基站的 AirPort ID。AirPort ID 也被称为媒介访问控制 (MAC) 地址，印于 AirPort Extreme 基站底部的标签上，紧挨着 AirPort 符号，或者在 AirPort Express 基站的电源适配器那侧。若要更轻松地设置 WDS，请将所有的基站放在桌面上，然后给它们接上电源。<\/p><p class='p'>若要开始设置 WDS，请打开“AirPort 实用工具”，选择无线设备，然后选取“基站”>“手动设置”。如有必要，请输入密码。在工具栏中点按“AirPort”，然后点按“无线”。<\/p><p class='p'>在运行 Mac OS X 的电脑上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；而在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>从“无线模式”弹出式菜单中选取“加入 WDS 网络”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“WDS”。<\/span><\/li><li class='li step'><span class='ph cmd'>请执行以下一项操作：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>如果您正在设置 WDS 主基站，请点按添加按钮 (+)，并输入 WDS 远程基站的 AirPort ID 或无线 MAC 地址。<\/p><\/li><li class='li choice'><p class='p'>如果您正在设置远程基站，请输入 WDS 主基站的 AirPort ID 或无线 MAC 地址。<\/p><\/li><li class='li choice'><p class='p'>如果您正在设置中继基站，请输入 WDS 主基站的 AirPort ID 或无线 MAC 地址，然后点按添加按钮 (+) 以输入 WDS 远程基站的 AirPort ID 或无线 MAC 地址。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>请将同一网络名称或密码用于 WDS 中的所有基站。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，再点按“无线”，然后为 WDS 中的各个基站使用相同的频段。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>默认情况下，“允许无线客户端”注记格是选定的。如果您取消选择“允许无线客户端连接到此基站”注记格，并且稍后想更改基站上的设置，您必须使用以太网电缆连接至基站的 LAN 端口。如果不重新配置基站，您将无法以无线方式连接至基站。<\/p><p class='p'>如果您的基站使用以太网连接，请参阅“在一个以太网络中使用多个基站”以了解如何扩展无线网络的范围。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>相关主题<\/strong><br><div><a class='link' href='#aprt2738'>在一个以太网络中使用多个基站<\/a><\/div><\/div><\/div><\/div>", 
+"keywords": "AirPort Express, 建立 AirPort 网络, 使用 AirPort, 无线分布系统 (WDS), AirPort Extreme", 
+"name": "扩展无线网络的覆盖范围", 
+"alternativeName": "扩展无线网络的覆盖范围", 
+"summary": "您可以将多个 AirPort Extreme 基站或 AirPort Express 基站设置为无线分布系统以扩展网络的覆盖范围。"}
+, 
+"aprt2698": {
+"content": "<div id='aprt2698' class='apd-topic'><div class='subjectids'><a name='aprt2698'><\/a><a name='alap10991'><\/a><a name='alap11031'><\/a><a name='alap12679'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>控制对无线网络的访问<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以使用访问控制来指定哪些电脑能够通过无线网络发送或接收信息。如果无线设备支持它，您还可以控制电脑能够访问网络的时间和天数。<\/p><p class='p'>访问控制会阻止不在访问控制列表中的电脑访问 Wi-Fi 网络。<\/p><p class='p'>使用“AirPort 实用工具”来设定访问选项。打开“AirPort 实用工具”，选择无线设备，然后选取“基站”>“手动设置”。如有必要，请输入密码。在工具栏中点按“AirPort”，然后点按“访问控制”。<\/p><p class='p'>在运行 Mac OS X 的电脑上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，“AirPort 实用工具”位于“开始”>“所有程序”>“AirPort”中。<\/p><\/div><div class='li step p'><span class='ph cmd'>根据您正在设置的无线设备，从“MAC 地址访问控制”弹出式菜单中选取“本地”（在某些 AirPort 基站上可用）、“定时访问”或“RADIUS”。<\/span><ul class='ul'><li class='li'><p class='p'>如果选取“本地”，则请点按添加按钮 (+)，并输入您想要其访问网络的客户端的 AirPort ID 或无线 MAC 地址，或者点按“本电脑”以添加您正在使用的电脑的 AirPort ID。用描述字段在列表中输入电脑的名称。<\/p><\/li><li class='li'><p class='p'>如果选取“定时访问”，则请点按添加按钮 (+)，并输入您要允许其访问网络的电脑的 MAC 地址、描述或名称。您也可以点按“本机”以添加您正在用于设置此基站的电脑的 MAC 地址和名称。从弹出式菜单中选取一个值。从“天数”弹出式菜单中选取星期中的一天或“每天”，然后从“其他”弹出式菜单中选取“全天”或“之间”。如果选取“之间”，则可以通过连按时间栏来编辑该日的时间。<\/p><\/li><li class='li'><p class='p'>如果选取“RADIUS”，则请输入 RADIUS 服务类型、RADIUS IP 地址、共享密钥以及首选 RADIUS 服务器的首选端口。如果有备选 RADIUS 服务器，则请输入其信息。如果没有该信息，请咨询服务器管理员。<\/p><\/li><\/ul><\/div><\/div><div class='section postreq'><p class='p'>如果您正在无线分布系统 (WDS) 中使用本地访问控制，请将访问控制列表拷贝到网络上的所有基站。<\/p><\/div><\/div>", 
+"keywords": "访问控制, AirPort 安全性, 建立 AirPort 网络", 
+"name": "控制对无线网络的访问", 
+"alternativeName": "控制对无线网络的访问", 
+"summary": "使用访问控制，您就可以指定哪些电脑可以访问无线网络。"}
+, 
+"ap11953": {
+"content": "<div id='ap11953' class='apd-topic'><div class='subjectids'><a name='ap11953'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>扩展 802.11n 网络的覆盖范围<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您要连接另一个 802.11n 基站或 Time Capsule，则使用“AirPort 实用工具”可轻松扩展 802.11n 网络的覆盖范围。连接两个 802.11n 设备会极大地简化 WDS 设置过程。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>请打开“AirPort 实用工具”，然后选择将要连接到互联网的基站或 Time Capsule。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“手动设置”。如有必要，请输入基站密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“AirPort”，然后点按“无线”。<\/span><\/li><li class='li step'><span class='ph cmd'>从“无线模式”弹出式菜单中选取“创建无线网络”，然后选择“允许此网络被扩展”注记格。<\/span><\/li><li class='li step'><span class='ph cmd'>下一步，请选择将扩展此网络的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>从“无线模式”弹出式菜单中选取“扩展无线网络”，然后从“网络名称”弹出式菜单中选取您想要扩展的网络。<\/span><\/li><li class='li step'><span class='ph cmd'>如有必要，请输入网络和设备密码。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果您的基站使用以太网连接，请参阅“在一个以太网络中使用多个基站”以了解如何扩展无线网络的范围。<\/p><p class='p'>如果您要扩展使用 802.11g 或 802.11b 的无线网络的覆盖范围，请查阅 Apple 支持网站。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>相关主题<\/strong><br><div><a class='link' href='#aprt2738'>在一个以太网络中使用多个基站<\/a><\/div><\/div><div class='linklist linklist'><strong>打开<\/strong><br><div><a class='link' href='http:\/\/www.apple.com.cn\/support\/airport\/' target='_blank'>AirPort 支持网站<\/a><\/div><\/div><\/div><\/div>", 
+"alternativeName": "扩展 802.11n 网络的覆盖范围", 
+"name": "扩展 802.11n 网络的覆盖范围", 
+"summary": "如果您准备连接另一个 802.11n 基站，则使用“AirPort 实用工具”扩展 802.11n 网络的覆盖范围是很简单的事情。"}
+, 
+"aprt2775": {
+"content": "<div id='aprt2775' class='apd-topic'><div class='subjectids'><a name='aprt2775'><\/a><a name='alap12692'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设置基站或 Time Capsule 使用 Bonjour<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Bonjour 有时被称为零配置联网，它是一种联网技术，允许设备自动互相发现而无须任何配置或网络设置。<\/p><p class='p'>某些版本的 AirPort Extreme 基站和所有版本的 Time Capsule 都支持使用 Bonjour 在互联网上广告服务。这要求使用您从互联网服务商 (ISP) 或网络管理员处收到的动态 DNS 主机名（或动态全局主机名）。<\/p><p class='p'>通过给您的 AirPort 无线设备分配动态全局主机名，您可以从当前局域网的外部访问该设备，即使公共 IP 地址每间隔固定时间进行更改也可以访问。<\/p><p class='p'>获得帐户信息后，请按照这些说明将信息输入到“AirPort 实用工具”。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>在列表中选择设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“基站”或“Time Capsule”，然后点按名称栏旁边的“编辑”。<\/span><\/li><li class='li step'><span class='ph cmd'>选择“使用动态全局主机名”，然后输入帐户信息。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果您需要更多有关 Bonjour 支持的信息，请咨询 ISP 或网络管理员。<\/p><\/div><\/div>", 
+"alternativeName": "设置基站或 Time Capsule 使用 Bonjour", 
+"name": "设置基站或 Time Capsule 使用 Bonjour", 
+"summary": "Bonjour 是一种联网技术，允许设备自动互相发现而无须任何配置或网络设置。"}
+, 
+"aprt2699": {
+"content": "<div id='aprt2699' class='apd-topic'><div class='subjectids'><a name='aprt2699'><\/a><a name='alap11031'><\/a><a name='alap12679'><\/a><a name='alap12685'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设置 RADIUS 访问控制<\/h1><div class='body taskbody'><div class='section context'><p class='p'>远程鉴定拨入用户服务 (RADIUS) 是一种客户端\/服务器协议，它允许远程访问服务器来鉴定远离中央数据库的无线用户，无需在网络中的每个设备上维护用户信息。<\/p><p class='p'>RADIUS 服务器设置完成后（请参阅服务器附带的文稿），请打开“AirPort 实用工具”，选择无线设备，然后选取“基站”>“手动设置”。如有必要，请输入密码。在工具栏中点按“AirPort”，然后点按“访问控制”。<\/p><p class='p'>在运行 Mac OS X 的电脑上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，“AirPort 实用工具”位于“开始”>“所有程序”>“AirPort”中。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>从“MAC 地址访问控制”弹出式菜单中选取“RADIUS”。<\/span><\/li><li class='li step'><span class='ph cmd'>根据如何设置 RADIUS 服务器，从“RADIUS 类型”弹出式菜单中选取“默认”或“备用”。<\/span><\/li><li class='li step'><span class='ph cmd'>输入 RADIUS 服务器的 IP 地址和其他信息。如果您不确定要输入什么信息，请咨询 RADIUS 服务器管理员。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "访问控制, AirPort 安全性, RADIUS", 
+"name": "设置 RADIUS 访问控制", 
+"alternativeName": "设置 RADIUS 访问控制", 
+"summary": "RADIUS 允许您在服务器上的中央数据库中保留用户描述文件，而不是将信息储存在各个基站上。"}
+, 
+"aprt2769": {
+"content": "<div id='aprt2769' class='apd-topic'><div class='subjectids'><a name='aprt2769'><\/a><a name='alap12702'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>保护已连接在 AirPort 基站上的硬盘<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果基站支持连接到 USB 硬盘，或者您正在使用带内置 AirPort 磁盘的 Time Capsule，您可以加密对磁盘的访问。如果您已经在基站上设置用户帐户，则可以在每个用户的基础上来保护硬盘，或者通过给磁盘指定密码。<\/p><p class='p'>请打开“AirPort 实用工具”，选择基站或 Time Capsule，然后选取“基站”>“手动设置”。如有必要，请输入设备密码。点按“磁盘”。<\/p><p class='p'>在运行 Mac OS X 的电脑上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，“AirPort 实用工具”位于“开始”>“所有程序”>“AirPort”中。<\/p><\/div><div class='li step p'><span class='ph cmd'>从“保护共享磁盘”弹出式菜单中选取“使用帐户”或“使用单个密码”。<\/span><ul class='ul'><li class='li'><p class='p'>如果选取“使用单个密码”，则请输入密码。用户必须输入此密码才能访问磁盘。<\/p><\/li><li class='li'><p class='p'>如果选取“使用帐户”，则用户必须在“AirPort 实用工具”的“帐户”面板中，用您为他们设置的用户名称和密码进行鉴定。有关设置用户帐户的信息，请点按下面的链接。<\/p><\/li><\/ul><\/div><\/div><div class='section postreq'><p class='p'>您还可以控制客人对磁盘的访问，允许客人具有只读权限、读和写权限或没有权限。<\/p><p class='p'>如果您更改保护磁盘的方式（从用户帐户到设备或磁盘密码），或者如果您更改帐户的名称，用户可能不能访问磁盘上的所有文件。<\/p><\/div><\/div>", 
+"alternativeName": "保护已连接在 AirPort 基站上的硬盘", 
+"name": "保护已连接在 AirPort 基站上的硬盘", 
+"summary": "您可以在每个用户的基础上或通过给磁盘分配密码，保护对已连接到基站的 USB 硬盘的访问。"}
+, 
+"local-searchtopichead-com-apple-airportutility-help": {
+"name": "本地可搜索的内容", 
+"navigation": "false"}
+, 
+"ap35497-a": {
+"name": "关于 AirPort"}
+, 
+"cpap0006": {
+"content": "<div id='cpap0006' class='apd-topic'><div class='subjectids'><a name='cpap0006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>基站和 Time Capsule 端口可以连接什么设备？<\/h1><div class='body taskbody'><div class='section context'><p class='p'>使用此表格了解 AirPort 基站或 Time Capsule 可以连接什么设备。<\/p><\/div><div class='example'><table cellpadding='4' cellspacing='0' summary='' border='1' class='simpletable'><tr class='sthead'><th valign='bottom' align='left' id='d12693e59' class='stentry'>符号<\/th><th valign='bottom' align='left' id='d12693e62' class='stentry'>端口<\/th><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/wani.gif' alt='广域网图标'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>10\/100\/1000Base-T 以太广域网端口<\/p><p class='p'>连接 DSL 调制解调器或线缆调制解调器，或连接到具有互联网访问的现有以太网络。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/lan.gif' alt='局域网图标'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>10\/100\/1000Base-T 以太局域网端口<\/p><p class='p'>连接本地以太网电脑（未接入互联网的电脑）和打印机。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/USB.gif' alt='USB 图标'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>通用串行总线 (USB) 打印机或硬盘端口<\/p><p class='p'>连接 USB 打印机，从而使连接到 AirPort 网络的电脑可以共享打印机。如果您的设备支持此功能，您可以连接一个兼容的 USB 硬盘，以便连接在网络上的电脑可以访问该磁盘，或者您可以连接一个 USB 集线器，然后同时连接打印机和硬盘。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/adpt.gif' alt='电源适配器端口'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>电源适配器端口<\/p><p class='p'>将 AirPort Extreme 基站电源适配器的一端连接到端口中，然后将另一端插入电源插座中。<\/p><\/td><\/tr><\/table><\/div><\/div><\/div>", 
+"alternativeName": "基站和 Time Capsule 端口可以连接什么设备？", 
+"name": "基站和 Time Capsule 端口可以连接什么设备？", 
+"summary": "使用此表格了解 AirPort 基站或 Time Capsule 可以连接什么设备。"}
+, 
+"ap35497-b": {
+"name": "设置 AirPort 无线设备"}
+, 
+"ap35497-c": {
+"name": "设置 Wi-Fi 网络"}
+, 
+"ap35497-d": {
+"name": "解决问题"}
+, 
+"alap11006": {
+"content": "<div id='alap11006' class='apd-topic'><div class='subjectids'><a name='alap11006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>指示灯闪烁的含义？<\/h1><div class='body taskbody'><div class='section context'><p class='p'>下表描述了 AirPort Extreme 802.11n 基站、Time Capsule 和 AirPort Express 的状态指示灯的行为。AirPort Express 状态指示灯不呈蓝色闪烁。<\/p><\/div><div class='example'><table cellpadding='4' cellspacing='0' summary='' border='1' class='simpletable'><tr class='sthead'><th valign='bottom' align='left' id='d24e59' class='stentry'>AirPort 指示灯<\/th><th valign='bottom' align='left' id='d24e62' class='stentry'>状态\/说明<\/th><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>熄灭<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>设备未接电。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>呈绿色闪烁<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>设备正在启动。<\/p><p class='p'>如果您从“状态指示灯”弹出式菜单（在“AirPort 实用工具”的 AirPort 设置的“基站”面板上）中选取“活动时闪烁”，状态指示灯可能会呈绿色闪烁，以表示正常活动。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>呈绿色亮起<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>设备已开启并正常工作。如果您从“状态指示灯”弹出式菜单（在“AirPort 实用工具”的 AirPort 设置的“基站”面板上）中选取“活动时闪烁”，状态指示灯可能会呈绿色闪烁，以表示正常活动。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>呈琥珀色闪烁<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>设备正在报告问题。请参阅下文。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>呈琥珀色亮起<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>设备正在完成它的启动序列。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>呈琥珀色和绿色闪烁<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>可能存在启动问题。设备将重新启动并再试一次。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>呈蓝色亮起<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>设备已准备好允许无线客户端加入网络。<\/p><\/td><\/tr><\/table><\/div><\/div><div class='section postreq'><p class='p'>有关指示灯呈琥珀色闪烁的原因的信息，请打开“AirPort 实用工具”，选择设备，然后从“基站”菜单中选取“手动设置”。如有必要，请输入密码，然后点按“基站状态”以显示有关指示灯闪烁的信息。<\/p><\/div><\/div>", 
+"alternativeName": "指示灯闪烁的含义？", 
+"name": "指示灯闪烁的含义？", 
+"summary": "下表描述了 AirPort Extreme 802.11n 基站、Time Capsule 和 AirPort Express 的状态指示灯的行为。"}
+, 
+"aprt2700": {
+"content": "<div id='aprt2700' class='apd-topic'><div class='subjectids'><a name='aprt2700'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>给基站或 Time Capsule 命名并创建密码<\/h1><div class='body taskbody'><div class='section context'><p class='p'>给无线设备命名，这样当网络中有多个设备时，您才可以轻松地识别它。这使查找设备的位置变得容易。无线设备的名称会显示在“AirPort 实用工具”左侧的列表中。您还可以用密码来保护无线设备。这确保只有知道密码的人能够更改设置。<\/p><p class='p'>如果您正在使用简单网络管理协议 (SNMP) 来监视设备的活动，则联系方式和位置信息可能是有用的。<\/p><\/div><\/div><div class='section postreq'><p class='p'>选择“允许通过 WAN 进行配置”以通过以太广域网端口配置无线设备。这使您通过网络连接时能够更改设置。如果无线设备支持包括域名服务的帐户，您可以选择“允许使用 Bonjour 通过互联网进行设置”注记格，以便能够通过互联网访问此基站。<\/p><p class='p'>如果您有权访问网络时间服务器（在您的网络上或在互联网上），您可以选择“自动设定时间”注记格并选取网络时间服务器。如果设备支持的话，您还可以从弹出式菜单中选取时区。这会确保您为设备设定了正确的时间，如果您正在监视日志，这会很有用。<\/p><\/div><\/div>", 
+"keywords": "设置 AirPort 无线设备", 
+"name": "给基站或 Time Capsule 命名并创建密码", 
+"alternativeName": "给基站或 Time Capsule 命名并创建密码", 
+"summary": "给基站命名，这样您就可以识别它，以及使用密码来保护基站。"}
+, 
+"offline-message-com-apple-airportutility-help": {
+"navigation": "false", 
+"content": "<div id='offline-message-com-apple-airportutility-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-airportutility-help'><\/a><\/div><h1 class='title topictitle1'>内容不可用<\/h1><div class='body conbody'><p class='p'>此信息不可用，因为您的电脑尚未接入互联网。<\/p><p class='p'>若要查看此信息，请将您的电脑连接到互联网。如果您遇到连接问题，请使用“网络诊断”。<\/p><\/div><\/div>", 
+"alternativeName": "内容不可用", 
+"name": "内容不可用", 
+"class": "content-not-available-message"}
+, 
+"aprt2702": {
+"content": "<div id='aprt2702' class='apd-topic'><div class='subjectids'><a name='aprt2702'><\/a><a name='alap12704'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>为无线设备设定日期和时间<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您将基站或 Time Capsule 设置为将状态信息记录到 Mac OS X 系统日志（或 syslog 主机），或者您正在支持定时用户访问的网络上使用它，您需要将基站或 Time Capsule 设定为自动设定日期与时间。这确保会日志的准确性，并确保用户可以在正确时间访问网络。<\/p><p class='p'>若要自动设定时间，您必须有权访问网络上或互联网上的网络时间服务器 (NTS)。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>请选择设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>点按工具栏中的“AirPort”，然后点按“基站”或“Time Capsule”（取决于您正在进行的设置）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择“自动设定时间”注记格，然后从弹出式菜单中选取一个时间服务器。<\/span><\/li><li class='li step'><span class='ph cmd'>如果设备支持的话，请从“时区”弹出式菜单中选取时区。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "日志记录", 
+"name": "为无线设备设定日期和时间", 
+"alternativeName": "为无线设备设定日期和时间", 
+"summary": "您需要自动设定基站的日期与时间以帮助确保记录是准确的。"}
+, 
+"aprt2703": {
+"content": "<div id='aprt2703' class='apd-topic'><div class='subjectids'><a name='aprt2703'><\/a><a name='alap10989'><\/a><a name='alap12691'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>在网络上共享 USB 硬盘<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果基站支持的话，您可以将 USB 硬盘连接到基站上的 USB 端口，并且网络（有线的和无线的）上的电脑可以连接到它以访问、共享和储存文件和数据。<\/p><p class='p'>将硬盘插入到基站背面上的 USB 端口。打开“AirPort 实用工具”，选择基站，然后选取“基站”>“手动设置”。如有必要，请输入密码。在工具栏中点按“磁盘”。<\/p><div class='note note'><span class='notetitle'>注：<\/span> 如果您正在使用 Time Capsule，您无需连接外置 USB 硬盘。Time Capsule 附带内置 AirPort 磁盘。使用以下说明以在 Time Capsule 上或在连接到基站的硬盘上设置磁盘共享。<\/div><p class='p'>在运行 Mac OS X 的电脑上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，“AirPort 实用工具”位于“开始”>“所有程序”>“AirPort”中。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>请点按“文件共享”。<\/span><\/li><li class='li step'><span class='ph cmd'>如果您想要使用密码来加密共享的磁盘，请选取“使用磁盘密码”或“使用基站密码”，或者如果您想要使用帐户来加密磁盘，请选取“使用帐户”。<\/span><p class='p'>如果选取使用帐户，请点按“配置帐户”，点按添加按钮 (+)，然后为将要访问磁盘的每个用户输入名称和密码。<\/p><\/li><li class='li step'><span class='ph cmd'>从“AirPort 磁盘客人访问”弹出式菜单中选取“不被允许”、“只读”或“读取和写入”以给磁盘指定客人访问权限。<\/span><p class='p'>客人将能够访问硬盘，但不能访问用户帐户。<\/p><\/li><li class='li step'><span class='ph cmd'>如果您要通过广域网端口向磁盘提供远程访问，请选择“通过以太广域网端口共享磁盘”注记格。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果您将 USB 集线器连接到基站，则可以连接多个硬盘，以及从无线网络访问它们。<\/p><\/div><\/div>", 
+"keywords": "远程文件共享, 设置 AirPort 无线设备, 共享 USB 设备", 
+"name": "在网络上共享 USB 硬盘", 
+"alternativeName": "在网络上共享 USB 硬盘", 
+"summary": "您可以使用 USB 硬盘来访问、共享和储存文件与数据。"}
+, 
+"aprt2710": {
+"content": "<div id='aprt2710' class='apd-topic'><div class='subjectids'><a name='aprt2710'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设定拨号调制解调器选项<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果基站有调制解调器，请使用互联网设置中的“调制解调器”面板为调制解调器和拨号连接设置特定功能。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>选取调制解调器闲置时等待多长时间之后再断开。<\/span><\/li><li class='li step'><span class='ph cmd'>为调制解调器设定国家和地区代码。<\/span><\/li><li class='li step'><span class='ph cmd'>选取 v.90 或 v.34 调制解调器协议。如果使用 v.90 有困难，则使用 v.34 也许能帮助解决这些问题。<\/span><\/li><li class='li step'><span class='ph cmd'>根据电话服务，选取音频拨号或脉冲拨号。<\/span><\/li><li class='li step'><span class='ph cmd'>选择“自动拨号”以将调制解调器设定为当您打开 Web 浏览器或发送电子邮件时拨号到您的互联网服务商 (ISP)。<\/span><\/li><\/ul><\/div><\/div>", 
+"keywords": "设置 AirPort 无线设备", 
+"name": "设定拨号调制解调器选项", 
+"alternativeName": "设定拨号调制解调器选项", 
+"summary": "使用此面板为调制解调器和拨号连接设置特定功能。"}
+, 
+"ap15210": {
+"content": "<div id='ap15210' class='apd-topic'><div class='subjectids'><a name='ap15210'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>将无线客户端添加到 802.11n 网络<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您正在使用的 AirPort 基站支持 802.11n 或者您正在使用 Time Capsule，并且网络已使用“WPA 个人级”或“WPA\/WPA2 个人级”的密码来保护，您可以将网络访问提供给无线客户端，而不要求他们输入网络密码。<\/p><p class='p'>当您允许客户端访问网络时，客户端的名称和无线 MAC 地址（或 AirPort ID）会储存在“AirPort 实用工具”的访问控制列表中，直到您从列表中移除它们。您也可以提供 24 小时的访问，24 小时之后客户端将无法再访问您的网络。<\/p><p class='p'>当您允许一个客户端访问您的无线网络时，该客户端不需要输入网络密码。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>选取“基站”>“添加无线客户端”。<\/span><\/li><li class='li step'><span class='ph cmd'>选择客户端访问网络的方式：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>选择“PIN”以输入由请求网络访问的客户端所提供的八位数字。<\/p><\/li><li class='li choice'><p class='p'>选择“首次尝试”以允许尝试加入网络的下一个客户端访问网络。<\/p><\/li><li class='li choice'><p class='p'>如果您想要仅提供一天的网络访问，请选择“将客户端的访问限制为 24 小时”。如果您不选择此选项，客户端将可以一直访问您的网络，直到您从列表中移除该客户端的名字。<\/p><\/li><\/ul><\/li><\/ol><\/div><div class='section postreq'><p class='p'>若要移除客户端，请在“AirPort 实用工具”工具栏中点按“AirPort”，点按“访问控制”，选择客户端的名称，然后点按删除按钮 (-)。从列表中移除客户端后，您需要更新设备。<\/p><\/div><\/div>", 
+"alternativeName": "将无线客户端添加到 802.11n 网络", 
+"name": "将无线客户端添加到 802.11n 网络", 
+"summary": "当您提供对无线网络的访问时，客户端不需要输入网络密码。"}
+, 
+"aprt2704": {
+"content": "<div id='aprt2704' class='apd-topic'><div class='subjectids'><a name='aprt2704'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>使基站或 Time Capsule 保持最新<\/h1><div class='body taskbody'><div class='section context'><p class='p'>有新固件时，您可以升级 AirPort 基站或 Time Capsule 上的固件。如果有新固件，下次打开“AirPort 实用工具”时，您将收到通知。请按照屏幕指示来下载并安装新固件。<\/p><p class='p'>您也可以手动检查更新。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在运行 Mac OS X 的电脑上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>从“AirPort 实用工具”菜单中选取“检查更新”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“下载”以下载所有可用的固件更新，或者点按“显示详细信息”以选择您正在更新的无线设备的专用固件。<\/span><\/li><li class='li step'><span class='ph cmd'>固件下载后，请点按“更新”以将它安装到设备上。如果您正在更新多个设备，请点按“显示详细信息”以选择您想要更新的设备。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果您下载了固件但没有安装它，您可以以后再安装它。请打开“AirPort 实用工具”，选择您想要更新的设备，然后点按“手动设置”。点按 AirPort 设置的“摘要”面板上的“更新”以安装固件。<\/p><\/div><\/div>", 
+"keywords": "设置 AirPort 无线设备", 
+"name": "使基站或 Time Capsule 保持最新", 
+"alternativeName": "使基站或 Time Capsule 保持最新", 
+"summary": "当有新的基站固件可用时，您就可以升级 AirPort 基站上的固件。"}
+, 
+"ap15211": {
+"content": "<div id='ap15211' class='apd-topic'><div class='subjectids'><a name='ap15211'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>使用 PPP 远程连接到基站<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您正在使用配备了内制调制解调器的双以太网 (Snow) 或 AirPort Extreme 基站，并且基站调制解调器已连接到电话插口，您可以从远程电脑拨入到基站，然后访问网络。<\/p><p class='p'>以远程方式连接到基站允许您访问网络，包括所有通过以太网与之连接的电脑。如果基站已使用 DSL 调制解调器或线缆调制解调器连接到互联网，则你也可以连接到互联网。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择基站，然后点按“手动设置”。如有必要，请输入基站密码。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“网络”，选择“启用 PPP 拨入”注记格，然后点按“配置”。<\/span><\/li><li class='li step'><span class='ph cmd'>输入您的用户名称和密码、应答前的响铃次数及其他设置。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>由于您设定基站接听来电，请考虑让您的基站使用专用的电话线。如果其他电话通过同一条电话线拨入，将可能导致 AirPort 基站调制解调器断开连接。<\/p><div class='note note'><span class='notetitle'>注：<\/span> 如果您使用基站的内置调制解调器连接互联网，则不能启用 PPP 拨入。<\/div><\/div><\/div>", 
+"alternativeName": "使用 PPP 远程连接到基站", 
+"name": "使用 PPP 远程连接到基站", 
+"summary": "如果您的基站支持它，您就可以从远程电脑拨入到您的基站，然后访问您的 AirPort 网络。"}
+, 
+"aprt2705": {
+"content": "<div id='aprt2705' class='apd-topic'><div class='subjectids'><a name='aprt2705'><\/a><a name='alap12680'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>使用以太网连接到互联网<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您使用 DSL 或线缆调制解调器连接到互联网，或者使用局域网 (LAN) 连接到互联网，您可以将基站或 Time Capsule 连接到调制解调器或网络，并且与无线网络上的电脑和客户端共享互联网连接。<\/p><p class='p'>您需要设定基站或 Time Capsule 如何从互联网服务商 (ISP) 处或网络接收互联网地址，以及设备如何与网络上的电脑共享互联网连接。<\/p><p class='p'>请打开“AirPort 实用工具”，选择您想要设置的设备，然后点按“手动设置”。如有必要，请输入密码。在工具栏中点按“互联网”，然后点按“互联网连接”。从“连接使用”弹出式菜单中选取“以太网”，然后点按“TCP\/IP”。<\/p><p class='p'>在运行 Mac OS X 的电脑上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，“AirPort 实用工具”位于“开始”>“所有程序”>“AirPort”中。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>通过选取以下一项来设置无线设备如何使用“配置 IPv4”弹出式菜单来从 ISP 处接收 IP 地址：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>如果 ISP 自动发送 IP 地址给您，则请选取“使用 DHCP”。<\/p><\/li><li class='li choice'><p class='p'>如果 ISP 向您提供了一个包括 IP 地址的帐户，则请选取“手动”。输入您从 ISP 收到的信息，例如 IP 地址、子网掩码、路由器地址及其他信息（如果适用的话）。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>点按“连接共享”并设置设备与网络上的电脑共享互联网连接的方式；或者如果它连接在网络上，将它设置为网桥。<\/span><ul class='ul choices'><li class='li choice'><p class='p'>从“连接共享”弹出式菜单中选取“共享公共 IP 地址”，以便使用 DHCP 和 NAT 与网络上的电脑共享您的 IP 地址。<\/p><\/li><li class='li choice'><p class='p'>如果 ISP 向您提供了一个 IP 地址范围，则请从“连接共享”弹出式菜单中选取“分配一个 IP 地址范围”。<\/p><\/li><li class='li choice'><p class='p'>如果设备已连接到具有能够分配 IP 地址的 DHCP 服务器的网络，请选取“关闭（网桥模式）”。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>点按“更新”以将设备复位，并使用这些新设置。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果您通过使用以太网上的点对点协议 (PPPoE) 帐户来连接到互联网，请点按下面的链接。<\/p><\/div><\/div>", 
+"alternativeName": "使用以太网连接到互联网", 
+"name": "使用以太网连接到互联网", 
+"summary": "您可以将基站连接到线缆调制解调器或 DSL 调制解调器，或者连接到以太网络，以及与基站的无线网络上的电脑共享互联网连接。"}
+, 
+"searchable-landing-com-apple-airportutility-help": {
+"navigation": "false", 
+"content": "<div class='apd-topic' id='searchable-landing-com-apple-airportutility-help'><div class='subjectids'><a name='searchable-landing-com-apple-airportutility-help'><\/a><\/div><h1 class='title topictitle1'>AirPort 实用工具帮助<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>AirPort 实用工具帮助<\/h2><p class='p'>可搜索的主题<\/p><\/div><\/div><\/div>", 
+"alternativeName": "AirPort 实用工具帮助", 
+"name": "AirPort 实用工具帮助", 
+"class": "default"}
+, 
+"ap22913": {
+"navigation": "false", 
+"content": "<div id='ap22913' class='apd-topic'><div class='subjectids'><a name='ap22913'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>建立客人网络<\/h1><div class='body taskbody'><div class='section context'><p class='p'>当您建立客人网络时，您的部分互联网连接会保留给客人使用，无线客户端可以访问客人网络并连接到互联网，但不能访问您的专用网络。<\/p><p class='p'>如果客户端电脑上设置了共享服务，则客人们还可以互相通信。<\/p><p class='p'>Apple 无线设备必须被设置为共享它的公共 IP 地址。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您想要在它上面建立客人网络的无线设备，然后点按“继续”。<\/span><p class='p'>使用设置助理给设备和专用网络提供您想要使用的设置。<\/p><\/li><li class='li step'><span class='ph cmd'>默认情况下，客人网络的名称为“XXX Guest Network”，此处的“XXX”是您的专用网络的名称。您可以通过在“启用客人网络”栏中输入新名称来更改客人网络的名称。<\/span><\/li><li class='li step'><span class='ph cmd'>给客人网络设定密码，或者从“客人网络安全性”弹出式菜单中选取“无”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“继续”以结束在设置助理中输入设置，然后点按“更新”。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果您想要允许客人电脑互相通信，请确定已在客户端电脑上设置了共享服务。在“AirPort 实用工具”中选择无线设备，然后点按“手动设置”。在工具栏中点按“AirPort”，点按“客人网络”，然后选择“允许客人网络客户端互相通信”。<\/p><\/div><\/div>", 
+"alternativeName": "建立客人网络", 
+"name": "建立客人网络", 
+"summary": "客人网络允许无线客户端连接到互联网但不访问您的专用网络。"}
+, 
+"ap15213": {
+"navigation": "false", 
+"content": "<div id='ap15213' class='apd-topic'><div class='subjectids'><a name='ap15213'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>导入设置<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您已经存储了基站或 Time Capsule 的设置文件，或者网络管理员给您提供了一个，您可以将设置导入到基站或 Time Capsule。<\/p><p class='p'>您可以导入全部设置，或选择定时访问控制、帐户设置或所有其他设置。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>选取“文件”>“导入”，找到设置文件的位置，然后点按“打开”。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您想要导入的设置，然后点按“好”。<\/span><\/li><li class='li step'><span class='ph cmd'>点按“更新”以激活新设置。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>若要存储设置文件，请选取“文件”>“将副本存储为”。选择“包括密码作为加密数据”以要求以后在导入设置时输入设备密码。若要查看密码之外的所有设置，您可以点按“继续”而不输入密码。<\/p><\/div><\/div>", 
+"alternativeName": "导入设置", 
+"name": "导入设置", 
+"summary": "如果您已经存储了一个来自基站的设置文件，或由网络管理员提供了一个，则可以将设置导入到基站。"}
+, 
+"ap22914": {
+"navigation": "false", 
+"content": "<div id='ap22914' class='apd-topic'><div class='subjectids'><a name='ap22914'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>在 Wi-Fi 网络上使用“回到我的 Mac”<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果您有 MobileMe 帐户，则可以使用“回到我的 Mac”来访问您的 AirPort 基站或 Time Capsule。您可以访问基站或 Time Capsule 以监视网络，或者对基站或 Time Capsule 的设置进行更改。<\/p><p class='p'>您还可以访问 Time Capsule 的内建硬盘，或者已连接到基站或 Time Capsule 的外置 USB 硬盘。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>从列表中选择基站或 Time Capsule，然后点按“手动设置”。如有必要，请输入基站或 Time Capsule 的密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“高级”，然后点按“MobileMe”。<\/span><\/li><li class='li step'><span class='ph cmd'>输入您的 MobileMe 会员名称和密码。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "在 Wi-Fi 网络上使用“回到我的 Mac”", 
+"name": "在 Wi-Fi 网络上使用“回到我的 Mac”", 
+"summary": "如果您有 MobileMe 帐户，则可以使用“回到我的 Mac”来访问您的 AirPort 基站或 Time Capsule。"}
+, 
+"ap15214": {
+"content": "<div id='ap15214' class='apd-topic'><div class='subjectids'><a name='ap15214'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设定“AirPort 实用工具”偏好设置<\/h1><div class='body taskbody'><div class='section context'><p class='p'>使用“AirPort 实用工具”偏好设置将基站或 Time Capsule 设置为有更新时提醒您。您还可以将偏好设置设定为检测到问题时通知您，并且提供有助于解决问题的指示。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>从 Mac 上的“AirPort 实用工具”菜单中选取“偏好设置”，或从运行 Windows 的电脑上的“文件”菜单中选取“偏好设置”。<\/span><\/li><li class='li step'><span class='ph cmd'>从以下注记格中选择：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>选择“打开‘AirPort 实用工具’时检查更新”，以便每次打开“AirPort 实用工具”时自动从 Apple 网站检查软件和固件更新。<\/p><\/li><li class='li choice'><p class='p'>选择“检查更新”注记格，然后从弹出式菜单中选取一个时间间隔（比如每周），以便在后台检查软件和固件更新。如果有可用更新，“AirPort 实用工具”会打开。<\/p><\/li><li class='li choice'><p class='p'>选择“监视 AirPort 无线设备的问题”以调查那些可能导致基站的状态指示灯呈琥珀色闪烁的问题。如果此注记格已选定，当检测到问题时，“AirPort 实用工具”将打开，然后提供有助于解决问题的指示。此选项会监视网络上的所有基站。<\/p><\/li><li class='li choice'><p class='p'>选择“仅监视我配置了的 AirPort 无线设备”以将被监视的基站数量限制为从您使用的电脑设置的那些基站。<\/p><\/li><li class='li choice'><p class='p'>如果要远程监视无线设备，请选择“使用 Bonjour 在互联网上监视 AirPort 无线设备”。<\/p><\/li><\/ul><\/li><\/ol><\/div><div class='section postreq'><p class='p'>若要监视 AirPort 无线设备的问题，需要支持“AirPort 基站固件 7.0”或更高版本的 AirPort Extreme 基站和“AirPort 实用工具 5.2”或更高版本。<\/p><\/div><\/div>", 
+"alternativeName": "设定“AirPort 实用工具”偏好设置", 
+"name": "设定“AirPort 实用工具”偏好设置", 
+"summary": "使用 AirPort 偏好设置，设置您的基站在检测到更新或问题时通知您。"}
+, 
+"aprt2721": {
+"content": "<div id='aprt2721' class='apd-topic'><div class='subjectids'><a name='aprt2721'><\/a><a name='alap10989'><\/a><a name='alap11037'><\/a><a name='alap12690'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>使用描述文件<\/h1><div class='body taskbody'><div class='section context'><p class='p'>某些版本的 AirPort Extreme 基站和 Time Capsule 可以储存多达五种配置（称为描述文件）。描述文件包含基站设置（例如名称和密码）和网络配置信息（例如基站连接到互联网的方式）。<\/p><p class='p'>如果您将设备从一个位置移到另一个位置，使用描述文件可能很有用。例如，您可能有一个描述文件用于在家里使用基站或 Time Capsule（在家时，您使用 PPPoE 连接到互联网）。您可能有另一个描述文件用于在办公室使用基站（在办公室时，您使用 DHCP 连接到互联网）。<\/p><p class='p'>当您创建新描述文件时，当前设置的副本被储存在当前的描述文件中。您可以添加新描述文件、更改描述文件设置，然后使用新设置更新设备。<\/p><p class='p'>请打开“AirPort 实用工具”，选择您想要将描述文件添加到其中的设备，然后点按“手动设置”。如有必要，请输入密码。<\/p><p class='p'>在运行 Mac OS X 的电脑上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，“AirPort 实用工具”位于“开始”>“所有程序”>“AirPort”中。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>从“基站”菜单中选取“管理描述文件”。<\/span><\/li><li class='li step'><span class='ph cmd'>请执行以下一项操作：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>在 Mac 上，点按添加按钮 (+) 以拷贝当前的基站设置。给副本命名（例如“办公室”），然后取决于您如何使用它，对基站进行适当的更改。<\/p><\/li><li class='li choice'><p class='p'>在运行 Windows 的电脑上，从列表中选择一个描述文件并点按“复制”。给副本命名（例如“办公室”），然后点按“完成”。取决于您如何使用它，对基站进行适当的更改。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>点按“更新”以存储这些更改并切换到新的设置。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>若要在已经设置的描述文件之间进行切换，请从“AirPort 实用工具”窗口底部的“描述文件”弹出式菜单中选取您要使用的描述文件，然后点按“更新”。<\/p><\/div><\/div>", 
+"alternativeName": "使用描述文件", 
+"name": "使用描述文件", 
+"summary": "描述文件包含基站设置（例如名称和密码）和网络配置信息（例如基站连接到互联网的方式）。"}
+, 
+"aprt2707": {
+"content": "<div id='aprt2707' class='apd-topic'><div class='subjectids'><a name='aprt2707'><\/a><a name='alap12683'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>使用 PPPoE 连接到互联网<\/h1><div class='body taskbody'><div class='section context'><p class='p'>一些 DSL 调制解调器和线缆调制解调器互联网服务商要求您使用以太网上的点对点协议 (PPPoE) 来连接到互联网。<\/p><p class='p'>如果您正在使用 DSL 或线缆调制解调器，请先确定它的一端已连接到电话或电缆插孔，并且另一端已连接到无线设备的广域网 (WAN) 端口，然后再设置基站。<\/p><p class='p'>打开“AirPort 实用工具”，选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。在工具栏中点按“互联网”，然后点按“互联网连接”。从“连接使用”弹出式菜单中选取“PPPoE”。<\/p><p class='p'>在 Mac 上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，“AirPort 实用工具”位于“开始”>“所有程序”>“AirPort”中。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>输入互联网服务商提供给您的用户名称、密码及其他信息。<\/span><p class='p'>当您将基站或 Time Capsule 设置为使用 PPPoE 进行连接时，设备将自动从 ISP 处接收 IP 地址，并且使用 DHCP 和 NAT 来与无线网络上的电脑共享该 IP 连接。<\/p><\/li><li class='li step'><span class='ph cmd'>从“连接”弹出式菜单中选取“始终打开”、“自动”或“手动”。<\/span><ul class='ul choices'><li class='li choice'><p class='p'>如果您选取“始终打开”，则只要调制解调器开着，无线设备就会保持连接在调制解调器和互联网上。<\/p><\/li><li class='li choice'><p class='p'>如果从“连接”弹出式菜单中选取了“自动”或“手动”，您需要从“断开连接，如果闲置”弹出式菜单中选取一个时间增量（如“10 分钟”）。如果您在该段时间过后没有使用互联网应用程序，您将断开和互联网的连接。<\/p><\/li><li class='li choice'><p class='p'>如果选取“自动”，则当您使用要求互联网连接的应用程序（例如电子邮件、即时消息或 Web 应用程序）时，您的无线设备会连接到连接在互联网上的调制解调器。<\/p><\/li><li class='li choice'><p class='p'>如果选取“手动”，则当您使用要求互联网连接的应用程序时，您必须将调制解调器连接到互联网。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>点按“更新”以使用这些新设置将无线设备复位。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>如果您的电脑访问互联网时 Web 浏览器报告连接错误，请等待直到电脑已连接到 AirPort 网络，并且确定网络已连接到互联网。<\/p><p class='p'>若要检查连接，在 Mac 上，请使用菜单栏中的无线连接状态图标；在运行 Windows 的电脑上，请使用状态托盘中的无线网络图标。<\/p><\/div><\/div>", 
+"alternativeName": "使用 PPPoE 连接到互联网", 
+"name": "使用 PPPoE 连接到互联网", 
+"summary": "一些 DSL 调制解调器和线缆调制解调器互联网服务商要求您使用 PPPoE 来连接到互联网。"}
+, 
+"aprt2713": {
+"content": "<div id='aprt2713' class='apd-topic'><div class='subjectids'><a name='aprt2713'><\/a><a name='alap11037'><\/a><a name='alap12692'><\/a><a name='alap12696'><\/a><a name='alap12698'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设定基站或 Time Capsule 的 NAT 选项<\/h1><div class='body taskbody'><div class='section context'><p class='p'>若要为 AirPort 无线设备设置“网络地址转换 (NAT)”选项，请打开设备的配置，点按“互联网”，确定设备已在“连接共享”弹出式菜单中被设置为共享公共 IP 地址，然后点按“NAT”。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>启用默认主机：默认主机是网络上的一台电脑，它面向于互联网并接收所有入站数据流。如果您要使用 AirPort 网络上的电脑来玩网络游戏，或者想要通过单台电脑来传送所有互联网数据流，则默认主机可能是非常有用的。<\/span><\/li><li class='li step'><span class='ph cmd'>启用 NAT 端口映射协议：NAT 端口映射协议 (NAT-PMP) 是一份“互联网工程任务组互联网草案”，是更常见的通用即插即用 (UPnP) 协议的备用协议，许多 NAT 路由器都使用它。NAT-PMP 允许专用网络（在 NAT 路由器后方）中的电脑自动配置路由器以允许专用网络外的客户端联系这台电脑。<\/span><p class='p'>协议中包含一种方法，用于检索 NAT 网关的公共 IP 地址，从而允许客户端向希望与它通信的同等客户端告知此 IP 地址和端口编号。当前的 Apple 产品使用了此协议，包括 Mac OS X 10.4 Tiger、AirPort Extreme 和 AirPort Express 联网产品、Time Capsule 和 Bonjour（Windows 版）。<\/p><\/li><\/ul><\/div><div class='section postreq'><p class='p'>若要设定 NAT 选项，您必须将基站或 Time Capsule 设置为使用 DHCP 和 NAT 来共享其互联网连接。<\/p><\/div><\/div>", 
+"alternativeName": "设定基站或 Time Capsule 的 NAT 选项", 
+"name": "设定基站或 Time Capsule 的 NAT 选项", 
+"summary": "使用此面板来设置网络上的默认主机，以及启用 NAT 端口映射协议。"}
+, 
+"aprt2715": {
+"content": "<div id='aprt2715' class='apd-topic'><div class='subjectids'><a name='aprt2715'><\/a><a name='alap10989'><\/a><a name='alap12694'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设置网桥<\/h1><div class='body taskbody'><div class='section context'><p class='p'>您可以关闭互联网共享以允许在网络的无线和有线电脑之间进行桥接。开启桥接功能后，启用 Wi-Fi 的电脑将有权访问以太网络上的所有服务。无线设备不提供互联网共享服务。<\/p><p class='p'>将基站或 Time Capsule 用作网桥可以解决无线设备的互联网共享功能与 ISP 的连接方式之间的不兼容性。<\/p><p class='p'>如果设备使用 PPPoE 连接到互联网，您不能将它设置为网桥。当基站使用 PPPoE 时，它起路由器的作用，并且给网络上使用 DHCP 和 NAT 的客户端分配 IP 地址。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>请选择无线设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“互联网”，然后点按“互联网连接”。<\/span><\/li><li class='li step'><span class='ph cmd'>从“连接共享”弹出式菜单中选取“关闭（网桥模式）”。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "设置网桥", 
+"name": "设置网桥", 
+"summary": "桥接开启后，无线电脑就有权访问以太网络上的所有服务。 基站不提供互联网共享服务。"}
+, 
+"aprt2706": {
+"content": "<div id='aprt2706' class='apd-topic'><div class='subjectids'><a name='aprt2706'><\/a><a name='alap12695'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设置 IPv6<\/h1><div class='body taskbody'><div class='section context'><p class='p'>IPv6 是一种新版本的互联网协议 (IP)。当前 IPv6 主要由一些研究机构使用。大多数电脑都无需设置或使用 IPv6。<\/p><p class='p'>IPv6 的主要优点是增加了地址长度，从 32 位（目前的 IPv4 标准）增加到 128 位。128 位的地址长度已经足以支持大量的地址。这样就可以提供比目前多的地址或节点。IPv6 还提供了更多设置地址和更简单的自动配置方法。<\/p><p class='p'>默认情况下，IPv6 会自动配置，而且默认设置已足够使用。但是，如果您的网络管理员或互联网服务商 (ISP) 已明确告诉您要手动配置 IPv6，请打开“AirPort 实用工具”，选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。在工具栏中点按“高级”，然后点按“IPv6”。<\/p><p class='p'>在运行 Mac OS X 的电脑上，“AirPort 实用工具”位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，“AirPort 实用工具”位于“开始”>“所有程序”>“AirPort”中。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>根据系统指示您使用的方法，从“IPv6 模式”弹出式菜单中选取“主机”、“隧道”或“路由器”。<\/span><\/li><li class='li step'><span class='ph cmd'>从“配置 IPv6”弹出式菜单中选取“手动”，然后输入 ISP 或网络管理员给您的信息。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "设置 IPv6", 
+"name": "设置 IPv6", 
+"summary": "IPv6 是一种新版本的互联网协议 (IP)。 目前，IPv6 主要由一些研究机构使用。 大多数电脑都无需设置或使用 IPv6。"}
+, 
+"ap15212": {
+"content": "<div id='ap15212' class='apd-topic'><div class='subjectids'><a name='ap15212'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>自定 IPv6 防火墙<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果基站支持 IPv6，您可以使用“AirPort 实用工具”来调整 IPv6 防火墙设置。您还可以在 Time Capsule 上使用“AirPort 实用工具”来调整 IPv6 防火墙设置。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您想要调整的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“高级”，然后点按“IPv6 防火墙”。<\/span><p class='p'>默认情况下，“允许 Teredo 通道”和“允许 IPSec 鉴定”是选定的。<\/p><p class='p'>若要提供从 IPv6 防火墙之外对网络上特定设备的访问，请点按添加按钮 (+)，然后输入 IPv6 地址或设备的端口。<\/p><\/li><\/ol><\/div><div class='section postreq'><p class='p'>若要使用 IPv6 防火墙，您需要配备固件版本为 7.2 或更高的 AirPort Extreme 802.11n 基站或 Time Capsule。<\/p><p class='p'>检查 AirPort 支持网站以获得最新的基站固件。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>打开<\/strong><br><div><a class='link' href='http:\/\/www.apple.com.cn\/support\/airport\/' target='_blank'>AirPort 支持网站<\/a><\/div><\/div><\/div><\/div>", 
+"alternativeName": "自定 IPv6 防火墙", 
+"name": "自定 IPv6 防火墙", 
+"summary": "如果您的基站支持它，您就可以使用“AirPort 实用工具”来调整 IPv6 防火墙设置。"}
+, 
+"aprt2712": {
+"content": "<div id='aprt2712' class='apd-topic'><div class='subjectids'><a name='aprt2712'><\/a><a name='alap10991'><\/a><a name='alap12688'><\/a><a name='alap12706'><\/a><a name='alap12710'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>设置 Wi-Fi 网络<\/h1><div class='body taskbody'><div class='section context'><p class='p'>使用“无线”面板来设置无线网络的选项。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>设置无线模式以创建新的无线网络或扩展无线网络。<\/span><\/li><li class='li step'><span class='ph cmd'>给网络命名。在运行 Mac OS X 的电脑上，此名称出现在菜单栏的 AirPort 状态菜单中；在运行 Windows 的电脑上，此名称出现在状态托盘中的无线网络图标上。<\/span><\/li><li class='li step'><span class='ph cmd'>设置广播模式。为无线网络选取与加入网络的电脑兼容性最高的频率。<\/span><ul class='ul choices'><li class='li choice'><p class='p'>如果您希望使用 802.11b 或 802.11g 的电脑加入网络，请从“广播模式”弹出式菜单中选取“802.11n（兼容 802.11b\/g）”。<\/p><\/li><li class='li choice'><p class='p'>如果您希望使用 802.11a 的电脑加入网络，请选取“802.11n（兼容 802.11a）”。<\/p><\/li><li class='li choice'><p class='p'>如果您只希望使用 802.11n 的电脑加入网络，请从“无线模式”弹出式菜单中选取“仅 802.11n (2.4GHz)”或“仅 802.11n (5 GHZ)”。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>为网络选取一个频道。大多数情况下，虽然您可能想要为网络选取一个特定的频道，但使用自动设置是最有效的。如果您是在 5 千兆赫 (GHz) 的范围内使用“仅 802.11n”，则不能手动设定频道。<\/span><\/li><li class='li step'><span class='ph cmd'>使用密码来保护网络。根据您要设置的基站以及将要加入网络的无线客户端电脑的功能，选取 “WEP（有线等效保密）”、“WPA（Wi-Fi 保护访问）”或“WPA2 个人级”、“WPA 或 WPA2 企业级”，或者选取“WEP（过渡安全网络）”。<\/span><\/li><li class='li step'><span class='ph cmd'>设定附加的无线选项。点按“无线网络选项”以设定多址广播速率、发射功率或地区，创建封闭网络以及开启高抗干扰性。如果基站支持的话，而且您使用的是“仅 802.11n (5 GHz)”无线模式，则也可以选择使用宽频道，这些频道能够在网络中提供较高的数据吞吐量。<\/span><\/li><\/ul><\/div><\/div>", 
+"alternativeName": "设置 Wi-Fi 网络", 
+"name": "设置 Wi-Fi 网络", 
+"summary": "使用“无线”面板来设置无线网络的选项。"}
+, 
+"ap21462": {
+"content": "<div id='ap21462' class='apd-topic'><div class='subjectids'><a name='ap21462'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>归档 Time Capsule 的内容<\/h1><div class='body taskbody'><div class='section context'><p class='p'>每个 Time Capsule 都包含一个内置 AirPort 磁盘，您可以使用“AirPort 实用工具”将其内容归档。<\/p><p class='p'>您需要先将外置磁盘连接到 Time Capsule 上的 USB 端口，然后才能归档 Time Capsule 的内容。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择包含您想要归档的内置 AirPort 磁盘的 Time Capsule，然后点按“手动设置”。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“磁盘”，选择内置 AirPort 磁盘，然后从弹出式菜单中选取“归档磁盘”。<\/span><\/li><li class='li step'><span class='ph cmd'>从“目的位置”弹出式菜单中选取目的磁盘，然后点按“归档”。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>将磁盘归档时，Time Capsule 的状态指示灯会呈琥珀色闪烁。您将无法更改设置、更新固件或重新启动 Time Capsule，直到磁盘的内容被归档且 Time Capsule 再次可用。<\/p><\/div><\/div>", 
+"alternativeName": "归档 Time Capsule 的内容", 
+"name": "归档 Time Capsule 的内容", 
+"summary": "如果您使用的是 Time Capsule，则可以使用“AirPort 实用工具”将内置 AirPort 磁盘的内容归档。"}
+, 
+"aprt2709": {
+"content": "<div id='aprt2709' class='apd-topic'><div class='subjectids'><a name='aprt2709'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>使用基站调制解调器连接到互联网<\/h1><div class='body taskbody'><div class='section context'><p class='p'>如果基站附带内置调制解调器，并且您有互联网服务商 (ISP) 的拨号帐户，您可以将基站调制解调器端口连接到标准电话线，然后使用 PPP 连接到互联网。<\/p><p class='p'>使用“AirPort 实用工具”前请确定准备好帐户信息。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>ISP 帐户名称（用户名称）和密码<\/span><\/li><li class='li step'><span class='ph cmd'>ISP 的拨号调制解调器电话号码<\/span><\/li><li class='li step'><span class='ph cmd'>您是要手动配置 TCP\/IP 还是使用 PPP<\/span><\/li><li class='li step'><span class='ph cmd'>您的 IP 地址（仅手动配置情况下）<\/span><\/li><li class='li step'><span class='ph cmd'>您的域名系统 (DNS) 服务器地址<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>点按“调制解调器”以设定调制解调器选项，例如调制解调器断开之前保持闲置的时间、国家和地区代码以及其他选项。<\/p><\/div><\/div>", 
+"keywords": "设置 AirPort 无线设备", 
+"name": "使用基站调制解调器连接到互联网", 
+"alternativeName": "使用基站调制解调器连接到互联网", 
+"summary": "如果您的基站附带内置调制解调器，并且您有互联网服务商提供的拨号帐户，则可以将标准电话线插入到基站调制解调器端口。"}
+, 
+"aprt2717": {
+"content": "<div id='aprt2717' class='apd-topic'><div class='subjectids'><a name='aprt2717'><\/a><a name='alap12704'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>记录无线网络信息<\/h1><div class='body taskbody'><div class='section context'><p class='p'>在运行 Mac OS X 的电脑上，您可以将 AirPort 基站或 Time Capsule 设置为将状态信息记录到 Mac OS X 系统日志（或 syslog 主机）；在运行 Windows 的电脑上，您可以将 AirPort 基站或 Time Capsule 设置为使用 syslog 应用程序来记录状态信息。对于解决问题和监视无线设备的活动而言，这是非常有用的。<\/p><p class='p'>若要帮助确保日志的准确性，您需要自动设定无线设备的基本日期和时间。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>打开“AirPort 实用工具”（在 Mac 上，位于“应用程序”文件夹的“实用工具”文件夹中；在运行 Windows 的电脑上，则位于“开始”>“所有程序”>“AirPort”中）。<\/span><\/li><li class='li step'><span class='ph cmd'>选择您正在设置的设备，然后点按“手动设置”。如有必要，请输入密码。<\/span><\/li><li class='li step'><span class='ph cmd'>在工具栏中点按“高级”，然后点按“日志与统计数据”。<\/span><\/li><li class='li step'><span class='ph cmd'>在“Syslog 目的地址”栏中，输入将要接收基站日志的电脑的 IP 地址。<\/span><\/li><li class='li step'><span class='ph cmd'>从“Syslog 级别”弹出式菜单中选取您要记录的信息的类型。<\/span><\/li><li class='li step'><span class='ph cmd'>若要查看基站日志，请点按“日志和统计数据”。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>若要确保日志包含准确的日期和时间信息，请在“AirPort”设置的“基站”面板中选择“自动设定时间”，然后从弹出式菜单中选取网络时间服务器和时区。<\/p><\/div><\/div>", 
+"keywords": "日志记录", 
+"name": "记录无线网络信息", 
+"alternativeName": "记录无线网络信息", 
+"summary": "您可以设置基站将状态信息记录到 Mac OS X 系统日志（或 syslog 主机）。"}
+}
+, 
+"hierarchy": [
+{
+"id": "button-0", 
+"children": [
+{
+"id": "ap35497", 
+"class": "default"}
+,{
+"id": "ap35497-a", 
+"children": [
+{
+"id": "aprt2735"}
+,{
+"id": "aprt2694"}
+,{
+"id": "aprt2756"}
+,{
+"id": "aprt2698"}
+,{
+"id": "aprt2699"}
+,{
+"id": "aprt2727"}
+,{
+"id": "aprt2721"}
+,{
+"id": "ap15210"}
+]
+}
+,{
+"id": "ap35497-b", 
+"children": [
+{
+"id": "aprt2744"}
+,{
+"id": "aprt2700"}
+,{
+"id": "aprt2702"}
+,{
+"id": "aprt2709"}
+,{
+"id": "aprt2707"}
+,{
+"id": "aprt2705"}
+,{
+"id": "aprt2771"}
+,{
+"id": "aprt2713"}
+,{
+"id": "aprt2755"}
+,{
+"id": "aprt2715"}
+,{
+"id": "aprt2725"}
+,{
+"id": "aprt2760"}
+,{
+"id": "aprt2703"}
+,{
+"id": "aprt2759"}
+,{
+"id": "aprt2769"}
+,{
+"id": "aprt2730"}
+,{
+"id": "aprt2761"}
+,{
+"id": "aprt2706"}
+,{
+"id": "aprt2717"}
+,{
+"id": "aprt2704"}
+,{
+"id": "aprt2775"}
+,{
+"id": "aprt2773"}
+,{
+"id": "ap15214"}
+,{
+"id": "ap15211"}
+]
+}
+,{
+"id": "ap35497-c", 
+"children": [
+{
+"id": "aprt2712"}
+,{
+"id": "aprt2736"}
+,{
+"id": "aprt2752"}
+,{
+"id": "aprt2753"}
+,{
+"id": "aprt2723"}
+,{
+"id": "aprt2695"}
+,{
+"id": "aprt2741"}
+,{
+"id": "aprt2728"}
+,{
+"id": "aprt2774"}
+,{
+"id": "aprt2697"}
+,{
+"id": "ap11953"}
+,{
+"id": "aprt2699"}
+,{
+"id": "aprt2748"}
+,{
+"id": "aprt2757"}
+,{
+"id": "aprt2758"}
+,{
+"id": "aprt2763"}
+,{
+"id": "aprt2710"}
+,{
+"id": "aprt2738"}
+,{
+"id": "aprt2739"}
+,{
+"id": "aprt2740"}
+,{
+"id": "aprt2718"}
+,{
+"id": "aprt2719"}
+,{
+"id": "ap20913"}
+,{
+"id": "ap21462"}
+,{
+"id": "ap15212"}
+]
+}
+,{
+"id": "ap35497-d", 
+"children": [
+{
+"id": "aprt2737"}
+,{
+"id": "aprt2734"}
+,{
+"id": "aprt2731"}
+,{
+"id": "aprt2754"}
+,{
+"id": "aprt2724"}
+,{
+"id": "alap11006"}
+,{
+"id": "cpap0006"}
+]
+}
+]
+}
+,{
+"id": "button-1", 
+"children": [
+{
+"id": "searchable-landing-com-apple-airportutility-help", 
+"class": "default"}
+,{
+"id": "local-searchtopichead-com-apple-airportutility-help", 
+"children": [
+{
+"id": "aprt2742"}
+,{
+"id": "aprt2732"}
+,{
+"id": "ap20881"}
+,{
+"id": "ap11863"}
+,{
+"id": "ap15213"}
+,{
+"id": "ap22913"}
+,{
+"id": "ap22914"}
+]
+}
+]
+}
+,{
+"id": "button-2", 
+"children": [
+{
+"id": "offline-message-com-apple-airportutility-help", 
+"class": "content-not-available-message"}
+]
+}
+]
+, 
+"settings": {
+"Design": "redFlamingo", 
+"BuildVersion": "12.14", 
+"ShowVersionNumber": 0, 
+"CategoryArt": "arik.png", 
+"AppVersion": "3.2", 
+"FolderName": "AirPortUtilityHelp", 
+"LocalizationISOCode": "zh_CN", 
+"Title": "AirPort 实用工具帮助", 
+"RemoteURL": "https:\/\/help.apple.com\/aputility\/mac\/5.5.3\/help\/"}
+}
+]

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Application-Group</key>
+	<array>
+		<string>AirPort</string>
+		<string>AirPortDisk</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>AirPort Utility 5.6</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>AU56Doc</string>
+			</array>
+			<key>CFBundleTypeName</key>
+			<string></string>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string></string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>NSDocumentClass</key>
+			<string>AAUDocument</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>AirPort Utility 5.6</string>
+	<key>CFBundleGetInfoString</key>
+	<string>5.6, Copyright 2001-2011 Apple Inc.</string>
+	<key>CFBundleHelpBookFolder</key>
+	<string>AirPortUtilityHelp</string>
+	<key>CFBundleHelpBookName</key>
+	<string>AirPort Utility Help</string>
+	<key>CFBundleIconFile</key>
+	<string>AirPortUtility</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.airport.airportutility56</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>AirPort Utility 5.6</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>5.6</string>
+	<key>CFBundleSignature</key>
+	<string>1wcu</string>
+	<key>CFBundleVersion</key>
+	<string>560.18</string>
+	<key>LSApplicationCategoryType</key>
+	<string>public.app-category.utilities</string>
+	<key>LSArchitecturePriority</key>
+	<array>
+		<string>x86_64</string>
+		<string>i386</string>
+	</array>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.7.1</string>
+	<key>LSMinimumSystemVersionByArchitecture</key>
+	<dict>
+		<key>x86_64</key>
+		<string>10.7.1</string>
+	</dict>
+	<key>LSRequiresNativeExecution</key>
+	<true/>
+	<key>NSAppleScriptEnabled</key>
+	<string>Yes</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>NSSupportsSuddenTermination</key>
+	<true/>
+</dict>
+</plist>

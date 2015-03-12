@@ -1,0 +1,721 @@
+[{
+"content": {
+"aprt2731": {
+"content": "<div id='aprt2731' class='apd-topic'><div class='subjectids'><a name='aprt2731'><\/a><a name='alap11006'><\/a><a name='alap11038'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>USB プリンタが応答しない場合<\/h1><div class='body taskbody'><div class='section context'><p class='p'>プリンタをワイヤレスネットワーク上のベースステーションまたは Time Capsule の USB ポートに接続しても、ネットワーク上のコンピュータからプリントできない場合は、問題を解決するために以下の方法を試してみてください。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>プリンタが電源コンセントに接続され、電源が入っていることを確認します。<\/span><\/li><li class='li step'><span class='ph cmd'>プリンタの電源が入っている場合は、電源を切り、数秒間待ってからもう一度電源を入れます。<\/span><\/li><li class='li step'><span class='ph cmd'>ケーブルがプリンタおよびワイヤレス装置の USB ポートにしっかりと接続されていることを確認します。<\/span><\/li><li class='li step'><span class='ph cmd'>プリンタがクライアントコンピュータの「プリンタリスト」で選択されていることを確認します。<\/span><table border='1' frame='hsides' rules='rows' cellpadding='4' cellspacing='0' summary='' class='simpletable choicetable choicetableborder'><thead><tr><th id='d7539e84-option' valign='bottom' align='left'>オプション<\/th><th id='d7539e84-desc' valign='bottom' align='left'>説明<\/th><\/tr><\/thead><tbody><tr class='strow chrow'><td valign='top' headers='d7539e84-option' id='d7539e88' class='stentry choption'><strong>Mac OS X を使用するコンピュータの場合：<\/strong><\/td><td valign='top' headers='d7539e84-desc d7539e88' class='stentry chdesc'> 「システム環境設定」を開き、「プリントとスキャン」をクリックします。プリンタを選んで、「削除」をクリックします。「追加」をクリックし、リストからプリンタを選択します。プリンタがリストにない場合は、「追加」（＋）をクリックして、リスト内にプリンタが見つかったら、「追加」をクリックします。<\/td><\/tr><tr class='strow chrow'><td valign='top' headers='d7539e84-option' id='d7539e97' class='stentry choption'><strong>Windows を使用するコンピュータの場合：<\/strong><\/td><td valign='top' headers='d7539e84-desc d7539e97' class='stentry chdesc'> 「AirMac ユーティリティ」CD から Bonjour for Windows をインストールし、画面に表示される指示に従ってプリンタを接続します。<\/td><\/tr><\/tbody><\/table><\/li><\/ul><\/div><div class='section postreq'><p class='p'>USB プリンタによっては AirMac と互換性を持たないものがあります。プリントできない状態が続く場合は、製造元にお問い合わせください。製造元の Web サイトで新しいプリンタドライバが見つかることがあります。<\/p><\/div><\/div>", 
+"alternativeName": "USB プリンタが応答しない場合", 
+"name": "USB プリンタが応答しない場合", 
+"summary": "プリンタに関する問題の解決方法を示します。"}
+, 
+"aprt2724": {
+"content": "<div id='aprt2724' class='apd-topic'><div class='subjectids'><a name='aprt2724'><\/a><a name='alap11006'><\/a><a name='alap12689'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi ネットワークでの干渉を最小限に抑える<\/h1><div class='body taskbody'><div class='section context'><p class='p'>電子レンジなどの干渉源となるものをベースステーションまたは Time Capsule の近くで頻繁に使用すると、ネットワークのパフォーマンスに悪影響を及ぼすことがあります。干渉を最小限に抑えるには、電波干渉の影響を制御します。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「ワイヤレス・ネットワーク・オプション」を選択してから、「電波干渉の制御を使用」チェックボックスを選択します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>AirMac Extreme カードが装備されているコンピュータでこの機能を利用するときは、メニューバーの AirMac ステータスメニューから「電波干渉の制御を使用」を選択する必要があります。それ以前の AirMac カードを装備したクライアントコンピュータでは、そのままでこの機能が利用できます。<\/p><\/div><\/div>", 
+"keywords": "電波干渉の制御, 電波干渉の影響を制御, 干渉の制御, 干渉の影響を制御, 電波干渉に対する堅牢性, 干渉に対する堅牢性, 電波干渉に対する耐性, 干渉に対する耐性, AirMac の問題を解決する, AirMac の問題の解決, AirMac の障害を解決する, AirMac の障害の解決", 
+"name": "Wi-Fi ネットワークでの干渉を最小限に抑える", 
+"alternativeName": "Wi-Fi ネットワークでの干渉を最小限に抑える", 
+"summary": "干渉を最小限に抑えるには、電波干渉の影響を制御します。"}
+, 
+"aprt2725": {
+"content": "<div id='aprt2725' class='apd-topic'><div class='subjectids'><a name='aprt2725'><\/a><a name='alap11006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ワイヤレス装置の MAC アドレスを表示する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ネットワークに接続されたベースステーションの MAC（Media Access Control）アドレスを表示できます。ワイヤレス装置のワイヤレスインターフェイスとケーブル（Ethernet）インターフェイスには、それぞれに一意の MAC アドレスが割り当てられます。<\/p><p class='p'>このアドレスは、AirMac Extreme ベースステーションおよび Time Capsule の底面、および AirMac Express の背面にプリントされています。<\/p><p class='p'>ワイヤレス MAC アドレスは、AirMac ID とも呼ばれます。<\/p><p class='p'>インターネット・サービス・プロバイダ（ISP）やネットワーク上のクライアントがこの MAC アドレスを必要とする場合があります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>ベースステーションまたは Time Capsule を選択してから、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ワイヤレス MAC アドレスが「AirMac ユーティリティ」の「要約」パネルに AirMac ID として表示されます。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "AirMac の問題を解決する, AirMac の問題の解決, AirMac の障害を解決する, AirMac の障害の解決", 
+"name": "ワイヤレス装置の MAC アドレスを表示する", 
+"alternativeName": "ワイヤレス装置の MAC アドレスを表示する", 
+"summary": "ネットワークに接続されたベースステーションの MAC（Media Access Control）アドレスを表示できます。"}
+, 
+"aprt2718": {
+"content": "<div id='aprt2718' class='apd-topic'><div class='subjectids'><a name='aprt2718'><\/a><a name='alap11006'><\/a><a name='alap12704'><\/a><a name='alap10987'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ネットワーク上のワイヤレスクライアントを監視する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションに接続されたすべてのクライアントについて、無線信号の品質、ノイズ、およびデータパケット転送を監視できます。<\/p><p class='p'>この機能は、ネットワークの問題や、ネットワークに接続されている個々のクライアントの問題を解決するときに役立ちます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定するワイヤレス装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「詳細」をクリックしてから、「ログと統計情報」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「ログと統計情報」をクリックしてから、「ワイヤレスクライアント」をクリックします。ネットワーク上のワイヤレスクライアントの信号、ノイズ、およびデータ転送レートを監視できます。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ネットワーク内に複数のベースステーションまたは Time Capsule がある場合は、ワイヤレスクライアントが複数の装置によって監視されることもあります。<\/p><\/div><\/div>", 
+"keywords": "AirMac について, AirMac に関して, ログを記録する, ログ, ロギング, ロギングする, ログの記録, ログ記録, AirMac の問題を解決する, AirMac の問題の解決, AirMac の障害を解決する, AirMac の障害の解決", 
+"name": "ネットワーク上のワイヤレスクライアントを監視する", 
+"alternativeName": "ネットワーク上のワイヤレスクライアントを監視する", 
+"summary": "ネットワーク上のすべてのクライアントについて、無線信号の品質、ノイズ、およびデータパケット転送を監視できます。"}
+, 
+"aprt2732": {
+"navigation": "false", 
+"content": "<div id='aprt2732' class='apd-topic'><div class='subjectids'><a name='aprt2732'><\/a><a name='alap11006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi ネットワークを選択できない場合<\/h1><div class='body taskbody'><div class='section context'><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>通信範囲の外に出ている可能性があります。お使いのコンピュータが接続先のワイヤレス装置の通信圏内にあることを確認してください。<\/span><\/li><li class='li step'><span class='ph cmd'>電子レンジなどの電波干渉源がないことを確認してください。<\/span><\/li><li class='li step'><span class='ph cmd'>ベースステーションの電源コンセントを抜いてからもう一度つないでベースステーションを再起動してください。その後、もう一度接続してみてください。<\/span><\/li><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」の「AirMac」設定の「ワイヤレス」パネルで、「ワイヤレスのモード」ポップアップメニューが「切」に設定されていないことを確認します。<\/span><\/li><li class='li step'><span class='ph cmd'>Wi-Fi サービスが選択されていない可能性があります。<\/span><table border='1' frame='hsides' rules='rows' cellpadding='4' cellspacing='0' summary='' class='simpletable choicetable choicetableborder'><thead><tr><th id='d7773e82-option' valign='bottom' align='left'>オプション<\/th><th id='d7773e82-desc' valign='bottom' align='left'>説明<\/th><\/tr><\/thead><tbody><tr class='strow chrow'><td valign='top' headers='d7773e82-option' id='d7773e86' class='stentry choption'><strong>Mac の場合：<\/strong><\/td><td valign='top' headers='d7773e82-desc d7773e86' class='stentry chdesc'> 「システム環境設定」を開き、「ネットワーク」をクリックします。ネットワーク接続サービスのリストで Wi-Fi が使用可能であることを確認します。そうでない場合は、「追加」（＋）をクリックし、「インターフェイス」ポップアップメニューから「Wi-Fi」を選択してください。Wi-Fi サービスに名前を付け、「作成」をクリックし、「適用」をクリックします。<\/td><\/tr><tr class='strow chrow'><td valign='top' headers='d7773e82-option' id='d7773e95' class='stentry choption'><strong>Windows コンピュータの場合：<\/strong><\/td><td valign='top' headers='d7773e82-desc d7773e95' class='stentry chdesc'> 「ネットワーク」コントロールパネルを開き、ワイヤレスネットワーク接続が正しく設定されていることを確認します。<\/td><\/tr><\/tbody><\/table><\/li><\/ul><\/div><div class='related-links'><div class='linklist linklist'><strong>関連トピック<\/strong><br><div><a class='link' href='#aprt2734'>Wi-Fi ネットワークで電波干渉の原因になる可能性のあるもの<\/a><\/div><\/div><\/div><\/div>", 
+"keywords": "AirMac の問題を解決する, AirMac の問題の解決, AirMac の障害を解決する, AirMac の障害の解決", 
+"name": "Wi-Fi ネットワークを選択できない場合", 
+"alternativeName": "Wi-Fi ネットワークを選択できない場合", 
+"summary": "Wi-Fi ネットワークを選択できない場合は、このトピックを確認してください。"}
+, 
+"aprt2740": {
+"content": "<div id='aprt2740' class='apd-topic'><div class='subjectids'><a name='aprt2740'><\/a><a name='alap10991'><\/a><a name='alap11032'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>コンピュータの IP アドレスの有効期間を設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ある IP アドレスがお使いの Wi-Fi ネットワークの 1 つのコンピュータで有効である期間を制御するときは、DHCP（Dynamic Host Configuration Protocol）のリース期間を設定します。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「インターネット」をクリックし、「接続共有」ポップアップメニューから「パブリック IP アドレスを共有」または「IP アドレスの範囲を割り当てる」が選択されていることを確認してから、「DHCP」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「DHCP リース」フィールドに数字を入力し、ポップアップメニューから「分」、「時間」、または「日」を選択します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>リース期間を非常に短くすれば、利用できる IP アドレスよりも多くのコンピュータがあるようなネットワークを、DHCP で動的に再構成できます。<\/p><p class='p'>DHCP の予約を設定している場合は、リストにあるコンピュータの DHCP リースの期限が切れても、新しい DHCP アドレスは割り当てられません。<\/p><\/div><\/div>", 
+"keywords": "DHCP, AirMac ネットワークを設定する, AirMac ネットワークの設定, AirMac ネットワークをセットアップする, AirMac ネットワークのセットアップ", 
+"name": "コンピュータの IP アドレスの有効期間を設定する", 
+"alternativeName": "コンピュータの IP アドレスの有効期間を設定する", 
+"summary": "「AirMac ユーティリティ」で DHCP（Dynamic Host Configuration Protocol）のリース期間を設定できます。"}
+, 
+"aprt2719": {
+"content": "<div id='aprt2719' class='apd-topic'><div class='subjectids'><a name='aprt2719'><\/a><a name='alap10989'><\/a><a name='alap11032'><\/a><a name='alap12704'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ネットワーク上の DHCP クライアントを監視する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ワイヤレスネットワークに接続しているクライアントコンピュータの MAC アドレス、IP アドレスとクライアント ID、および DHCP リース期間を表示できます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「詳細」をクリックしてから、「ログと統計情報」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「ログと統計情報」をクリックしてから、「DHCP クライアント」をクリックします。ネットワーク上のクライアントの Mac アドレス、IP アドレス、クライアント ID、およびリース期間が表示されます。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>クライアント ID はオプションの項目なので、ネットワークによっては使用されていない場合もあります。<\/p><\/div><\/div>", 
+"keywords": "DHCP, ログを記録する, ログ, ロギング, ロギングする, ログの記録, ログ記録, AirMac ワイヤレス装置を設定する, AirMac ワイヤレス装置の設定, AirMac ワイヤレスデバイスを設定する, AirMac ワイヤレスデバイスの設定, AirMac ワイヤレス装置をセットアップする, AirMac ワイヤレス装置のセットアップ, AirMac ワイヤレスデバイスをセットアップする, AirMac ワイヤレスデバイスのセットアップ", 
+"name": "ネットワーク上の DHCP クライアントを監視する", 
+"alternativeName": "ネットワーク上の DHCP クライアントを監視する", 
+"summary": "ワイヤレスネットワークに接続しているクライアントコンピュータの MAC アドレス、IP アドレスとクライアント ID、および DHCP リース期間を表示できます。"}
+, 
+"ap20913": {
+"content": "<div id='ap20913' class='apd-topic'><div class='subjectids'><a name='ap20913'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Time Capsule ディスクを消去する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Time Capsule を使用している場合に、「AirMac ユーティリティ」を使用してそのディスクを消去することができます。<\/p><p class='p'>内蔵 AirMac ディスクを消去するときに、以下のセキュリティレベルを選択できます：<\/p><p class='p'><strong class='ph b'>クイック消去（安全性低）：<\/strong>「クイック消去」では、ディレクトリ情報がディスクから消去されて、データにアクセスできなくなります。ディスク上のデータは、その上に別のデータが書き込まれるまで残っています。データは復元できる可能性があるため、このオプションは安全性が最も低くなります。<\/p><p class='p'><strong class='ph b'>データをゼロ消去：<\/strong>ディスク上のすべてのデータの上にゼロを書き込みたい場合は、このオプションを選択します。このオプションでは、最小限の時間でデータが十分に保護されます。ディスク全体に書き込まれるため、「クイック消去」オプションより時間がかかります。<\/p><p class='p'><strong class='ph b'>7 回消去：<\/strong>このオプションでは、ディスク全体にゼロが 7 回書き込まれます。「7 回消去」では、より確実にデータが消去されますが、「データをゼロ消去」オプションに比べて 7 倍の時間がかかります。<\/p><p class='p'><strong class='ph b'>35 回消去：<\/strong>最も確実にディスクを消去するには、このオプションを選択します。このオプションでは、ディスク全体にゼロが 35 回書き込まれます。最も確実に消去されますが、「データをゼロ消去」オプションに比べて 35 倍の時間がかかります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>消去したい内蔵 AirMac ディスクが搭載されている Time Capsule を選択してから、「手動設定」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「ディスク」をクリックし、内蔵 AirMac ディスクを選択してから、ポップアップメニューから「ディスクを消去」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>ディスクの名前を指定し、「確実な消去」ポップアップメニューからセキュリティレベルを選択してから、「消去」をクリックします。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ディスクが消去されている間は、Time Capsule のステータスランプがオレンジ色に点滅します。ディスクが消去されて再び使用できる状態になるまで、設定を変更したり、ファームウェアをアップデートしたり、Time Capsule を再起動することはできません。<\/p><\/div><\/div>", 
+"alternativeName": "Time Capsule ディスクを消去する", 
+"name": "Time Capsule ディスクを消去する", 
+"summary": "Time Capsule を使用している場合に、「AirMac ユーティリティ」を使用して内蔵 AirMac ディスクを消去することができます。"}
+, 
+"aprt2727": {
+"content": "<div id='aprt2727' class='apd-topic'><div class='subjectids'><a name='aprt2727'><\/a><a name='alap10990'><\/a><a name='alap11032'><\/a><a name='alap12696'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>インターネット接続を共有する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>1 つの IP アドレスを DHCP（Dynamic Host Configuration Protocol）および NAT（Network Address Translation）を使用するネットワーク上のすべてのクライアントで共有できるように、ベースステーションまたは Time Capsule を設定することができます。<\/p><p class='p'>ベースステーションまたは Time Capsule が PPPoE を使ってインターネットに接続している場合は、DHCP と NAT を使って 1 つの IP アドレスを共有するようにすでに設定されています。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、ベースステーションのパスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「インターネット」をクリックしてから、「インターネット接続」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「接続共有」ポップアップメニューから「パブリック IP アドレスを共有」または「IP アドレスの範囲を割り当てる」を選択します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>パブリック IP アドレスを共有するか IP アドレスの範囲を割り当てる方法で DHCP と NAT を有効にすると、ベースステーションまたは Time Capsule からクライアントコンピュータに IP アドレスを動的かつ自動的に割り当てることができます。これによって、各コンピュータの TCP\/IP 構成が簡単になります。<\/p><\/div><\/div>", 
+"alternativeName": "インターネット接続を共有する", 
+"name": "インターネット接続を共有する", 
+"summary": "ネットワーク上のすべてのクライアントが DHCP と NAT を使って 1 つの IP アドレスを共有するように（ベースステーションがブリッジとして機能するように）、ベースステーションを設定することができます。"}
+, 
+"aprt2741": {
+"content": "<div id='aprt2741' class='apd-topic'><div class='subjectids'><a name='aprt2741'><\/a><a name='alap10990'><\/a><a name='alap10991'><\/a><a name='alap12698'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ネットワークトラフィックをネットワーク上の特定のコンピュータに転送する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ネットワーク上の Web サーバ、AppleShare サーバ、FTP サーバ、または特定のコンピュータに要求が正しく送られるようにするには、そのサーバまたはコンピュータに固定 IP アドレスを割り当て、「受信ポートのマッピング」情報を AirMac ベースステーションまたは Time Capsule に設定する必要があります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「詳細」をクリックしてから、「ポートマッピング」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「追加」（＋）ボタンをクリックし、「サービス」ポップアップメニューからサービス（「パーソナルファイル共有」など）を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>「プライベート IP アドレス」フィールドにサーバの IP アドレスを入力します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ポートマッピングを使用するときは、Web、AppleShare、または FTP サーバが稼動するコンピュータで TCP\/IP を手動で構成する必要があります。<\/p><\/div><\/div>", 
+"keywords": "転送, 回送, 送付, 送信, ポートマッピング, ポートマップ, ポートフォワーディング, ポート転送, AirMac ネットワークを設定する, AirMac ネットワークの設定, AirMac ネットワークをセットアップする, AirMac ネットワークのセットアップ, AirMac を使用する, AirMac を使う, AirMac の使用", 
+"name": "ネットワークトラフィックをネットワーク上の特定のコンピュータに転送する", 
+"alternativeName": "ネットワークトラフィックをネットワーク上の特定のコンピュータに転送する", 
+"summary": "ネットワーク上の Web、AppleShare、または FTP サーバに要求が正しく送られるようにするには、サーバに固定 IP アドレスを割り当て、受信ポートのマッピング情報を AirMac ベースステーションまたは Time Capsule に設定する必要があります。"}
+, 
+"aprt2734": {
+"content": "<div id='aprt2734' class='apd-topic'><div class='subjectids'><a name='aprt2734'><\/a><a name='alap11006'><\/a><a name='alap11846'><\/a><a name='alap12710'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi ネットワークで電波干渉の原因になる可能性のあるもの<\/h1><div class='body taskbody'><div class='section context'><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>電子レンジ。<\/span><\/li><li class='li step'><span class='ph cmd'>DSS（Direct Satellite Service）ラジオの周波数漏れ。<\/span><\/li><li class='li step'><span class='ph cmd'>特定の種類の衛星パラボラアンテナに最初に付属している同軸ケーブル。装置の製造元に問い合わせて、新しいケーブルを入手してください。<\/span><\/li><li class='li step'><span class='ph cmd'>送電線、電車の路線、発電所など、特定の電気施設。<\/span><\/li><li class='li step'><span class='ph cmd'>2.4 または 5 GHｚ（ギガヘルツ）で動作するコードレス電話。電話または AirMac の通信に問題がある場合は、ベースステーションのチャンネルを変えてください。<\/span><\/li><li class='li step'><span class='ph cmd'>ほかの Wi-Fi ネットワーク。<\/span><\/li><li class='li step'><span class='ph cmd'>隣接したチャンネルを使用する近くにあるワイヤレス装置。たとえば、装置 A をチャンネル 1 に設定している場合は、装置 B のチャンネルは 6 または 11 に設定します。<\/span><\/li><li class='li step'><span class='ph cmd'>物を移動したために、一時的にコンピュータとベースステーションの間に入った金属。<\/span><\/li><\/ul><\/div><\/div>", 
+"alternativeName": "Wi-Fi ネットワークで電波干渉の原因になる可能性のあるもの", 
+"name": "Wi-Fi ネットワークで電波干渉の原因になる可能性のあるもの", 
+"summary": "ワイヤレスネットワークで電波干渉の原因になる可能性のあるものを示します。"}
+, 
+"aprt2730": {
+"content": "<div id='aprt2730' class='apd-topic'><div class='subjectids'><a name='aprt2730'><\/a><a name='alap11038'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi ネットワークで USB プリンタを使用する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirMac Extreme ベースステーション、AirMac Express、または Time Capsule に互換性のある USB プリンタを接続すると、ネットワーク上のすべてのケーブル接続およびワイヤレス接続のコンピュータがそのプリンタでプリントできます。<\/p><p class='p'>プリンタを装置に接続する前に、コンピュータに接続してテストページをプリントします。<\/p><p class='p'>プリンタが正しく動作することを確認してから、ワイヤレス装置の USB ポートにプリンタを接続します。<\/p><\/div><div class='li step p'><span class='ph cmd'>Mac OS X を使用するコンピュータの場合：「システム環境設定」を開き、「プリントとスキャン」をクリックします。リストからプリンタを選びます。プリンタがリストにない場合は、「追加」（＋）をクリックし、プリンタを選択して、「追加」をクリックします。<\/span><p class='p'>Windows コンピュータの場合：「AirMac ユーティリティ」CD から Bonjour for Windows をインストールし、画面に表示される指示に従ってプリンタを接続します。<\/p><\/div><\/div><div class='section postreq'><p class='p'>プリンタをワイヤレス装置に接続すると、エラーメッセージまたはステータスメッセージが表示されないことがあります。用紙切れやプリンタビジーなどのメッセージが表示されません。<\/p><\/div><\/div>", 
+"alternativeName": "Wi-Fi ネットワークで USB プリンタを使用する", 
+"name": "Wi-Fi ネットワークで USB プリンタを使用する", 
+"summary": "AirMac Extreme ベースステーションに USB プリンタを接続すると、Mac OS X バージョン 10.2.3 以降または Windows XP Service Pack 2 を使用する AirMac ネットワーク上のすべてのコンピュータがそのプリンタでプリントできます。"}
+, 
+"aprt2742": {
+"navigation": "false", 
+"content": "<div id='aprt2742' class='apd-topic'><div class='subjectids'><a name='aprt2742'><\/a><a name='alap10989'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirMac の設定を検索する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Macintosh コンピュータで「AirMac ユーティリティ」を使用している場合は、「AirMac ユーティリティ」の検索フィールドを使って、ベースステーションまたは Time Capsule の IP アドレスや無線モードなどの必要な設定をすばやく見つけることができます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「アプリケーション」フォルダの「ユーティリティ」フォルダにある「AirMac ユーティリティ」を開きます。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>検索フィールドに語句を入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>リストから項目を選択すると、その設定に移動します。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "AirMac の設定を検索する", 
+"name": "AirMac の設定を検索する", 
+"summary": "「AirMac ユーティリティ」の検索フィールドを使って、必要な設定をすばやく見つけることができます。"}
+, 
+"aprt2735": {
+"content": "<div id='aprt2735' class='apd-topic'><div class='subjectids'><a name='aprt2735'><\/a><a name='alap10987'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirMac について<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirMac を使用すれば、自宅内や教室内のどこからでも簡単にワイヤレスでインターネットにアクセスできます。AirMac は、ケーブルを利用してネットワークを設定するのではなく、WLAN（Wireless Local Area Network）技術を利用することによって、コンピュータ間でワイヤレス通信のできる環境を提供します。<\/p><p class='p'>AirMac が直接コンピュータからインターネット・サービス・プロバイダ（ISP）にワイヤレス接続を行う訳ではありません。お使いのコンピュータとインターネットまたはインターネットにつながるネットワークに接続しているベースステーションまたは Time Capsule との間にワイヤレス接続を設定してください。<\/p><\/div><div class='li step p'><span class='ph cmd'>「AirMac ユーティリティ」を使用して、AirMac ネットワークにアクセスするようにコンピュータを構成したり、AirMac ベースステーションまたは Time Capsule を設定したりします。<\/span><p class='p'>「AirMac ユーティリティ」は、Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><\/div><\/div>", 
+"alternativeName": "AirMac について", 
+"name": "AirMac について", 
+"summary": "AirMac を使用すれば、自宅内や教室内のどこからでも簡単にワイヤレスでインターネットにアクセスできます。"}
+, 
+"aprt2736": {
+"content": "<div id='aprt2736' class='apd-topic'><div class='subjectids'><a name='aprt2736'><\/a><a name='alap10991'><\/a><a name='alap11031'><\/a><a name='alap11855'><\/a><a name='alap12685'><\/a><a name='alap12708'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ワイヤレスネットワークをパスワードで保護する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ワイヤレスネットワークでの通信を保護するには、AirMac ベースステーションまたは Time Capsule のデータ暗号化機能を有効にします。ワイヤレスネットワークに接続するユーザは、パスワードまたはユーザ名とパスワードの入力を求められます。<\/p><p class='p'>設定している装置、およびネットワークに接続するクライアントコンピュータの機能に応じて、ネットワークを保護するためにさまざまな種類のパスワードを選択できます。<\/p><p class='p'><strong class='ph b'>WEP：<\/strong>ベースステーションが対応している場合、WEP（Wired Equivalent Privacy）パスワードを使ってネットワークを保護するときには、このオプションを選択してパスワードを入力します。一部の AirMac Extreme ベースステーションと AirMac Express ベースステーションは、40 ビットおよび 128 ビットの暗号化に対応しています。互換性を重視する場合には、「ワイヤレスセキュリティ」ポップアップメニューから「WEP 40 ビット」を選択します。「WEP 128 ビット」を選択すると、WEP のセキュリティが強化されます。<\/p><p class='p'>128 ビットの暗号化を選択した場合は、128 ビットの暗号化技術に対応したワイヤレスネットワークカードが取り付けられているコンピュータだけが、ネットワークに参加できます。40 ビットの暗号化を選択した場合は、40 ビットおよび 128 ビットの暗号化技術に対応したワイヤレスネットワークカードが取り付けられているコンピュータがネットワークに参加できますが、暗号化は 40 ビットで行われます。<\/p><p class='p'><strong class='ph b'>WPA／WPA2 パーソナル：<\/strong>WPA（Wi-Fi Protected Access）を使ってネットワークを保護するときには、このオプションを選択します。「パスワード」を選択して ASCII 文字で 8 文字以上 63 文字以内のパスワードを入力するか、「共有キー」を選択して 16 進数でちょうど 64 文字のパスワードを入力します。WPA または WPA2 を使用するワイヤレス・クライアント・コンピュータがネットワークに接続できます。<\/p><p class='p'><strong class='ph b'>WPA2 パーソナル：<\/strong>WPA2 を使用するクライアントコンピュータだけがネットワークに接続する場合に、WPA（Wi-Fi Protected Access）を使ってネットワークを保護するときには、このオプションを選択します。<\/p><p class='p'><strong class='ph b'>WPA／WPA2 エンタープライズ：<\/strong>RADIUS（Remote Authentication Dial-In User Service）サーバなど、認証サーバを含むネットワークを設定する場合は、このオプションを選択します。プライマリサーバとセカンダリーサーバの IP アドレスとポート番号を入力し、「共有シークレット」（サーバのパスワード）を入力します。WPA または WPA2 を使用するワイヤレス・クライアント・コンピュータがネットワークに接続する場合は、このオプションを使用します。<\/p><p class='p'><strong class='ph b'>WPA2 エンタープライズ：<\/strong>認証サーバを含むネットワークを設定する場合に、WPA2 を使用するクライアントコンピュータだけがそのネットワークに接続する場合は、このオプションを選択します。<\/p><p class='p'><strong class='ph b'>WEP（Transitional Security Network）：<\/strong>WEP 互換のコンピュータと WPA／WPA2 互換のコンピュータの両方がネットワークに接続する場合は、このオプションを使用します。正確に 13 文字のパスワードを使用してください。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定するワイヤレス装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「ワイヤレスセキュリティ」ポップアップメニューからパスワード方式を選びます。<\/span><\/li><li class='li step'><span class='ph cmd'>このワイヤレスネットワークに接続するためにすべてのユーザが使用するパスワードを入力します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>「ワイヤレスセキュリティ」ポップアップメニューから「なし」を選択した場合は、ネットワークのワイヤレス通信圏にあるすべてのユーザがお使いのワイヤレスネットワークにアクセスできます。<\/p><p class='p'>WPA パーソナルおよび WPA エンタープライズについて詳しくは、下のリンクをクリックしてください。<\/p><\/div><\/div>", 
+"keywords": "AirMac のセキュリティ, AirMac のセキュリティー, AirMac セキュリティ, AirMac セキュリティー, RADIUS, AirMac ネットワークを設定する, AirMac ネットワークの設定, AirMac ネットワークをセットアップする, AirMac ネットワークのセットアップ, WPA（Wi-Fi Protected Access）, WEP（Wired Equivalent Privacy）, AirMac Extreme", 
+"name": "ワイヤレスネットワークをパスワードで保護する", 
+"alternativeName": "ワイヤレスネットワークをパスワードで保護する", 
+"summary": "ワイヤレスネットワークを保護するときは、「AirMac ユーティリティ」の「AirMac」パネルで「ワイヤレスセキュリティ」ポップアップメニューでパスワード方式を選びます。"}
+, 
+"aprt2723": {
+"content": "<div id='aprt2723' class='apd-topic'><div class='subjectids'><a name='aprt2723'><\/a><a name='alap10991'><\/a><a name='alap11031'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ネットワークの名前を隠す<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirMac ベースステーションまたは Time Capsule で非公開ネットワークを設定すると、コンピュータがワイヤレスネットワークをスキャンしてもそのネットワーク名は表示されません。ユーザは、ネットワークに接続するときに、ネットワークの名前を正確に入力する必要があります。また、パスワードの入力を求められることもあります。ネットワーク名とパスワードは、どちらも大文字と小文字を区別します。ネットワークを非公開にすることによって、ネットワークのセキュリティを高めることができます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「ワイヤレス・ネットワーク・オプション」をクリックしてから、「非公開ネットワークを作成」チェックボックスを選択します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>非公開ネットワークに接続するときは、メニューバーにある AirMac の状況メニューから「その他」を選択してネットワークの名前を入力し、必要に応じてネットワークのパスワードを入力します。ネットワークの名前またはパスワードが分からない場合は、ネットワーク管理者に確認してください。<\/p><\/div><\/div>", 
+"keywords": "AirMac のセキュリティ, AirMac のセキュリティー, AirMac セキュリティ, AirMac セキュリティー, AirMac ネットワークを設定する, AirMac ネットワークの設定, AirMac ネットワークをセットアップする, AirMac ネットワークのセットアップ", 
+"name": "ネットワークの名前を隠す", 
+"alternativeName": "ネットワークの名前を隠す", 
+"summary": "ユーザがネットワークに接続するときに Wi-Fi ネットワークの名前の入力を要求するために、Wi-Fi ネットワークの名前を隠すことができます。"}
+, 
+"aprt2728": {
+"content": "<div id='aprt2728' class='apd-topic'><div class='subjectids'><a name='aprt2728'><\/a><a name='alap10989'><\/a><a name='alap11038'><\/a><a name='alap12693'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>リモートプリントを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションまたは Time Capsule が Ethernet ネットワークに接続されていて、互換性のある USB プリンタをその装置に接続している場合、Ethernet ネットワーク上のクライアントはそのプリンタでプリントできます。この機能は、リモートプリントと呼ばれます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「プリンタ」をクリックし、プリンタがリストに含まれていることを確認します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ワイヤレス装置の WAN ポートでプリンタを共有する場合は、「WAN 経由でプリンタを共有」を選択します。Bonjour を使ってインターネット経由でプリンタを共有することもできます。<\/p><\/div><\/div>", 
+"alternativeName": "リモートプリントを設定する", 
+"name": "リモートプリントを設定する", 
+"summary": "ベースステーションが Ethernet ネットワークに接続されていて、そのベースステーションに USB プリンタを接続している場合、Ethernet ネットワーク上のクライアントはそのプリンタでプリントできます。"}
+, 
+"aprt2744": {
+"content": "<div id='aprt2744' class='apd-topic'><div class='subjectids'><a name='aprt2744'><\/a><a name='alap10991'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ベースステーションまたは Time Capsule に関する情報を表示する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションまたは Time Capsule の設定（装置の IP アドレス、作成しているネットワークの名前、装置のファームウェアのバージョンなど）を表示できます。これは、問題の解決を試みる場合や、ほかのユーザやネットワーク管理者と情報を共有する場合に便利です。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>使用したい装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>設定のタイトルをダブルクリックすると、「AirMac ユーティリティ」のその設定のパネルに移動します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Mac で「AirMac ユーティリティ」を使用している場合は、検索フィールドに語句を入力し、リストから結果を選択して、「AirMac ユーティリティ」のそのパネルに移動することもできます。<\/p><\/div><\/div>", 
+"keywords": "AirMac ネットワークを設定する, AirMac ネットワークの設定, AirMac ネットワークをセットアップする, AirMac ネットワークのセットアップ", 
+"name": "ベースステーションまたは Time Capsule に関する情報を表示する", 
+"alternativeName": "ベースステーションまたは Time Capsule に関する情報を表示する", 
+"summary": "「AirMac ユーティリティ」の「要約」パネルを使って、ベースステーションの IP アドレス、作成しているネットワークの名前、ファームウェアのバージョンなど、ベースステーションの設定を表示します。"}
+, 
+"aprt2737": {
+"content": "<div id='aprt2737' class='apd-topic'><div class='subjectids'><a name='aprt2737'><\/a><a name='alap11006'><\/a><a name='alap12689'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi ネットワークで干渉が起きる場合<\/h1><div class='body taskbody'><div class='section context'><p class='p'>学校やオフィスで複数の Wi-Fi ネットワークを使用している場合で、いずれかのネットワークで干渉が起きたときは、そのネットワークが使用するチャンネルの変更が必要になることがあります。<\/p><p class='p'>デフォルトでは、ベースステーションまたは Time Capsule を接続したときに、AirMac ソフトウェアによって最適なチャンネルが自動的に選択されます。ベースステーションまたは Time Capsule で干渉が起きる場合は、使用するチャンネルを変更してみてください。<\/p><p class='p'>AirMac Extreme を 5 GHz（ギガヘルツ）の周波数帯域で使用する場合は、使用するチャンネルを変更できません。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、ベースステーションのパスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「チャンネル」ポップアップメニューから新しいチャンネルを選択します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ワイヤレス装置が近くにある場合は、チャンネルを 5 つ以上離して設定してください。たとえば、装置 A をチャンネル 1 に設定している場合は、装置 B のチャンネルは 6 または 11 に設定します。<\/p><p class='p'>Wi-Fi ネットワーク上のコンピュータでは、装置が使用するチャンネルが自動的に選択されます。装置のチャンネルを変更しても、ワイヤレスネットワークに接続されたコンピュータでチャンネルを変更する必要はありません。<\/p><\/div><\/div>", 
+"keywords": "電波干渉の制御, 電波干渉の影響を制御, 干渉の制御, 干渉の影響を制御, 電波干渉に対する堅牢性, 干渉に対する堅牢性, 電波干渉に対する耐性, 干渉に対する耐性, AirMac の問題を解決する, AirMac の問題の解決, AirMac の障害を解決する, AirMac の障害の解決", 
+"name": "Wi-Fi ネットワークで干渉が起きる場合", 
+"alternativeName": "Wi-Fi ネットワークで干渉が起きる場合", 
+"summary": "Wi-Fi ネットワークで干渉が起きたとき、そのネットワークが使用するチャンネルの変更が必要になる場合があります。"}
+, 
+"button-0": {
+"type": "navigation", 
+"howdyPageID": "ap35497", 
+"alternativeNameStyle": "replace"}
+, 
+"aprt2752": {
+"content": "<div id='aprt2752' class='apd-topic'><div class='subjectids'><a name='aprt2752'><\/a><a name='alap11031'><\/a><a name='alap11855'><\/a><a name='alap12685'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>WPA2（Wi-Fi Protected Access 2）を使ってワイヤレスネットワークを保護する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>「AirMac ユーティリティ」は、2 つの WPA2 モードに対応しています。エンタープライズモードでは、ユーザを認証するために RADIUS サーバを使用します。パーソナルモードでは、RADIUS サーバを必要としません。<\/p><p class='p'>エンタープライズモードは、IT 技術者が設定および管理することが多い大規模ネットワーク向けに設計されています。WPA エンタープライズネットワークを設定するには、まず 802.1X 接続を設定する必要があります。802.1X 接続には、TTLS、LEAP、PEAP などの認証プロトコルが必要です。また、ネットワークユーザの資格情報と証明書を管理する認証サーバも必要です。<\/p><p class='p'>WPA エンタープライズネットワークの設定方法については、下のリンクをクリックしてください。<\/p><p class='p'><a class='xref' href='#aprt2753'>WPA2 エンタープライズネットワークを設定する<\/a><\/p><p class='p'>パーソナルモードは、ホームネットワークまたは小規模オフィスネットワーク向けに設計されており、ほとんどのユーザが設定および管理できます。パーソナルモードでは、認証サーバは別途必要ありません。ネットワークユーザは通常、ユーザ名とパスワードを入力するだけでネットワークに接続できます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>WPA または WPA2 と互換性のあるコンピュータからネットワークに接続できるようにしたい場合は、「ワイヤレスセキュリティ」ポップアップメニューから「WPA／WPA2 パーソナル」を選択します。WPA2 と互換性のあるコンピュータだけがネットワークに接続できるようにしたい場合は、「WPA2 パーソナル」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>8 〜 63 文字の ASCII 文字を使って ASCII パスワードを入力します。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "AirMac のセキュリティ, AirMac のセキュリティー, AirMac セキュリティ, AirMac セキュリティー, RADIUS, WPA（Wi-Fi Protected Access）", 
+"name": "WPA2（Wi-Fi Protected Access 2）を使ってワイヤレスネットワークを保護する", 
+"alternativeName": "WPA2（Wi-Fi Protected Access 2）を使ってワイヤレスネットワークを保護する", 
+"summary": "AirMac は、2 つの WPA2 モードに対応しています。 エンタープライズモードでは、ユーザを認証するために RADIUS サーバを使用します。パーソナルモードでは、RADIUS サーバを必要としません。"}
+, 
+"aprt2738": {
+"content": "<div id='aprt2738' class='apd-topic'><div class='subjectids'><a name='aprt2738'><\/a><a name='alap10991'><\/a><a name='alap11032'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>単一の Ethernet ネットワークで複数のベースステーションを使用する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>単一のワイヤレスネットワークを構築するときに、複数の AirMac Extreme ベースステーションまたは Time Capsule を設置することができます（「ローミングネットワーク」と呼ばれます）。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>すべてのベースステーションおよび Time Capsule を Ethernet ネットワーク内の同じサブネットに接続し、各装置に同じネットワーク名およびネットワークパスワードを割り当てます。<\/span><\/li><li class='li step'><span class='ph cmd'>DHCP（Dynamic Host Configuration Protocol）を使ってネットワーク上のクライアントに IP アドレスを割り当てる場合は、1 台の装置を DHCP サーバとして設定します。これを行うには：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。DHCP サーバとして設定する装置を選択して、「手動設定」をクリックします。<\/p><p class='p'>その装置から実際の IP アドレスの範囲が割り当てられていることを確認します。NAT（Network Address Translation）で使われるプライベート IP アドレスは、ローミングには使用できません。ツールバーの「インターネット」をクリックし、「インターネット接続」をクリックして、「接続共有」ポップアップメニューから「IP アドレスの範囲を割り当てる」を選択します。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>DHCP と NAT を切にして、ほかのすべてのベースステーションをブリッジとして設定します。これを行うには：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>「AirMac ユーティリティ」で、ブリッジとして設定したい装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/p><p class='p'>ブリッジとして設定したい装置で、ツールバーの「インターネット」をクリックし、「インターネット接続」をクリックして、「接続共有」ポップアップメニューから「切（ブリッジモード）」を選択します。<\/p><\/li><\/ul><\/li><\/ol><\/div><div class='section postreq'><p class='p'>802.11n に対応しているワイヤレス装置を使用している場合は、D-WDS（Dynamic Wireless Distribution System）を設定することで、ネットワークの通信圏を拡張できます。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>関連トピック<\/strong><br><div><a class='link' href='#ap11953'>802.11n ネットワークの通信圏を拡張する<\/a><\/div><\/div><\/div><\/div>", 
+"keywords": "DHCP, AirMac ネットワークを設定する, AirMac ネットワークの設定, AirMac ネットワークをセットアップする, AirMac ネットワークのセットアップ, AirMac Extreme", 
+"name": "単一の Ethernet ネットワークで複数のベースステーションを使用する", 
+"alternativeName": "単一の Ethernet ネットワークで複数のベースステーションを使用する", 
+"summary": "同じ Ethernet サブネットに複数のベースステーションを設置して、単一のワイヤレスネットワークを構築することができます。"}
+, 
+"ap35497": {
+"navigation": "false", 
+"content": "<div class='apd-topic' id='ap35497'><div class='subjectids'><a name='ap35497'><\/a><\/div><h1 class='title topictitle1'>AirMac ユーティリティヘルプ<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>AirMac ユーティリティヘルプ<\/h2><p class='p'>Apple 製ワイヤレス装置または Wi-Fi ネットワークを設定するためのヘルプを検索します。<\/p><\/div><\/div><\/div>", 
+"alternativeName": "AirMac ユーティリティヘルプ", 
+"name": "AirMac ユーティリティヘルプ", 
+"class": "default"}
+, 
+"aprt2760": {
+"content": "<div id='aprt2760' class='apd-topic'><div class='subjectids'><a name='aprt2760'><\/a><a name='alap10989'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>USB ハードディスクをベースステーションに接続する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションが対応している場合は、USB ハードディスクをベースステーションの USB ポートに接続して、ネットワーク上のコンピュータ（ケーブル接続およびワイヤレス）からそのハードディスクに接続し、ファイルやデータにアクセスしてそれらを共有および保存することができます。<\/p><p class='p'>Time Capsule を使用している場合は、すでに AirMac ディスクが内蔵されています。追加の USB ディスクを Time Capsule の USB ポートに接続することもできます。<\/p><\/div><div class='li step p'><span class='ph cmd'>ハードディスクは装置の背面にある USB ポートに接続します。装置に USB ハブを接続すれば、いくつかのハードディスクを接続して、ワイヤレスネットワークからそれらにアクセスできます。<\/span><p class='p'>「AirMac ユーティリティ」は、ディスクのフォーマットには対応していません。コンピュータを使ってハードディスクをフォーマットします。Macintosh の場合は、HFS Plus とも呼ばれる Mac OS 拡張フォーマットを使ってハードディスクをフォーマットします。Windows を使用するコンピュータの場合は、FAT32 を使います。<\/p><p class='p'>Time Capsule を使用している場合は、「AirMac ユーティリティ」の「ディスク」パネルから内蔵 AirMac ディスクの内容を消去できます。<\/p><\/div><\/div><div class='section postreq'><p class='p'>ハードディスクに関する詳細を確認するには、「AirMac ユーティリティ」を開き、ベースステーションを選択して、「ベースステーション」＞「手動設定」と選択します。必要に応じて、ベースステーションのパスワードを入力します。ツールバーの「ディスク」をクリックします。<\/p><p class='p'>「ファイル共有」パネルで、ハードディスクに対するアクセス権を設定したり、ワークグループ名を割り当てたりできます。<\/p><p class='p'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><\/div>", 
+"keywords": "AirMac ワイヤレス装置を設定する, AirMac ワイヤレス装置の設定, AirMac ワイヤレスデバイスを設定する, AirMac ワイヤレスデバイスの設定, AirMac ワイヤレス装置をセットアップする, AirMac ワイヤレス装置のセットアップ, AirMac ワイヤレスデバイスをセットアップする, AirMac ワイヤレスデバイスのセットアップ, 共有 USB 装置, 共有 USB デバイス, シェアード USB 装置, シェアード USB デバイス", 
+"name": "USB ハードディスクをベースステーションに接続する", 
+"alternativeName": "USB ハードディスクをベースステーションに接続する", 
+"summary": "USB ハードディスクをネットワークに接続すると、ネットワーク上のすべてのコンピュータからそのディスクにアクセスして、ファイルやデータを共有したり保存したりできます。"}
+, 
+"aprt2753": {
+"content": "<div id='aprt2753' class='apd-topic'><div class='subjectids'><a name='aprt2753'><\/a><a name='alap11031'><\/a><a name='alap11855'><\/a><a name='alap12685'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>WPA2 エンタープライズネットワークを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>WPA2 エンタープライズネットワークを設定するには、RADIUS サーバを設定して、ユーザ名、パスワード、ユーザ証明書などのネットワークユーザ資格情報を管理および検証する必要があります。RADIUS サーバを設定するときは、付属のマニュアルを参照してください。サーバを設定した後に、以下の手順に従って WPA2 エンタープライズネットワークを設定します。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「ワイヤレスセキュリティ」ポップアップメニューから、設定しているベースステーション、およびネットワークに接続するワイヤレス・クライアント・コンピュータの互換性に応じて、「WPA／WPA2 エンタープライズ」または「WPA2 エンタープライズ」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>「RADIUS を構成」をクリックし、プライマリ RADIUS 認証サーバとセカンダリー RADIUS 認証サーバの IP アドレス、共有シークレット（またはパスワード）、およびポートを入力します。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "AirMac のセキュリティ, AirMac のセキュリティー, AirMac セキュリティ, AirMac セキュリティー, RADIUS, WPA（Wi-Fi Protected Access）", 
+"name": "WPA2 エンタープライズネットワークを設定する", 
+"alternativeName": "WPA2 エンタープライズネットワークを設定する", 
+"summary": "WPA2 エンタープライズネットワークを設定するには、RADIUS サーバを設定して、ユーザ名、パスワード、ユーザ証明書などのネットワークユーザ資格情報を管理および検証する必要があります。"}
+, 
+"aprt2739": {
+"content": "<div id='aprt2739' class='apd-topic'><div class='subjectids'><a name='aprt2739'><\/a><a name='alap10989'><\/a><a name='alap10990'><\/a><a name='alap12711'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>オーディオおよびビデオストリーミングの品質を制御する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Wi-Fi ネットワークでオーディオおよびビデオストリーミングサーバまたはマルチキャスト機能を備えたアプリケーションを使用している場合は、マルチキャストレートを設定して伝送の品質を制御できます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「ワイヤレス・ネットワーク・オプション」をクリックして、「マルチキャストレート」ポップアップメニューからレートを選びます。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>マルチキャストレートを高くした場合、ネットワークでワイヤレス通信範囲内にあり、設定したレートを達成できるクライアントだけが伝送を受信します。<\/p><p class='p'>マルチキャストレートを 1 Mbps（メガビット／秒）に設定して、ネットワークの範囲をデフォルトを超える範囲まで広げることができます。<\/p><\/div><\/div>", 
+"keywords": "AirMac ワイヤレス装置を設定する, AirMac ワイヤレス装置の設定, AirMac ワイヤレスデバイスを設定する, AirMac ワイヤレスデバイスの設定, AirMac ワイヤレス装置をセットアップする, AirMac ワイヤレス装置のセットアップ, AirMac ワイヤレスデバイスをセットアップする, AirMac ワイヤレスデバイスのセットアップ, AirMac を使用する, AirMac を使う, AirMac の使用, マルチキャストレート, マルチキャスト速度, マルチキャスト転送速度", 
+"name": "オーディオおよびビデオストリーミングの品質を制御する", 
+"alternativeName": "オーディオおよびビデオストリーミングの品質を制御する", 
+"summary": "マルチキャストレートを設定して、Wi-Fi ネットワークのオーディオ／ビデオストリーミングの品質を制御できます。"}
+, 
+"ap20881": {
+"navigation": "false", 
+"content": "<div id='ap20881' class='apd-topic'><div class='subjectids'><a name='ap20881'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Ethernet WAN ポート経由でプリンタを共有する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Ethernet WAN ポートを使用してプリンタを共有するようにベースステーションまたは Time Capsule を設定すると、ローカルネットワーク上にないコンピュータでもそのプリンタでプリントすることができます。たとえば、職場にいながら、自宅のベースステーションに接続されている USB プリンタでプリントすることができます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>AirMac ベースステーションまたは Time Capsule に USB プリンタを接続します。<\/span><\/li><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>プリンタを共有する装置を選択し、「手動設定」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「プリンタ」をクリックしてから、「Ethernet WAN ポート経由でプリンタを共有」を選択します。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "Ethernet WAN ポート経由でプリンタを共有する", 
+"name": "Ethernet WAN ポート経由でプリンタを共有する", 
+"summary": "Etheｒnet WAN ポートを使用してプリンタを共有するようにベースステーションを設定すると、ローカルネットワーク上にないコンピュータでもそのプリンタでプリントすることができます。"}
+, 
+"aprt2754": {
+"content": "<div id='aprt2754' class='apd-topic'><div class='subjectids'><a name='aprt2754'><\/a><a name='alap11006'><\/a><a name='alap11031'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ベースステーション、Time Capsule、またはネットワークのパスワードを忘れた場合<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーション、Time Capsule、またはネットワークのパスワードを忘れたときは、装置をリセットし、新しいパスワードを選ぶことができます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>装置を電源につないだ状態で、ペンの先端を使ってリセットボタンを数秒間押し続けます。装置とネットワークのパスワードが一時的に「public」にリセットされます。<\/span><\/li><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>リセットした装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。デフォルトのパスワードは、「public」です。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「ベースステーション」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>装置の新しいパスワードを入力してから、「アップデート」をクリックします。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>リセット後 5 分以内に変更を行わなかった場合は、装置をもう一度リセットしなければなりません。<\/p><\/div><\/div>", 
+"keywords": "AirMac のセキュリティ, AirMac のセキュリティー, AirMac セキュリティ, AirMac セキュリティー, AirMac の問題を解決する, AirMac の問題の解決, AirMac の障害を解決する, AirMac の障害の解決", 
+"name": "ベースステーション、Time Capsule、またはネットワークのパスワードを忘れた場合", 
+"alternativeName": "ベースステーション、Time Capsule、またはネットワークのパスワードを忘れた場合", 
+"summary": "パスワードを忘れたときは、ベースステーションをリセットし、新しいパスワードを選ぶことができます。"}
+, 
+"aprt2761": {
+"content": "<div id='aprt2761' class='apd-topic'><div class='subjectids'><a name='aprt2761'><\/a><a name='alap11038'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>USB プリンタの名前を変更する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>「AirMac ユーティリティ」を使って、ベースステーションまたは Time Capsule に接続されている USB プリンタの名前を変更できます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定するベースステーションまたは Time Capsule を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「プリンタ」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「USB プリンタ」フィールドに新しい名前を入力します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ベースステーションの USB ポートに USB ハブを接続し、その USB ハブに複数のプリンタを接続することもできます。それらのすべてのプリンタの名前は、「AirMac ユーティリティ」を使って変更できます。<\/p><\/div><\/div>", 
+"alternativeName": "USB プリンタの名前を変更する", 
+"name": "USB プリンタの名前を変更する", 
+"summary": "「AirMac ユーティリティ」を使ってプリンタの名前を変更できます。"}
+, 
+"aprt2755": {
+"content": "<div id='aprt2755' class='apd-topic'><div class='subjectids'><a name='aprt2755'><\/a><a name='alap11032'><\/a><a name='alap12694'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ベースステーションまたは Time Capsule が NAT や DHCP を備えるルーターに接続されている場合<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションまたは Time Capsule を接続するルーターやその他のネットワークデバイスが NAT（Network Address Translation）を使って単一のインターネット接続をネットワーク上の複数のコンピュータと共有しており、DHCP（Dynamic Host Configuration Protocol）を使ってプライベート IP アドレスを提供している場合、ベースステーションまたは Time Capsule の NAT および DHCP をオフにする必要があります。<\/p><p class='p'>ほとんどのネットワークでは、NAT および DHCP を使用して IP アドレスを提供するのに必要なデバイスは 1 台だけです。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「インターネット」をクリックしてから、「インターネット接続」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「接続共有」ポップアップメニューから「切（ブリッジモード）」を選択します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>NAT と DHCP をオフにすると、装置はネットワーク上のケーブル接続のコンピュータとワイヤレス接続のコンピュータの単なるブリッジとして動作します。<\/p><\/div><\/div>", 
+"alternativeName": "ベースステーションまたは Time Capsule が NAT や DHCP を備えるルーターに接続されている場合", 
+"name": "ベースステーションまたは Time Capsule が NAT や DHCP を備えるルーターに接続されている場合", 
+"summary": "ルーターで NAT および DHCP が使用されている場合は、ベースステーションまたは Time Capsule の NAT および DHCP をオフにする必要があります。"}
+, 
+"aprt2748": {
+"content": "<div id='aprt2748' class='apd-topic'><div class='subjectids'><a name='aprt2748'><\/a><a name='alap10991'><\/a><a name='alap12688'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ネットワークの通信範囲を制御する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>送信出力を下げて Wi-Fi ネットワークの通信圏を制限することによって、ネットワークにアクセスできるコンピュータを制御できます。ネットワークの通信範囲を狭くすると、ベースステーションまたは Time Capsule の近くにあるコンピュータだけがネットワークに接続できます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>制御したい装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「ワイヤレス・ネットワーク・オプション」をクリックしてから、「送信出力」ポップアップメニューから設定を選択します（パーセンテージが低いほど、ネットワークの通信圏が狭くなります）。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "AirMac ネットワークを設定する, AirMac ネットワークの設定, AirMac ネットワークをセットアップする, AirMac ネットワークのセットアップ, 送信出力, 伝送出力, 発信出力, 送信電力, 伝送電力, 発信電力", 
+"name": "ネットワークの通信範囲を制御する", 
+"alternativeName": "ネットワークの通信範囲を制御する", 
+"summary": "送信出力を下げてワイヤレスネットワークの通信圏を制限することによって、ネットワークにアクセスできるコンピュータを制御できます。"}
+, 
+"button-1": {
+"type": "navigation", 
+"howdyPageID": "searchable-landing-com-apple-airportutility-help", 
+"alternativeNameStyle": "replace"}
+, 
+"aprt2756": {
+"content": "<div id='aprt2756' class='apd-topic'><div class='subjectids'><a name='aprt2756'><\/a><a name='alap11032'><\/a><a name='alap12694'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>複数のコンピュータでインターネット接続を共有する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirMac ベースステーションまたは Time Capsule では、複数のコンピュータで単一のインターネット接続を共有することができます。DHCP（Dynamic Host Configuration Protocol）および NAT（Network Address Translation）を使った Wi-Fi ネットワークでは、ベースステーションまたは Time Capsule が各コンピュータに IP アドレスを割り当て、インターネット情報を転送できます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「インターネット」をクリックしてから、「インターネット接続」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「接続共有」ポップアップメニューから「パブリック IP アドレスを共有」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>「DHCP」をクリックし、「DHCP の範囲」ポップアップメニューからアドレスの範囲を選びます。デフォルトでは、10.0.1.2 〜 10.0.1.200 が使用されます。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>クライアントコンピュータに割り当てる IP アドレスの有効期間を設定したり、特定のクライアントコンピュータに特定の IP アドレスを予約するなど、その他の DHCP オプションも設定できます。<\/p><\/div><\/div>", 
+"alternativeName": "複数のコンピュータでインターネット接続を共有する", 
+"name": "複数のコンピュータでインターネット接続を共有する", 
+"summary": "AirMac ベースステーションでは、複数のコンピュータで単一のインターネット接続を共有することができます。"}
+, 
+"aprt2763": {
+"content": "<div id='aprt2763' class='apd-topic'><div class='subjectids'><a name='aprt2763'><\/a><a name='alap12684'><\/a><a name='alap12686'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>SNMP を無効にする<\/h1><div class='body taskbody'><div class='section context'><p class='p'>SNMP（Simple Network Management Protocol）によって管理されるネットワークは、「サービス拒否攻撃」を受けることがあります。（SNMP は「AirMac ユーティリティ」でデフォルトで有効になっています。）同様に、ベースステーションを WAN（Wide Area Network）ポート経由でリモートから構成できるようにしている場合は、許可されていないユーザがネットワーク設定を変更できる危険があります。<\/p><p class='p'>ネットワークとワイヤレス装置を保護するために、SNMP を無効にします。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「詳細」をクリックしてから、「ログと統計情報」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「SNMP を許可」チェックボックスの選択を解除します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ワイド・エリア・ネットワーク（WAN）ポート上で SNMP を許可するときは、「WAN 経由での SNMP を許可」チェックボックスを選択します。WAN ポート経由での SNMP を許可すると、装置をリモート管理できます。<\/p><p class='p'>ネットワーク情報のログを記録するためのワイヤレス装置の設定については、下の「ワイヤレスネットワーク情報のログを記録する」をクリックしてください。<\/p><\/div><\/div>", 
+"keywords": "リモート設定, リモート構成, リモートコンフィギュレーション, リモートコンフィグレーション, SNMP", 
+"name": "SNMP を無効にする", 
+"alternativeName": "SNMP を無効にする", 
+"summary": "ネットワークとベースステーションを保護するために、SNMP を無効にします。"}
+, 
+"button-2": {
+"type": "navigation", 
+"alternativeNameStyle": "replace"}
+, 
+"aprt2694": {
+"content": "<div id='aprt2694' class='apd-topic'><div class='subjectids'><a name='aprt2694'><\/a><a name='alap10989'><\/a><a name='alap10987'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirMac の設定を変更する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>「AirMac ユーティリティ」の「要約」パネルでは、変更したい AirMac 設定にすばやくアクセスできます。<\/p><\/div><div class='li step p'><span class='ph cmd'>ベースステーション設定のタイトル（「ワイヤレスセキュリティ」など）をクリックすると、「AirMac ユーティリティ」のその設定のパネルに移動します。<\/span><\/div><\/div><\/div>", 
+"alternativeName": "AirMac の設定を変更する", 
+"name": "AirMac の設定を変更する", 
+"summary": "「AirMac ユーティリティ」の「要約」パネルでは、変更したい AirMac 設定にすばやくアクセスできます。"}
+, 
+"ap11863": {
+"navigation": "false", 
+"content": "<div id='ap11863' class='apd-topic'><div class='subjectids'><a name='ap11863'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirMac について<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirMac は、家中のすべての部屋にオンライン環境を実現します。インターネットに接続するコンピュータから乱雑に伸びる目障りなケーブルはもう必要ありません。何か分からないことがあるときには、関係する語句をフィールドに入力してください。AirMac の機能や使用方法については、トピックをクリックしてください。<\/p><\/div><\/div><div class='topic task nested1' id='ap11863-a'><a name='ap11863-a'><!-- --><\/a><h2 class='title topictitle2'>AirMac で飛び立とう<\/h2><div class='body taskbody'><div class='section context'><p class='p'>1999 年、Apple は、ケーブルなしでインターネットにアクセスするための使いやすいソリューションとして、AirMac を発表しました。2003 年には、AirMac Extreme により、ワイヤレス接続が 802.11g ワイヤレス規格による次のレベルに押し上げられました。2004 年には、AirMac Express のワイヤレスネットワーキングがさらに進化しました。AirMac Express は、ワイヤレスネットワーキング、オーディオ、プリント、ブリッジ機能を、1 つの携帯可能なデバイスにまとめた、はじめてのベースステーションを提供しました。そして次世代の AirMac ワイヤレス装置は、これまでのワイヤレス装置の中で最も高速でパワフルになっています。新しい AirMac Extreme、新しい AirMac Express、および Time Capsule では、IEEE 802.11n ドラフト仕様に基づき、最大 5 倍の転送速度と 2 倍を上回る通信圏が実現されます。<\/p><\/div><\/div><\/div><div class='topic task nested1' id='ap11863-c'><a name='ap11863-c'><!-- --><\/a><h2 class='title topictitle2'>AirMac ワイヤレス装置を設定する<\/h2><div class='body taskbody'><div class='section context'><p class='p'>AirMac Extreme ベースステーション、AirMac Express、または Time Capsule は、これまで以上に簡単に設定できます。「AirMac ユーティリティ」は、ネットワークを設定したり、AirMac ワイヤレス装置によって作成される AirMac ネットワークにアクセスするようにコンピュータを構成するなど、ユーザのためのほとんどの作業を実行します。装置の電源を入れてステータスランプが点灯したら、「AirMac ユーティリティ」を開いて、画面に表示される指示に従います。その他の設定（詳細なセキュリティオプション、非公開ネットワーク、DHCP のリース期間、アクセス制御、WAN のプライバシー、電波の強さなど）を設定または変更するときは、「AirMac ユーティリティ」を使って装置を手動で設定できます。<\/p><\/div><\/div><\/div><div class='topic task nested1' id='ap11863-e'><a name='ap11863-e'><!-- --><\/a><h2 class='title topictitle2'>AirMac を使用する<\/h2><div class='body taskbody'><div class='section context'><p class='p'>単一のインターネット接続を複数のコンピュータと共有し、自宅やオフィスのどこかから Web とメールにアクセスします。家族やオフィスのすべての人とワイヤレスでファイルを交換したり、ゲームをしたり、ハードディスクやプリンタを共有したりします。そして、AirMac Express を使えば、自宅のどの部屋でも、iTunes ミュージックライブラリを楽しむことができます。<\/p><\/div><\/div><\/div><\/div>", 
+"alternativeName": "AirMac について", 
+"name": "AirMac について", 
+"summary": "AirMac Extreme は、家中のすべての部屋にオンライン環境を実現します。インターネットに接続するコンピュータから乱雑に伸びる目障りなケーブルはもう必要ありません。"}
+, 
+"aprt2771": {
+"content": "<div id='aprt2771' class='apd-topic'><div class='subjectids'><a name='aprt2771'><\/a><a name='alap10989'><\/a><a name='alap11032'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ベースステーションまたは Time Capsule の DHCP オプションを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>DHCP（Dynamic Host Configuration Protocol）を使ってワイヤレスネットワーク上のコンピュータや装置に IP アドレスを割り当てるようにベースステーションまたは Time Capsule を設定している場合は、装置が使用する IP アドレスの範囲を選択したり、コンピュータに割り当てる IP アドレスの有効期間を設定したり、ウェルカムメッセージを入力したり、ネットワークに接続する特定のコンピュータに割り当てるための IP アドレスを予約したりできます。<\/p><p class='p'>「AirMac ユーティリティ」（Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります）を開き、リストから装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。ツールバーの「インターネット」をクリックしてから、「DHCP」をクリックします。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>「DHCP の範囲」ポップアップメニューから、IP アドレスの範囲を選択します。ベースステーションから割り当てたいアドレスに応じて「10.0」、「192.168」、または「172.16」を選択してから、「DHCP の開始アドレス」フィールドと「DHCP の終了アドレス」フィールドに開始アドレスと終了アドレスを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>「DHCP リース」フィールドに数字を入力し、ポップアップメニューから「分」、「時間」、または「日」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>「DHCP メッセージ」フィールドにウェルカムメッセージを入力します。このメッセージは、コンピュータがネットワークに接続したときに表示されます。<\/span><\/li><li class='li step'><span class='ph cmd'>ワイヤレスネットワーク上の特定のコンピュータに特定の IP アドレスを割り当てるには、「DHCP の予約」リストの下にある「追加」（＋）をクリックしてから、画面に表示される指示に従って予約の名前を入力します。MAC アドレスまたは DHCP クライアント ID によってアドレスを予約します。MAC アドレスを選択した場合は、「続ける」をクリックし、MAC アドレスと特定の IP アドレスを入力します。<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>LDAP（Lightweight Directory Access Protocol）サーバを使用するようにネットワークが設定されている場合は、「LDAP サーバ」フィールドにサーバのアドレスを入力すると、ネットワーク上のコンピュータからサーバにアクセスできるようになります。<\/p><\/div><\/div>", 
+"keywords": "DHCP, Dynamic Host Configuration Protocol, AirMac ワイヤレス装置を設定する, AirMac ワイヤレス装置の設定, AirMac ワイヤレスデバイスを設定する, AirMac ワイヤレスデバイスの設定, AirMac ワイヤレス装置をセットアップする, AirMac ワイヤレス装置のセットアップ, AirMac ワイヤレスデバイスをセットアップする, AirMac ワイヤレスデバイスのセットアップ", 
+"name": "ベースステーションまたは Time Capsule の DHCP オプションを設定する", 
+"alternativeName": "ベースステーションまたは Time Capsule の DHCP オプションを設定する", 
+"summary": "DHCP を使ってワイヤレスネットワーク上のコンピュータや装置に IP アドレスを割り当てるようにベースステーションを設定している場合は、ベースステーションの DHCP オプションを設定できます。"}
+, 
+"aprt2695": {
+"content": "<div id='aprt2695' class='apd-topic'><div class='subjectids'><a name='aprt2695'><\/a><a name='alap10991'><\/a><a name='alap11846'><\/a><a name='alap11855'><\/a><a name='alap12688'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ネットワークのワイヤレスオプションを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>「AirMac ユーティリティ」の「ワイヤレス」パネルで、ネットワークのワイヤレス設定を管理します。<\/p><p class='p'>「ワイヤレス」パネルを探すには、「AirMac ユーティリティ」を開き、ベースステーションを選択するか、Time Capsule を使用している場合はそれを選択して、「ベースステーション」＞「手動設定」と選択します。必要に応じて、装置のパスワードを入力します。ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/p><p class='p'>「AirMac ユーティリティ」は、Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>ネットワークモードを設定します。ワイヤレスネットワークを作成するか、WDS（Wireless Distribution System）に接続するか、またはワイヤレスネットワークを拡張するか（装置がワイヤレスネットワークの拡張に対応していて、ほかの 802.11n 装置をネットワークに接続する場合）を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>ワイヤレスネットワークに名前を付けます。<\/span><\/li><li class='li step'><span class='ph cmd'>無線モードを設定します。お使いのベースステーションおよびネットワークに接続するクライアントコンピュータに応じて、802.11n（802.11b\/g 互換）、802.11n のみ（2.4GHz）、802.11n（802.11a 互換）、または 802.11n のみ（5GHz）を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>WEP または WPA を使用するワイヤレスネットワークのワイヤレス・セキュリティ・レベルを設定します。設定しているベースステーションおよびネットワークに接続するクライアントコンピュータの機能に応じて選択します。推奨されるセキュリティレベルは WPA／WPA2 です。<\/span><\/li><li class='li step'><span class='ph cmd'>マルチキャストレートや送信出力などの追加オプションを設定するには、「ワイヤレス・ネットワーク・オプション」をクリックします。<\/span><\/li><\/ul><\/div><\/div>", 
+"alternativeName": "ネットワークのワイヤレスオプションを設定する", 
+"name": "ネットワークのワイヤレスオプションを設定する", 
+"summary": "「AirMac ユーティリティ」の「ワイヤレス」パネルで、ベースステーションのワイヤレス設定を管理します。"}
+, 
+"aprt2758": {
+"content": "<div id='aprt2758' class='apd-topic'><div class='subjectids'><a name='aprt2758'><\/a><a name='alap12696'><\/a><a name='alap12698'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ネットワークのデフォルトホストを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Wi-Fi ネットワーク上の 1 台のコンピュータをデフォルトホストとして設定すれば、このコンピュータはインターネットに公開されてすべての受信トラフィックを受け取ります。この機能は、ネットワーク上のコンピュータを使ってネットワークゲームをプレーする場合や、すべてのインターネット・トラフィックが特定のコンピュータを経由するようにしたい場合に利用できます。<\/p><p class='p'>ベースステーションまたは Time Capsule は、DHCP（Dynamic Host Configuration Protocol）および NAT（Network Address Translation）を使ってインターネット接続を共有するように設定されている必要があります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「インターネット」をクリックしてから、「NAT」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「次の番号でデフォルトのホストを有効」を選択し、ネットワーク上でデフォルトホストとして設定したいコンピュータに IP アドレスを割り当てます。デフォルトのアドレスは、10.0.1.25 です。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "ポートマッピング, ポートマップ, ポートフォワーディング, ポート転送, NAT（Network Address Translation）, ネットワークアドレス変換（NAT）", 
+"name": "ネットワークのデフォルトホストを設定する", 
+"alternativeName": "ネットワークのデフォルトホストを設定する", 
+"summary": "ネットワーク上のコンピュータをデフォルトホストとして設定できます。 このコンピュータはインターネットに公開され、すべての受信トラフィックを受け取ります。"}
+, 
+"aprt2757": {
+"content": "<div id='aprt2757' class='apd-topic'><div class='subjectids'><a name='aprt2757'><\/a><a name='alap11032'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>クライアントコンピュータに特定の DHCP アドレスを割り当てる<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ネットワーク上のクライアントコンピュータに特定の DHCP アドレスを予約するように 802.11n ベースステーションまたは Time Capsule を設定できます。これらのクライアントがネットワークに接続すると、ベースステーションまたは Time Capsule はそれらのクライアントに常に同じ DHCP アドレスを割り当てます。<\/p><p class='p'>DHCP の予約を設定する前に、DHCP を使ってネットワーク上のクライアントコンピュータに IP アドレスを割り当てるようにベースステーションまたは Time Capsule を設定する必要があります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「インターネット」をクリックしてから、「DHCP」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「DHCP の予約」リストの下にある「追加」（＋）をクリックし、画面に表示される指示に従って DHCP アドレスを予約します。アドレスを予約するクライアントコンピュータの MAC アドレスを調べておく必要があります。また、DHCP 範囲のアドレスから予約したいアドレスを決めておく必要があります。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "DHCP", 
+"name": "クライアントコンピュータに特定の DHCP アドレスを割り当てる", 
+"alternativeName": "クライアントコンピュータに特定の DHCP アドレスを割り当てる", 
+"summary": "ネットワーク上のクライアントコンピュータに特定の DHCP アドレスを予約するようにベースステーションを設定できます。"}
+, 
+"aprt2759": {
+"content": "<div id='aprt2759' class='apd-topic'><div class='subjectids'><a name='aprt2759'><\/a><a name='alap12702'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi ネットワークに接続されたディスクのユーザアカウントを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションに接続された USB ハードディスクをユーザがどのように共有するかを制御するために、ワイヤレスネットワークのユーザのアカウントを設定することができます。Time Capsule を使用している場合は、内蔵 AirMac ディスクのユーザアカウントを設定できます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「ディスク」をクリックしてから、「ファイル共有」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「共有ディスクのセキュリティ保護」ポップアップメニューから「アカウント」を選択して、「アカウントを構成」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「追加」（＋）をクリックし、ユーザ名を入力してから、そのユーザにパスワードを割り当てます。<\/span><\/li><li class='li step'><span class='ph cmd'>「ファイル共有アクセス」ポップアップメニューから、このユーザに割り当てたいアクセス権に応じて「読み出し／書き込み」、「読み出し専用」、または「許可しない」を選択します。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "Wi-Fi ネットワークに接続されたディスクのユーザアカウントを設定する", 
+"name": "Wi-Fi ネットワークに接続されたディスクのユーザアカウントを設定する", 
+"summary": "ワイヤレスネットワークのユーザのアカウントを設定できます。"}
+, 
+"aprt2773": {
+"content": "<div id='aprt2773' class='apd-topic'><div class='subjectids'><a name='aprt2773'><\/a><a name='alap11037'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirMac Express を使って AirPlay で音楽を再生する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirMac Express をステレオやアンプ内蔵スピーカーに接続している場合は、AirPlay を使って「iTunes」の音楽を再生できます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>ステレオまたはアンプ内蔵スピーカーを AirMac Express の上面にあるミニジャックに接続し、AirMac Express を電源コンセントに接続します。<\/span><\/li><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「ミュージック」をクリックしてから、「AirPlay を使用」チェックボックスを選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>iTunes スピーカー名とパスワードを入力します。これは、iTunes ウインドウの下部にあるポップアップメニューに表示される名前です。<\/span><p class='p'>AirMac Express をはじめて設定する場合は、「ベースステーション」＞「アシスタント」と選択し、画面に表示される指示に従ってください。<\/p><\/li><\/ol><\/div><div class='section postreq'><p class='p'>AirMac Express を接続して正しく設定した後に、「iTunes」を開き、iTunes ウインドウの下部にあるポップアップメニューから AirMac Express を選択します。<\/p><\/div><\/div>", 
+"keywords": "AirMac Express", 
+"name": "AirMac Express を使って AirPlay で音楽を再生する", 
+"alternativeName": "AirMac Express を使って AirPlay で音楽を再生する", 
+"summary": "AirMac Express をステレオやアンプ内蔵スピーカーに接続している場合は、AirPlay を使って「iTunes」の音楽を再生できます。"}
+, 
+"aprt2774": {
+"content": "<div id='aprt2774' class='apd-topic'><div class='subjectids'><a name='aprt2774'><\/a><a name='alap11031'><\/a><a name='alap12679'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ユーザがネットワークにアクセスできる時間帯を制御する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>コンピュータが Wi-Fi ネットワークにアクセスできる時間帯や曜日を制御できます。ユーザがネットワークを使ってインターネットにアクセスしたり、ファイルを共有したり、ゲームで遊んだりできる時間帯を設定できます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>ベースステーションまたは Time Capsule を選択し、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「アクセス制御」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「追加」（＋）ボタンをクリックして、ネットワークへのアクセスを許可するコンピュータの MAC アドレスと説明（名前）を入力します。「このコンピュータ」をクリックして、使用しているコンピュータの MAC アドレスと名前を追加することもできます。<\/span><\/li><li class='li step'><span class='ph cmd'>各ポップアップメニューから値を選択します。曜日のポップアップメニューから曜日または「毎日」を選択し、もう 1 つのポップアップメニューから「終日」または「時間帯指定」を選択します。「時間帯指定」を選択した場合は、時間帯フィールドをダブルクリックして時間帯を編集します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>リストにコンピュータが表示されない場合は、「編集」をクリックして各ポップアップメニューから値を選択することによって、ネットワークに接続するユーザのデフォルトの動作を調整できます。<\/p><\/div><\/div>", 
+"keywords": "アクセス制御, アクセス管理, 利用制限, AirMac のセキュリティ, AirMac のセキュリティー, AirMac セキュリティ, AirMac セキュリティー", 
+"name": "ユーザがネットワークにアクセスできる時間帯を制御する", 
+"alternativeName": "ユーザがネットワークにアクセスできる時間帯を制御する", 
+"summary": "ユーザがネットワークを使ってインターネットにアクセスしたり、ファイルを共有したり、ゲームで遊んだりできる時間帯を設定できます。"}
+, 
+"aprt2697": {
+"content": "<div id='aprt2697' class='apd-topic'><div class='subjectids'><a name='aprt2697'><\/a><a name='alap10990'><\/a><a name='alap10991'><\/a><a name='alap11035'><\/a><a name='alap11037'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ワイヤレスネットワークの通信圏を拡張する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>複数の AirMac Extreme または AirMac Express ベースステーションを WDS（Wireless Distribution System）として設定して、ワイヤレスネットワークの通信圏を拡張することができます。いくつかのベースステーションを WDS 方式でワイヤレス接続するときは、各ベースステーションをメインベースステーション、リモートベースステーション、またはリレーベースステーションとして設定します。<\/p><div class='note note'><span class='notetitle'>注:<\/span> 802.11n ワイヤレスネットワークの通信圏を拡張する場合は、下のリンクをクリックすると分かりやすい手順が表示されます。<\/div><p class='p'><a class='xref' href='#ap11953'>802.11n ネットワークの通信圏を拡張する<\/a><\/p><p class='p'>メインベースステーションは、インターネットに接続されているベースステーションで、その接続をリモートベースステーションおよびリレーベースステーションと共有します。リモートベースステーションは、メインベースステーションのインターネット接続をそのまま共有します。リレーベースステーションは、メインベースステーションのインターネット接続を共有し、ほかのリモートベースステーションにその接続を転送します。<\/p><p class='p'>いずれのベースステーション構成（メイン、リモート、およびリレー）の場合も、メインベースステーションのインターネット接続を共有するときに、クライアントコンピュータとワイヤレスで共有する方法または Ethernet 接続を使って共有する方法を利用できます。Ethernet 接続を使う場合には、クライアントコンピュータが Ethernet 経由でベースステーションに接続されている必要があります。<\/p><p class='p'>複数のベースステーションを WDS 方式で設定するには、各ベースステーションの AirMac ID が必要になります。AirMac ID は MAC（Media Access Controller）アドレスとも呼ばれ、AirMac Extreme ベースステーションの底面の AirMac 記号の横にあるラベル、および AirMac Express ベースステーションの電源アダプタの側面に記載されています。すべてのベースステーションを 1 つのテーブルの上に置いて、1 つの電源コンセントに接続すれば、WDS の設定を効率的に行うことができます。<\/p><p class='p'>WDS を設定するには、「AirMac ユーティリティ」を開き、ワイヤレス装置を選択して、「ベースステーション」＞「手動設定」と選択します。必要に応じて、パスワードを入力します。ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/p><p class='p'>「AirMac ユーティリティ」は、Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows を使用するコンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「ワイヤレスのモード」ポップアップメニューから、「WDS ネットワークに接続」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>「WDS」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>次のいずれかの操作を行います：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>WDS メインベースステーションを設定する場合は、「追加」（＋）ボタンをクリックし、WDS リモートベースステーションの AirMac ID またはワイヤレス MAC アドレスを入力します。<\/p><\/li><li class='li choice'><p class='p'>リモートベースステーションを設定する場合は、WDS メインベースステーションの AirMac ID またはワイヤレス MAC アドレスを入力します。<\/p><\/li><li class='li choice'><p class='p'>リレーベースステーションを設定する場合は、WDS メインベースステーションの AirMac ID またはワイヤレス MAC アドレスを入力してから、「追加」（＋）をクリックして、WDS リモートベースステーションの AirMac ID またはワイヤレス MAC アドレスを入力します。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>WDS 内のすべてのベースステーションに同じネットワーク名とパスワードを使用します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックして「ワイヤレス」をクリックし、WDS の各ベースステーションに同じチャンネルを使用します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>デフォルトでは、「ワイヤレスクライアントを許可」チェックボックスにチェックマークが付いています。「ワイヤレスクライアントを許可」チェックボックスのチェックマークを外した場合、後でこのベースステーションの設定を変更したいときには、Ethernet ケーブルでベースステーションの LAN ポートに接続する必要があります。ベースステーションにワイヤレス接続するには、ベースステーションの構成を変更する必要があります。<\/p><p class='p'>Ethernet を使ってベースステーションが接続されている場合は、「単一の Ethernet ネットワークで複数のベースステーションを使用する」を参照してワイヤレスネットワークの通信圏を拡張してください。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>関連トピック<\/strong><br><div><a class='link' href='#aprt2738'>単一の Ethernet ネットワークで複数のベースステーションを使用する<\/a><\/div><\/div><\/div><\/div>", 
+"keywords": "AirMac Express, AirMac ネットワークを設定する, AirMac ネットワークの設定, AirMac ネットワークをセットアップする, AirMac ネットワークのセットアップ, AirMac を使用する, AirMac を使う, AirMac の使用, WDS（Wireless Distribution System）, AirMac Extreme", 
+"name": "ワイヤレスネットワークの通信圏を拡張する", 
+"alternativeName": "ワイヤレスネットワークの通信圏を拡張する", 
+"summary": "複数の AirMac Extreme または AirMac Express ベースステーションを WDS（Wireless Distribution System）として設定して、ネットワークの通信圏を拡張することができます。"}
+, 
+"aprt2698": {
+"content": "<div id='aprt2698' class='apd-topic'><div class='subjectids'><a name='aprt2698'><\/a><a name='alap10991'><\/a><a name='alap11031'><\/a><a name='alap12679'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ワイヤレスネットワークへのアクセスを制御する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>アクセス制御を使って、ワイヤレスネットワークを介して情報を送受信できるコンピュータを指定できます。ワイヤレス装置が対応している場合は、コンピュータがネットワークにアクセスできる時間帯や曜日を制御することもできます。<\/p><p class='p'>アクセス制御を行うと、「アクセス制御」リストにないコンピュータは Wi-Fi ネットワークにアクセスできなくなります。<\/p><p class='p'>アクセスオプションを設定するときは、「AirMac ユーティリティ」を使用します。「AirMac ユーティリティ」を開き、ワイヤレス装置を選択して、「ベースステーション」＞「手動設定」と選択します。必要に応じて、パスワードを入力します。ツールバーの「AirMac」をクリックしてから、「アクセス制御」をクリックします。<\/p><p class='p'>「AirMac ユーティリティ」は、Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><div class='li step p'><span class='ph cmd'>「MAC アドレスアクセス制御」ポップアップメニューから、設定しているワイヤレス装置に応じて「ローカル」（AirMac ベースステーションの一部のモデルで表示されます）、「時間制限アクセス」、または「RADIUS」を選択します。<\/span><ul class='ul'><li class='li'><p class='p'>「ローカル」を選択した場合は、「追加」（＋）ボタンをクリックして、ネットワークへのアクセスを許可するクライアントの AirMac ID またはワイヤレス MAC アドレスを入力してから、「このコンピュータ」をクリックしてお使いのコンピュータの AirMac ID を追加します。「説明」フィールドを使って、リストに表示するコンピュータの名前を入力します。<\/p><\/li><li class='li'><p class='p'>「時間制限アクセス」を選択した場合は、「追加」（＋）ボタンをクリックして、ネットワークへのアクセスを許可するコンピュータの MAC アドレスと説明（名前）を入力します。「このコンピュータ」をクリックして、このベースステーションの設定に使用しているコンピュータの MAC アドレスと名前を追加することもできます。各ポップアップメニューから値を選択します。曜日のポップアップメニューから曜日または「毎日」を選択し、もう 1 つのポップアップメニューから「終日」または「時間帯指定」を選択します。「時間帯指定」を選択した場合は、時間帯フィールドをダブルクリックして時間帯を編集します。<\/p><\/li><li class='li'><p class='p'>「RADIUS」を選択した場合は、RADIUS サービスのタイプ、およびプライマリ RADIUS サーバの RADIUS IP アドレス、共有シークレット、プライマリポートを入力します。セカンダリー RADIUS サーバがある場合は、その情報を入力します。情報が分からない場合は、サーバの管理者に確認してください。<\/p><\/li><\/ul><\/div><\/div><div class='section postreq'><p class='p'>WDS（Wireless Distribution System）でローカルアクセス制御を使う場合は、ネットワークのすべてのベースステーションに「アクセス制御」リストをコピーします。<\/p><\/div><\/div>", 
+"keywords": "アクセス制御, アクセス管理, 利用制限, AirMac のセキュリティ, AirMac のセキュリティー, AirMac セキュリティ, AirMac セキュリティー, AirMac ネットワークを設定する, AirMac ネットワークの設定, AirMac ネットワークをセットアップする, AirMac ネットワークのセットアップ", 
+"name": "ワイヤレスネットワークへのアクセスを制御する", 
+"alternativeName": "ワイヤレスネットワークへのアクセスを制御する", 
+"summary": "アクセス制御を使って、ワイヤレスネットワークにアクセスできるコンピュータを指定できます。"}
+, 
+"ap11953": {
+"content": "<div id='ap11953' class='apd-topic'><div class='subjectids'><a name='ap11953'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>802.11n ネットワークの通信圏を拡張する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>別の 802.11n ベースステーションまたは Time Capsule を接続する場合は、「AirMac ユーティリティ」を使えば 802.11n ネットワークの通信圏を簡単に拡張できます。2 台の 802.11n 装置を接続すると、WDS の設定処理が大幅に簡単になります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開き、インターネットに接続するベースステーションまたは Time Capsule を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>「手動設定」をクリックします。必要に応じて、ベースステーションのパスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、「ワイヤレス」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「ワイヤレスのモード」ポップアップメニューから「ワイヤレスネットワークを作成」を選択し、「このネットワークの拡張を許可」チェックボックスを選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>次に、このネットワークを拡張する装置を選択し、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>「ワイヤレスのモード」ポップアップメニューから「ワイヤレスネットワークを拡張」を選択し、拡張したいネットワークを「ネットワーク名」ポップアップメニューから選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>必要に応じて、ネットワークと装置のパスワードを入力します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Ethernet を使ってベースステーションが接続されている場合は、「単一の Ethernet ネットワークで複数のベースステーションを使用する」を参照してワイヤレスネットワークの通信圏を拡張してください。<\/p><p class='p'>802.11g または 802.11b を使用するワイヤレスネットワークの通信圏を拡張する場合は、Apple のサポート Web サイトを確認してください。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>関連トピック<\/strong><br><div><a class='link' href='#aprt2738'>単一の Ethernet ネットワークで複数のベースステーションを使用する<\/a><\/div><\/div><div class='linklist linklist'><strong>開く<\/strong><br><div><a class='link' href='http:\/\/www.apple.com\/jp\/support\/airmac\/' target='_blank'>AirMac サポート Web サイト<\/a><\/div><\/div><\/div><\/div>", 
+"alternativeName": "802.11n ネットワークの通信圏を拡張する", 
+"name": "802.11n ネットワークの通信圏を拡張する", 
+"summary": "別の 802.11n ベースステーションを接続する場合は、「AirMac ユーティリティ」を使えば 802.11n ネットワークの通信圏を簡単に拡張できます。"}
+, 
+"aprt2775": {
+"content": "<div id='aprt2775' class='apd-topic'><div class='subjectids'><a name='aprt2775'><\/a><a name='alap12692'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Bonjour を使用するようにベースステーションまたは Time Capsule を設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Bonjour は、ゼロコンフィギュレーションネットワークと呼ばれることもありますが、特別な構成またはネットワーク設定を行わなくても装置同士の自動検出を可能にするネットワーク技術の 1 つです。<\/p><p class='p'>一部のバージョンの AirMac Extreme ベースステーションおよびすべてのバージョンの Time Capsule は、Bonjour を使ってインターネット経由でサービスをアドバタイズする機能に対応しています。この機能を利用するには、インターネット・サービス・プロバイダ（ISP）やネットワーク管理者から受け取ったダイナミック DNS ホスト名（またはダイナミック・グローバル・ホスト名）とパスワードを使用する必要があります。<\/p><p class='p'>AirMac ワイヤレス装置にダイナミック・グローバル・ホスト名を割り当てることで、パブリック IP アドレスが定期的に変更されても、現在のローカルネットワークの外部にある装置にアクセスできるようになります。<\/p><p class='p'>アカウント情報を入手した後に、以下の手順に従って「AirMac ユーティリティ」に情報を入力してください。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>リストから装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>「ベースステーション」または「Time Capsule」をクリックしてから、名前フィールドの横にある「編集」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「ダイナミック・グローバル・ホスト名を使用」を選択して、アカウントの情報を入力します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Bonjour のサポートについて詳しい情報が必要な場合は、ISP またはネットワーク管理者に確認してください。<\/p><\/div><\/div>", 
+"alternativeName": "Bonjour を使用するようにベースステーションまたは Time Capsule を設定する", 
+"name": "Bonjour を使用するようにベースステーションまたは Time Capsule を設定する", 
+"summary": "Bonjour は、特別な構成またはネットワーク設定を行わなくても、装置同士の自動検出を可能にするネットワーク技術の 1 つです。"}
+, 
+"aprt2699": {
+"content": "<div id='aprt2699' class='apd-topic'><div class='subjectids'><a name='aprt2699'><\/a><a name='alap11031'><\/a><a name='alap12679'><\/a><a name='alap12685'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>RADIUS アクセス制御を設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>RADIUS（Remote Authentication Dial-In User Service）は、リモート・アクセス・サーバを使ってワイヤレスユーザを中央データベースと照合して認証するためのクライアント／サーバプロトコルです。これによって、ネットワーク内の各装置でユーザ情報を管理する必要がなくなります。<\/p><p class='p'>RADIUS サーバを設定（サーバに付属のマニュアルを参照してください）した後に、「AirMac ユーティリティ」を開き、ワイヤレス装置を選択して、「ベースステーション」＞「手動設定」と選択します。必要に応じて、パスワードを入力します。ツールバーの「AirMac」をクリックしてから、「アクセス制御」をクリックします。<\/p><p class='p'>「AirMac ユーティリティ」は、Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「MAC アドレスアクセス制御」ポップアップメニューから「RADIUS」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>「RADIUS のタイプ」ポップアップメニューから、RADIUS サーバの設定方法に応じて「デフォルト」または「代替」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>RADIUS サーバの IP アドレスなどの情報を入力します。入力する情報が分からない場合は、RADIUS サーバの管理者に確認してください。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "アクセス制御, アクセス管理, 利用制限, AirMac のセキュリティ, AirMac のセキュリティー, AirMac セキュリティ, AirMac セキュリティー, RADIUS", 
+"name": "RADIUS アクセス制御を設定する", 
+"alternativeName": "RADIUS アクセス制御を設定する", 
+"summary": "RADIUS を使うと、ユーザのプロファイルを個々のベースステーションに保存するのではなく、サーバの中央データベースで管理できます。"}
+, 
+"aprt2769": {
+"content": "<div id='aprt2769' class='apd-topic'><div class='subjectids'><a name='aprt2769'><\/a><a name='alap12702'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirMac ネットワークに接続されたハードディスクを保護する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>USB ハードディスクに接続できるベースステーションの場合、または AirMac ディスクが内蔵されている Time Capsule を使用している場合は、そのディスクへのアクセスを保護することができます。ハードディスクを保護するために、ベースステーションにユーザアカウントを設定している場合はユーザごとにアクセスを制限したり、またはディスクにパスワードを割り当てることができます。<\/p><p class='p'>「AirMac ユーティリティ」を開き、ベースステーションまたは Time Capsule を選択して、「ベースステーション」＞「手動設定」と選択します。必要に応じて、装置のパスワードを入力します。「ディスク」をクリックします。<\/p><p class='p'>「AirMac ユーティリティ」は、Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><div class='li step p'><span class='ph cmd'>「共有ディスクのセキュリティ保護」ポップアップメニューから「アカウント」または「ディスクパスワード」を選択します。<\/span><ul class='ul'><li class='li'><p class='p'>「ディスクパスワード」を選択した場合は、パスワードを入力します。ディスクにアクセスするユーザは、このパスワードを入力する必要があります。<\/p><\/li><li class='li'><p class='p'>「アカウント」を選択した場合は、「AirMac ユーティリティ」の「アカウント」パネルで設定したユーザ名とパスワードを使って、ユーザの認証を行う必要があります。ユーザアカウントの設定方法については、下のリンクをクリックしてください。<\/p><\/li><\/ul><\/div><\/div><div class='section postreq'><p class='p'>ディスクへのゲストアクセスを制御するために、ゲストの読み出し専用または読み出し／書き込みアクセスを許可したり、またはゲストのアクセスを禁止することができます。<\/p><p class='p'>ディスクを保護する方法を（ユーザアカウントから装置またはディスクのパスワードに）変更したり、アカウントの名前を変更したりすると、ユーザがディスク上のすべてのファイルにアクセスできなくなることがあります。<\/p><\/div><\/div>", 
+"alternativeName": "AirMac ネットワークに接続されたハードディスクを保護する", 
+"name": "AirMac ネットワークに接続されたハードディスクを保護する", 
+"summary": "ベースステーションに接続された USB ディスクへのアクセスを保護するために、ユーザごとにアクセスを制限したり、ディスクにパスワードを割り当てることができます。"}
+, 
+"local-searchtopichead-com-apple-airportutility-help": {
+"name": "ローカルで検索可能なコンテンツ", 
+"navigation": "false"}
+, 
+"ap35497-a": {
+"name": "AirMac について"}
+, 
+"cpap0006": {
+"content": "<div id='cpap0006' class='apd-topic'><div class='subjectids'><a name='cpap0006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ベースステーションおよび Time Capsule のポートと用途<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirMac ベースステーションまたは Time Capsule のポートと用途について把握するには、この表を使用します。<\/p><\/div><div class='example'><table cellpadding='4' cellspacing='0' summary='' border='1' class='simpletable'><tr class='sthead'><th valign='bottom' align='left' id='d12693e59' class='stentry'>記号<\/th><th valign='bottom' align='left' id='d12693e62' class='stentry'>ポート<\/th><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/wani.gif' alt='WAN アイコン'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>10\/100\/1000Base-T Ethernet WAN ポート<\/p><p class='p'>DSL モデムまたはケーブルモデムを接続するか、インターネットに接続された既存の Ethernet ネットワークに接続します。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/lan.gif' alt='LAN アイコン'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>10\/100\/1000Base-T Ethernet LAN ポート<\/p><p class='p'>ローカル Ethernet コンピュータ（インターネットに接続していないコンピュータ）およびプリンタを接続します。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/USB.gif' alt='USB アイコン'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>USB（Universal Serial Bus）プリンタポートまたはハード・ディスク・ポート<\/p><p class='p'>USB プリンタを接続すれば、AirMac ネットワークに接続したコンピュータがそのプリンタを共有できるようになります。装置が対応している場合は、互換性のある USB ハードディスクを接続すれば、ネットワークに接続されたコンピュータからそのディスクにアクセスできるようになります。USB ハブを接続すれば、プリンタとハードディスクの両方を接続できます。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/adpt.gif' alt='電源アダプタポート'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>電源アダプタポート<\/p><p class='p'>AirMac Extreme ベースステーションの電源アダプタの一方の端をポートにつなぎ、もう一方の端を電源コンセントにつなぎます。<\/p><\/td><\/tr><\/table><\/div><\/div><\/div>", 
+"alternativeName": "ベースステーションおよび Time Capsule のポートと用途", 
+"name": "ベースステーションおよび Time Capsule のポートと用途", 
+"summary": "AirMac ベースステーションまたは Time Capsule のポートと用途について把握するには、この表を使用します。"}
+, 
+"ap35497-b": {
+"name": "AirMac ワイヤレス装置を設定する"}
+, 
+"ap35497-c": {
+"name": "Wi-Fi ネットワークを設定する"}
+, 
+"ap35497-d": {
+"name": "問題を解決する"}
+, 
+"alap11006": {
+"content": "<div id='alap11006' class='apd-topic'><div class='subjectids'><a name='alap11006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>点滅ランプの意味<\/h1><div class='body taskbody'><div class='section context'><p class='p'>下の表に、AirMac Extreme 802.11n ベースステーション、Time Capsule、および AirMac Express のステータスランプの状態とその説明を示します。AirMac Express のステータスランプは、青色に点灯しません。<\/p><\/div><div class='example'><table cellpadding='4' cellspacing='0' summary='' border='1' class='simpletable'><tr class='sthead'><th valign='bottom' align='left' id='d24e59' class='stentry'>AirMac の表示状態<\/th><th valign='bottom' align='left' id='d24e62' class='stentry'>説明<\/th><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>切<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>装置の電源が入っていません。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>緑色に点滅<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>装置は起動中です。<\/p><p class='p'>「AirMac ユーティリティ」の「AirMac」設定の「ベースステーション」パネルにある「ステータスランプ」ポップアップメニューから「動作時に点滅」を選択した場合は、ステータスランプが緑で点滅することで、通常動作を示します。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>緑色に点灯<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>装置の電源が入っていて、正常に動作しています。「AirMac ユーティリティ」の「AirMac」設定の「ベースステーション」パネルにある「ステータスランプ」ポップアップメニューから「動作時に点滅」を選択した場合は、ステータスランプが緑で点滅することで、通常動作を示します。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>黄色に点滅<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>装置から問題が報告されています。以下を参照してください。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>黄色に点灯<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>装置は起動を完了中です。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>黄色と緑色に点滅<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>起動中に問題が発生した可能性があります。装置は再起動し、始めからやり直します。<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>青色に点灯<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>装置はワイヤレスクライアントのネットワーク接続を許可する準備ができています。<\/p><\/td><\/tr><\/table><\/div><\/div><div class='section postreq'><p class='p'>ランプが黄色に点滅する理由については、「AirMac ユーティリティ」を開き、装置を選択して、「ベースステーション」メニューから「手動設定」を選択してください。必要に応じてパスワードを入力してから、「ベースステーションの状況」をクリックすると、ランプの点滅に関する情報が表示されます。<\/p><\/div><\/div>", 
+"alternativeName": "点滅ランプの意味", 
+"name": "点滅ランプの意味", 
+"summary": "下の表に、AirMac Extreme 802.11n ベースステーション、Time Capsule、および AirMac Express のステータスランプの状態とその説明を示します。"}
+, 
+"aprt2700": {
+"content": "<div id='aprt2700' class='apd-topic'><div class='subjectids'><a name='aprt2700'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ベースステーションまたは Time Capsule の名前とパスワードを指定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ネットワーク内に複数のワイヤレス装置がある場合には、それぞれを簡単に識別できるように装置に名前を付けます。これによって、目的の装置を見つけやすくなります。ワイヤレス装置の名前は、「AirMac ユーティリティ」の左側のリストに表示されます。また、パスワードを使ってワイヤレス装置を保護することもできます。これによって、パスワードを知っている人だけが設定を変更できるようになります。<\/p><p class='p'>連絡先と場所の情報は、SNMP（Simple Network Management Protocol）を使って装置の動作状況を監視する場合に役に立ちます。<\/p><\/div><\/div><div class='section postreq'><p class='p'>Ethernet WAN ポート経由でワイヤレス装置を構成するときは、「Ethernet WAN ポート経由で構成を許可」を選択します。これによって、ネットワーク経由で接続しているときでも、設定を変更できるようになります。ワイヤレス装置がドメイン名サービスに登録されたアカウントに対応している場合は、「Bonjour を使用したインターネット経由での設定を許可」チェックボックスを選択して、このベースステーションをインターネット経由で利用できるようにすることもできます。<\/p><p class='p'>ネットワーク内またはインターネット上のネットワーク・タイム・サーバにアクセスできる場合は、「時刻を自動的に設定」チェックボックスを選択して、ネットワーク・タイム・サーバを選択できます。装置が対応している場合は、ポップアップメニューから時間帯を選択することもできます。このようにすると装置の時刻が正しく設定されるので、ログを監視する場合にお勧めします。<\/p><\/div><\/div>", 
+"keywords": "AirMac ワイヤレス装置を設定する", 
+"name": "ベースステーションまたは Time Capsule の名前とパスワードを指定する", 
+"alternativeName": "ベースステーションまたは Time Capsule の名前とパスワードを指定する", 
+"summary": "ベースステーションを識別できるように名前を付け、パスワードを使ってベースステーションを保護します。"}
+, 
+"offline-message-com-apple-airportutility-help": {
+"navigation": "false", 
+"content": "<div id='offline-message-com-apple-airportutility-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-airportutility-help'><\/a><\/div><h1 class='title topictitle1'>コンテンツを参照できません<\/h1><div class='body conbody'><p class='p'>お使いのコンピュータがインターネットに接続されていないため、この情報を参照できません。<\/p><p class='p'>この情報を表示するには、お使いのコンピュータをインターネットに接続してください。接続に問題がある場合は、「ネットワーク診断」を使用してください。<\/p><\/div><\/div>", 
+"alternativeName": "コンテンツを参照できません", 
+"name": "コンテンツを参照できません", 
+"class": "content-not-available-message"}
+, 
+"aprt2702": {
+"content": "<div id='aprt2702' class='apd-topic'><div class='subjectids'><a name='aprt2702'><\/a><a name='alap12704'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ワイヤレス装置の日付と時刻を設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>状況情報のログを Mac OS X システムログ（または Syslog ホスト）に記録するようにベースステーションまたは Time Capsule を設定する場合、または時間制限ユーザアクセスに対応したネットワークでこの機能を使用する場合は、日付と時刻が自動的に設定されるようにベースステーションまたは Time Capsule を設定する必要があります。このようにすることで、ログが正確になり、ユーザが正しい時間にネットワークにアクセスできるようになります。<\/p><p class='p'>時刻を自動設定するには、ネットワーク内またはインターネット上のネットワーク・タイム・サーバ（NTS）にアクセスできる必要があります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>装置を選んで、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「AirMac」をクリックしてから、設定の内容に応じて「ベースステーション」または「Time Capsule」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「時刻を自動的に設定」チェックボックスを選択して、ポップアップメニューからタイムサーバを選びます。<\/span><\/li><li class='li step'><span class='ph cmd'>装置が対応している場合は、「時間帯」ポップアップメニューから時間帯を選びます。<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "ログを記録する, ログ, ロギング, ロギングする, ログの記録, ログ記録", 
+"name": "ワイヤレス装置の日付と時刻を設定する", 
+"alternativeName": "ワイヤレス装置の日付と時刻を設定する", 
+"summary": "ログを正確なものにするために、ベースステーションの日付と時刻を自動設定する必要があります。"}
+, 
+"aprt2703": {
+"content": "<div id='aprt2703' class='apd-topic'><div class='subjectids'><a name='aprt2703'><\/a><a name='alap10989'><\/a><a name='alap12691'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ネットワーク上で USB ハードディスクを共有する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションが対応している場合は、USB ハードディスクをベースステーションの USB ポートに接続して、ネットワーク上のコンピュータ（ケーブル接続およびワイヤレス）からそのハードディスクに接続し、ファイルやデータにアクセスしてそれらを共有および保存することができます。<\/p><p class='p'>ハードディスクはベースステーションの背面にある USB ポートに接続します。「AirMac ユーティリティ」を開き、ベースステーションを選択して、「ベースステーション」＞「手動設定」と選択します。必要に応じて、パスワードを入力します。ツールバーの「ディスク」をクリックします。<\/p><div class='note note'><span class='notetitle'>注:<\/span> Time Capsule を使用している場合は、外部 USB ハードディスクを接続する必要はありません。Time Capsule には AirMac ディスクが内蔵されています。Time Capsule、またはベースステーションに接続されたハードディスクでディスクの共有を設定するときは、以下の手順を使用します。<\/div><p class='p'>「AirMac ユーティリティ」は、Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「ファイル共有」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>パスワードを使って共有ディスクを保護したい場合は、「ディスクパスワード」または「ベースステーションのパスワード」を選択します。アカウントを使ってディスクを保護したい場合は、「アカウント」を選択します。<\/span><p class='p'>アカウントを使用する場合は、「アカウントを構成」をクリックし、「追加」（＋）ボタンをクリックしてから、ディスクにアクセスする各ユーザの名前とパスワードを入力します。<\/p><\/li><li class='li step'><span class='ph cmd'>ディスクへのゲストアクセスについて、「AirMac ディスクのゲスト利用」ポップアップメニューから「許可しない」、「読み出し専用」、または「読み出し／書き込み」を選択します。<\/span><p class='p'>ゲストはハードディスクにアクセスできますが、ユーザアカウントにはアクセスできません。<\/p><\/li><li class='li step'><span class='ph cmd'>ディスクに WAN ポート経由でリモートアクセスできるようにしたい場合は、「Ethernet WAN ポート経由でディスクを共有」チェックボックスを選択します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ベースステーションに USB ハブを接続すれば、複数のハードディスクを接続してワイヤレスネットワークからそれらにアクセスできます。<\/p><\/div><\/div>", 
+"keywords": "リモートファイル共有, リモートファイルの共有, リモートファイルを共有する, AirMac ワイヤレス装置を設定する, AirMac ワイヤレス装置の設定, AirMac ワイヤレスデバイスを設定する, AirMac ワイヤレスデバイスの設定, AirMac ワイヤレス装置をセットアップする, AirMac ワイヤレス装置のセットアップ, AirMac ワイヤレスデバイスをセットアップする, AirMac ワイヤレスデバイスのセットアップ, 共有 USB 装置, 共有 USB デバイス, シェアード USB 装置, シェアード USB デバイス", 
+"name": "ネットワーク上で USB ハードディスクを共有する", 
+"alternativeName": "ネットワーク上で USB ハードディスクを共有する", 
+"summary": "USB ハードディスクを使って、ファイルやデータにアクセスしてそれらを共有および保存することができます。"}
+, 
+"aprt2710": {
+"content": "<div id='aprt2710' class='apd-topic'><div class='subjectids'><a name='aprt2710'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ダイヤルアップモデムのオプションを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションにモデムが内蔵されている場合は、「インターネット」設定の「モデム」パネルを使ってモデムおよびダイヤルアップ接続に固有の機能を設定します。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>接続を解除するまでのモデムの待機時間を選択できます。<\/span><\/li><li class='li step'><span class='ph cmd'>モデムの国別コードを設定できます。<\/span><\/li><li class='li step'><span class='ph cmd'>v.90 または v.34 モデムプロトコルを選択できます。v.90 を使用して問題が起きる場合は、v.34 を使用すると解決できることがあります。<\/span><\/li><li class='li step'><span class='ph cmd'>利用している電話サービスに応じて、トーンダイヤルまたはパルスダイヤルを選択できます。<\/span><\/li><li class='li step'><span class='ph cmd'>Web ブラウザを開いたときやメールを送信したときにインターネット・サービス・プロバイダ（ISP）にダイヤルするようにモデムを設定する場合は、「自動的にダイヤル」を選択できます。<\/span><\/li><\/ul><\/div><\/div>", 
+"keywords": "AirMac ワイヤレス装置を設定する", 
+"name": "ダイヤルアップモデムのオプションを設定する", 
+"alternativeName": "ダイヤルアップモデムのオプションを設定する", 
+"summary": "このパネルを使って、モデムおよびダイヤルアップ接続に固有の機能を設定します。"}
+, 
+"ap15210": {
+"content": "<div id='ap15210' class='apd-topic'><div class='subjectids'><a name='ap15210'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>802.11n ネットワークにワイヤレスクライアントを追加する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>802.11n に対応している AirMac ベースステーション、または Time Capsule を使用していて、ネットワークが「WPA パーソナル」または「WPA／WPA2 パーソナル」を使ってパスワードで保護されている場合は、ワイヤレスクライアントがネットワークパスワードを入力しなくてもネットワークにアクセスできるようにすることができます。<\/p><p class='p'>クライアントにネットワークへのアクセスを許可すると、そのクライアントの名前とワイヤレス MAC アドレス（またはAirMac ID）が「AirMac ユーティリティ」のアクセス制御リストに保存されます。それらの情報は、取り除くまでリストに残ります。また、24 時間制限のアクセスを提供することもできます。24 時間経つと、クライアントはネットワークにアクセスできなくなります。<\/p><p class='p'>クライアントにワイヤレスネットワークへのアクセスを提供するときは、クライアントはネットワークパスワードを入力する必要はありません。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>「ベースステーション」＞「ワイヤレスクライアントを追加」と選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>クライアントがネットワークにアクセスする方法を選択します：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>ネットワークアクセスを要求するクライアントが提供する 8 桁の数字を入力する場合は、「PIN」を選択します。<\/p><\/li><li class='li choice'><p class='p'>ネットワークに接続しようとする次のクライアントにネットワークアクセスを許可する場合は、「最初に接続したクライアント」を選択します。<\/p><\/li><li class='li choice'><p class='p'>ネットワークにアクセスできるのを 1 日間に制限したい場合は、「クライアントのアクセスを 24 時間に制限」を選択します。このオプションを選択しない場合、クライアントは、リストからクライアントの名前を取り除くまでネットワークにアクセスできます。<\/p><\/li><\/ul><\/li><\/ol><\/div><div class='section postreq'><p class='p'>クライアントを取り除くには、「AirMac ユーティリティ」のツールバーの「AirMac」をクリックし、「アクセス制御」をクリックして、クライアントの名前を選択してから、「削除」（－）をクリックします。リストからクライアントを取り除いた後、装置をアップデートする必要があります。<\/p><\/div><\/div>", 
+"alternativeName": "802.11n ネットワークにワイヤレスクライアントを追加する", 
+"name": "802.11n ネットワークにワイヤレスクライアントを追加する", 
+"summary": "ワイヤレスネットワークへのアクセスを提供するときは、クライアントはネットワークパスワードを入力する必要はありません。"}
+, 
+"aprt2704": {
+"content": "<div id='aprt2704' class='apd-topic'><div class='subjectids'><a name='aprt2704'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ベースステーションまたは Time Capsule を常に最新の状態にする<\/h1><div class='body taskbody'><div class='section context'><p class='p'>新しいファームウェアを入手できる状態になったら、AirMac ベースステーションまたは Time Capsule のファームウェアをアップグレードできます。新しいファームウェアを入手できる場合は、次回「AirMac ユーティリティ」を開いたときに通知されます。画面上の指示に従って新しいファームウェアをダウンロードしてインストールしてください。<\/p><p class='p'>手動でアップデートを確認することもできます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」メニューから「アップデートを確認」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>入手できるファームウェア・アップデートをすべてダウンロードする場合は、「ダウンロード」をクリックします。アップデートするワイヤレス装置に固有のファームウェアを選択する場合は、「詳細情報を表示」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>ファームウェアをダウンロードしたら、「アップデート」をクリックして装置にインストールします。複数の装置をアップデートする場合は、「詳細情報を表示」をクリックして、アップデートしたい装置を選択します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ファームウェアをダウンロードしてインストールしなかった場合でも、後でインストールできます。「AirMac ユーティリティ」を開き、アップデートしたい装置を選択して、「手動設定」をクリックします。「AirMac」設定の「要約」パネルで「アップデート」をクリックし、ファームウェアをインストールします。<\/p><\/div><\/div>", 
+"keywords": "AirMac ワイヤレス装置を設定する", 
+"name": "ベースステーションまたは Time Capsule を常に最新の状態にする", 
+"alternativeName": "ベースステーションまたは Time Capsule を常に最新の状態にする", 
+"summary": "AirMac ベースステーションの新しいファームウェアを入手できる状態になったら、ベースステーションのファームウェアをアップグレードできます。"}
+, 
+"ap15211": {
+"content": "<div id='ap15211' class='apd-topic'><div class='subjectids'><a name='ap15211'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>リモートから PPP を使ってベースステーションに接続する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>内蔵モデムを装備したデュアル Ethernet（Snow）または AirMac Extreme ベースステーションを使用していて、ベースステーションのモデムが電話回線に接続されている場合は、リモートコンピュータからベースステーションにダイヤルインして、ネットワークにアクセスできます。<\/p><p class='p'>ベースステーションにリモート接続すると、Ethernet で接続されたコンピュータを含め、ネットワーク全体にアクセスできます。ベースステーションが DSL またはケーブルモデムでインターネットに接続されている場合は、インターネットに接続することもできます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>ベースステーションを選択し、「手動設定」をクリックします。必要に応じて、ベースステーションのパスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>「ネットワーク」を選択し、「PPP ダイヤルインを使用する」チェックボックスを選択して、「構成」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>ユーザ名とパスワード、応答までの呼び出し回数、その他の設定を入力します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>着信に応答するようにベースステーションを設定するため、ベースステーション専用の電話回線を使用することを検討してください。同じ回線のほかの着信によって、AirMac ベースステーションのモデムの接続が解除される場合があります。<\/p><div class='note note'><span class='notetitle'>注:<\/span> ベースステーションの内蔵モデムを使ってインターネットに接続する場合は、PPP ダイヤルインは使用できません。<\/div><\/div><\/div>", 
+"alternativeName": "リモートから PPP を使ってベースステーションに接続する", 
+"name": "リモートから PPP を使ってベースステーションに接続する", 
+"summary": "ベースステーションが対応している場合は、リモートコンピュータからベースステーションにダイヤルインして、AirMac ネットワークにアクセスできます。"}
+, 
+"aprt2705": {
+"content": "<div id='aprt2705' class='apd-topic'><div class='subjectids'><a name='aprt2705'><\/a><a name='alap12680'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Ethernet を使ってインターネットに接続する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>DSL モデムまたはケーブルモデムを使ってインターネットに接続している場合、またはローカル・エリア・ネットワーク（LAN）を使ってインターネットに接続している場合は、ベースステーションまたは Time Capsule をそのモデムまたはネットワークに接続して、インターネット接続をワイヤレスネットワーク上のコンピュータおよびクライアントとの間で共有できます。<\/p><p class='p'>ベースステーションまたは Time Capsule がインターネット・サービス・プロバイダ（ISP）またはネットワークからインターネットアドレスを受け取る方法、およびネットワーク上のコンピュータとインターネット接続を共有する方法を設定する必要があります。<\/p><p class='p'>「AirMac ユーティリティ」を開き、設定したい装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。ツールバーの「インターネット」をクリックしてから、「インターネット接続」をクリックします。「接続方法」ポップアップメニューから「Ethernet」を選択してから、「TCP\/IP」をクリックします。<\/p><p class='p'>「AirMac ユーティリティ」は、Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「IPv4 の構成」ポップアップメニューから次のいずれかを選択して、ワイヤレス装置が ISP から IP アドレスを受け取る方法を設定します：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>ISP から IP アドレスを自動的に取得する場合は、「DHCP サーバを参照」を選択します。<\/p><\/li><li class='li choice'><p class='p'>ISP から IP アドレスとアカウントを受け取った場合は、「手入力」を選択します。IP アドレス、サブネットマスク、ルーターアドレスなど、ISP から受け取った情報を必要に応じて入力します。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>「接続共有」をクリックし、ネットワーク上のコンピュータとインターネット接続を共有する方法を設定します。装置をネットワークに接続している場合は、ブリッジとして設定します。<\/span><ul class='ul choices'><li class='li choice'><p class='p'>DHCP と NAT を使ってネットワーク上のコンピュータと IP アドレスを共有する場合は、「接続共有」ポップアップメニューから「パブリック IP アドレスを共有」を選択します。<\/p><\/li><li class='li choice'><p class='p'>ISP から IP アドレスの範囲を受け取った場合は、「接続共有」ポップアップメニューから「IP アドレスの範囲を割り当てる」を選択します。<\/p><\/li><li class='li choice'><p class='p'>装置を接続しているネットワーク上に IP アドレスを配布している DHCP サーバがある場合は、「切（ブリッジモード）」を選択します。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>「アップデート」をクリックすると、これらの新しい設定を使って装置が設定し直されます。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>PPPoE（Point-to-Point Protocol over Ethernet）アカウントを使用してインターネットに接続する場合は、下のリンクをクリックしてください。<\/p><\/div><\/div>", 
+"alternativeName": "Ethernet を使ってインターネットに接続する", 
+"name": "Ethernet を使ってインターネットに接続する", 
+"summary": "ベースステーションをケーブルモデム、DSL モデム、または Ethernet ネットワークに接続して、ベースステーションのワイヤレスネットワーク上のコンピュータとインターネット接続を共有できます。"}
+, 
+"searchable-landing-com-apple-airportutility-help": {
+"navigation": "false", 
+"content": "<div class='apd-topic' id='searchable-landing-com-apple-airportutility-help'><div class='subjectids'><a name='searchable-landing-com-apple-airportutility-help'><\/a><\/div><h1 class='title topictitle1'>AirMac ユーティリティヘルプ<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>AirMac ユーティリティヘルプ<\/h2><p class='p'>検索可能なトピック<\/p><\/div><\/div><\/div>", 
+"alternativeName": "AirMac ユーティリティヘルプ", 
+"name": "AirMac ユーティリティヘルプ", 
+"class": "default"}
+, 
+"ap22913": {
+"navigation": "false", 
+"content": "<div id='ap22913' class='apd-topic'><div class='subjectids'><a name='ap22913'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ゲストネットワークを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ゲストネットワークを設定すると、インターネットへの接続の一部が「ゲスト」ワイヤレスクライアントに予約され、プライベートネットワークにアクセスせずにゲストネットワークに参加してインターネットに接続できるようになります。<\/p><p class='p'>クライアントコンピュータで共有サービスが設定されている場合は、ゲスト同士が通信することもできます。<\/p><p class='p'>Apple 製ワイヤレス装置のパブリック IP アドレスを共有するようにその装置を設定する必要があります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>ゲストネットワークを設定したいワイヤレス装置を選択して、「続ける」をクリックします。<\/span><p class='p'>設定アシスタントを使用して、使用したい設定を装置とプライベートネットワークに適用します。<\/p><\/li><li class='li step'><span class='ph cmd'>デフォルトでは、ゲストネットワークの名前は「XXX ゲストネットワーク」になります。XXX はプライベートネットワークの名前です。ゲストネットワークの名前を変更するには、「ゲストネットワークを有効にする」フィールドに新しい名前を入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ゲストネットワークにパスワードを指定するか、「ゲストネットワークのセキュリティ」ポップアップメニューから「なし」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>「続ける」をクリックして設定アシスタントでの設定の入力を終了してから、「アップデート」をクリックします。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ゲストコンピュータ同士の通信を許可したい場合は、クライアントコンピュータで共有サービスが設定されていることを確認してください。「AirMac ユーティリティ」でワイヤレス装置を選択して、「手動設定」をクリックします。ツールバーの「AirMac」をクリックし、「ゲストネットワーク」をクリックしてから、「ゲストネットワークのクライアント間での通信を許可」を選択します。<\/p><\/div><\/div>", 
+"alternativeName": "ゲストネットワークを設定する", 
+"name": "ゲストネットワークを設定する", 
+"summary": "ゲストネットワークを設定することによって、ワイヤレスクライアントがプライベートネットワークにアクセスせずにインターネットに接続できるようになります。"}
+, 
+"ap15213": {
+"navigation": "false", 
+"content": "<div id='ap15213' class='apd-topic'><div class='subjectids'><a name='ap15213'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>設定を読み込む<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションまたは Time Capsule の設定ファイルを保存した場合、またはネットワーク管理者から設定ファイルを渡された場合は、ベースステーションまたは Time Capsule に設定を読み込むことができます。<\/p><p class='p'>すべての設定を読み込むことも、時間制限アクセス制御、アカウント設定、またはその他すべての設定を選択することもできます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>「ファイル」＞「読み込む」と選択し、設定ファイルを選択して、「開く」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>読み込みたい設定を選択して、「OK」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「アップデート」をクリックして、新しい設定を有効にします。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>設定ファイルを保存するには、「ファイル」＞「別名で保存」と選択します。後でその設定を読み込むときに装置のパスワードの入力を求めるときは、「パスワードを暗号化データとして含める」を選択します。パスワード以外のすべての設定を表示するときは、パスワードを入力しないで「続ける」をクリックできます。<\/p><\/div><\/div>", 
+"alternativeName": "設定を読み込む", 
+"name": "設定を読み込む", 
+"summary": "ベースステーションの設定ファイルを保存した場合、またはネットワーク管理者から設定ファイルを渡された場合は、ベースステーションに設定を読み込むことができます。"}
+, 
+"ap22914": {
+"navigation": "false", 
+"content": "<div id='ap22914' class='apd-topic'><div class='subjectids'><a name='ap22914'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi ネットワークで、どこでも My Mac を使用する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>MobileMe アカウントを持っている場合は、「どこでも My Mac」を使って AirMac ベースステーションまたは Time Capsule にアクセスできます。ベースステーションや Time Capsule にアクセスしてネットワークを監視したり、ベースステーションや Time Capsule の設定を変更したりできます。<\/p><p class='p'>Time Capsule に内蔵されているハードディスク、またはベースステーションや Time Capsule に接続されている外付け USB ハードディスクにアクセスすることもできます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>リストからベースステーションまたは Time Capsule を選択して、「手動設定」をクリックします。必要に応じて、ベースステーションまたは Time Capsule のパスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「詳細」をクリックしてから、「MobileMe」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>MobileMe メンバー名とパスワードを入力します。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "Wi-Fi ネットワークで、どこでも My Mac を使用する", 
+"name": "Wi-Fi ネットワークで、どこでも My Mac を使用する", 
+"summary": "MobileMe アカウントを持っている場合は、「どこでも My Mac」を使って AirMac ベースステーションまたは Time Capsule にアクセスできます。"}
+, 
+"ap15214": {
+"content": "<div id='ap15214' class='apd-topic'><div class='subjectids'><a name='ap15214'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirMac ユーティリティの環境設定を設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>「AirMac ユーティリティ」の環境設定を使って、使用可能なアップデートがあるときに通知するようにベースステーションまたは Time Capsule を設定できます。また、問題が検出された場合に通知し、問題の解決に役立つ指示を表示するように環境設定を設定することもできます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>Mac の場合は、「AirMac ユーティリティ」メニューから「環境設定」を選択します。Windows を使用するコンピュータの場合は、「ファイル」メニューから「設定」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>次のチェックボックスを選択します：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>「AirMac ユーティリティ」を開くときに常に、Apple の Web サイトでソフトウェア・アップデートとファームウェア・アップデートを自動的に確認するには、「AirMac ユーティリティを開くときにアップデートを確認」を選択します。<\/p><\/li><li class='li choice'><p class='p'>ソフトウェア・アップデートとファームウェア・アップデートをバックグラウンドで確認するには、「アップデートを確認する頻度」チェックボックスを選択して、ポップアップメニューから頻度（毎週など）を選択します。アップデートが使用可能な場合は、「AirMac ユーティリティ」が開きます。<\/p><\/li><li class='li choice'><p class='p'>ベースステーションのステータスランプがオレンジ色に点滅するような問題を調査するには、「AirMac ワイヤレス装置の問題を監視」を選択します。このチェックボックスを選択すると、問題が検出された場合に「AirMac ユーティリティ」が開き、問題の解決に役立つ指示が表示されます。このオプションでは、ネットワーク上のすべてのベースステーションが監視されます。<\/p><\/li><li class='li choice'><p class='p'>監視対象のベースステーションを、今使用しているコンピュータから設定したものだけに制限するには、「自分で構成した AirMac ワイヤレス装置だけを監視」を選択します。<\/p><\/li><li class='li choice'><p class='p'>ワイヤレス装置をリモートから監視する場合は、「Bonjour を使用してインターネット経由で AirMac ワイヤレス装置を監視」を選択します。<\/p><\/li><\/ul><\/li><\/ol><\/div><div class='section postreq'><p class='p'>AirMac ワイヤレス装置の問題を監視するには、AirMac ベースステーションのファームウェア 7.0 以降に対応した AirMac Extreme ベースステーション、および AirMac ユーティリティ 5.2 以降が必要です。<\/p><\/div><\/div>", 
+"alternativeName": "AirMac ユーティリティの環境設定を設定する", 
+"name": "AirMac ユーティリティの環境設定を設定する", 
+"summary": "AirMac の環境設定を使って、アップデートや問題が検出された場合に通知するようにベースステーションを設定できます。"}
+, 
+"aprt2721": {
+"content": "<div id='aprt2721' class='apd-topic'><div class='subjectids'><a name='aprt2721'><\/a><a name='alap10989'><\/a><a name='alap11037'><\/a><a name='alap12690'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>プロファイルを使用する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>一部のバージョンの AirMac ベースステーションおよび Time Capsule では、プロファイルと呼ばれる構成を最大で 5 つ保存できます。プロファイルには、名前やパスワードなどのベースステーション設定、およびインターネットへの接続方法などのネットワーク構成情報が含まれています。<\/p><p class='p'>プロファイルを使用すると、装置を別の場所に移動する場合に便利です。たとえば、自宅では PPPoE を使ってインターネットに接続するので、自宅でベースステーションまたは Time Capsule を使用するためのプロファイルを作成します。また、オフィスでは DHCP を使ってインターネットに接続するので、オフィス用の別のプロファイルを作成します。<\/p><p class='p'>新しいプロファイルを作成すると、現在の設定のコピーが現在のプロファイルに保存されます。新しいプロファイルを追加し、プロファイルの設定を変更して、新しい設定内容で装置をアップデートできます。<\/p><p class='p'>「AirMac ユーティリティ」を開き、プロファイルを追加したい装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/p><p class='p'>「AirMac ユーティリティ」は、Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「ベースステーション」メニューから「プロファイルを管理」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>次のいずれかの操作を行います：<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Mac の場合は、「追加」（＋）をクリックして現在のベースステーション設定をコピーします。コピーに「オフィス」などの名前を付け、使用方法に応じてベースステーションの設定を変更します。<\/p><\/li><li class='li choice'><p class='p'>Windows コンピュータの場合は、リストからプロファイルを選択して、「複製」をクリックします。コピーに「オフィス」などの名前を付けて、「完了」をクリックします。使用方法に合わせて、ベースステーションの設定を変更します。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>「アップデート」をクリックして変更を保存すると、新しい設定に切り替わります。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>設定したプロファイルを切り替えるときは、「AirMac ユーティリティ」のウインドウの下部にある「プロファイル」ポップアップメニューから、使用したいプロファイルを選択して「アップデート」をクリックします。<\/p><\/div><\/div>", 
+"alternativeName": "プロファイルを使用する", 
+"name": "プロファイルを使用する", 
+"summary": "プロファイルには、名前やパスワードなどのベースステーション設定、およびインターネットへの接続方法などのネットワーク構成情報が含まれています。"}
+, 
+"aprt2707": {
+"content": "<div id='aprt2707' class='apd-topic'><div class='subjectids'><a name='aprt2707'><\/a><a name='alap12683'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>PPPoE を使ってインターネットに接続する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>DSL モデムおよびケーブルモデムを使用する一部のインターネット・サービス・プロバイダの場合は、PPPoE（Point-to-Point Protocol over Ethernet）を使ってインターネットに接続する必要があります。<\/p><p class='p'>DSL モデムまたはケーブルモデムを使用する場合は、ベースステーションを設定する前に、モデムが電話ジャックまたはケーブルジャックおよびワイヤレス装置のワイド・エリア・ネットワーク（WAN）ポートに接続されていることを確認してください。<\/p><p class='p'>「AirMac ユーティリティ」を開き、設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。ツールバーの「インターネット」をクリックしてから、「インターネット接続」をクリックします。「接続方法」ポップアップメニューから「PPPoE」を選びます。<\/p><p class='p'>「AirMac ユーティリティ」は、Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>インターネット・サービス・プロバイダから受け取ったユーザ名、パスワード、およびその他の情報を入力します。<\/span><p class='p'>PPPoE を使って接続するようにベースステーションまたは Time Capsule を設定する場合、その装置は ISP から IP アドレスを自動的に受け取り、DHCP と NAT を使ってその IP 接続をワイヤレスネットワーク上のコンピュータと共有します。<\/p><\/li><li class='li step'><span class='ph cmd'>「接続」ポップアップメニューから「常に入」、「自動」、または「手動」を選択します。<\/span><ul class='ul choices'><li class='li choice'><p class='p'>「常に入」を選択した場合は、モデムの電源が入っている間はモデムおよびインターネットに常時接続しています。<\/p><\/li><li class='li choice'><p class='p'>「接続」ポップアップメニューから「自動」または「手動」を選択した場合は、「接続解除までの待機時間」ポップアップメニューの時間（「10 分」など）を選択する必要があります。インターネットアプリケーションを使用しない状態がこの期間を超えた場合には、インターネットとの接続が解除されます。<\/p><\/li><li class='li choice'><p class='p'>「自動」を選択した場合は、使用しているアプリケーションがインターネット接続を必要とするアプリケーション（メールアプリケーション、インスタント・メッセージ・アプリケーション、Web アプリケーションなど）のときに、ワイヤレス装置からモデムに接続してそこからインターネットに接続します。<\/p><\/li><li class='li choice'><p class='p'>「手動」を選択した場合は、使用しているアプリケーションがインターネット接続を必要とするアプリケーションのときに、モデムをインターネットに手動で接続する必要があります。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>「アップデート」をクリックすると、これらの新しい設定を使ってワイヤレス装置が設定し直されます。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>インターネットにアクセスする際に Web ブラウザから接続エラーと表示された場合は、コンピュータが AirMac ネットワークに接続されてから、AirMac ネットワークがインターネットに接続されることを確認してください。<\/p><p class='p'>接続を確認するときは、Mac の場合はメニューバーにあるワイヤレス接続の状況アイコンを使い、Windows コンピュータの場合はタスクバーにあるワイヤレスネットワークのアイコンを使います。<\/p><\/div><\/div>", 
+"alternativeName": "PPPoE を使ってインターネットに接続する", 
+"name": "PPPoE を使ってインターネットに接続する", 
+"summary": "DSL モデムおよびケーブルモデムを使用する一部のインターネット・サービス・プロバイダの場合は、PPPoE を使ってインターネットに接続する必要があります。"}
+, 
+"aprt2713": {
+"content": "<div id='aprt2713' class='apd-topic'><div class='subjectids'><a name='aprt2713'><\/a><a name='alap11037'><\/a><a name='alap12692'><\/a><a name='alap12696'><\/a><a name='alap12698'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ベースステーションまたは Time Capsule の NAT オプションを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirMac ワイヤレス装置の NAT（Network Address Translation）オプションを設定するには、装置の構成を開いて、「インターネット」をクリックし、「接続共有」ポップアップメニューでパブリック IP アドレスを共有するように装置が設定されていることを確認してから、「NAT」をクリックします。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>次の番号でデフォルトのホストを有効：デフォルトのホストとは、ネットワーク上のコンピュータのうち、インターネットに公開されていてすべての受信トラフィックを受け取るコンピュータのことです。デフォルトのホストは、AirMac ネットワーク上のコンピュータを使ってネットワークゲームをプレーする場合や、すべてのインターネット・トラフィックが特定のコンピュータを経由するようにしたい場合に利用できます。<\/span><\/li><li class='li step'><span class='ph cmd'>NAT ポート・マッピング・プロトコルを使用：NAT ポート・マッピング・プロトコル（NAT-PMP）は、IETF（Internet Engineering Task Force）のインターネットドラフトで、多くの NAT ルーターに一般的に実装されている UPnP（Universal Plug and Play）に置き換わるプロトコルです。NAT-PMP を使用すると、プライベートネットワークの外部のクライアントからプライベートネットワークの内部（NAT ルーターの背後）のコンピュータに接続できるように、ルーターを自動的に構成することができます。<\/span><p class='p'>このプロトコルには NAT ゲートウェイのパブリック IP アドレスを取得する方法が規定されているので、このパブリック IP アドレスとポート番号をクライアントに接続したいコンピュータに知らせることができます。このプロトコルは、Mac OS X10.4 Tiger、AirMac Extreme および AirMac Express ネットワークの製品、Time Capsule、Bonjour for Windows など、最新の Apple 製品に実装されています。<\/p><\/li><\/ul><\/div><div class='section postreq'><p class='p'>NAT オプションを設定するときは、DHCP と NAT を使ってインターネット接続を共有するように、ベースステーションまたは Time Capsule を設定する必要があります。<\/p><\/div><\/div>", 
+"alternativeName": "ベースステーションまたは Time Capsule の NAT オプションを設定する", 
+"name": "ベースステーションまたは Time Capsule の NAT オプションを設定する", 
+"summary": "このパネルを使って、ネットワークのデフォルトのホストを設定し、NAT ポート・マッピング・プロトコルを有効にします。"}
+, 
+"aprt2715": {
+"content": "<div id='aprt2715' class='apd-topic'><div class='subjectids'><a name='aprt2715'><\/a><a name='alap10989'><\/a><a name='alap12694'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ブリッジを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>インターネット共有を切にして、ネットワーク上のワイヤレス接続のコンピュータとケーブル接続のコンピュータとの間をブリッジ接続できます。ブリッジモードを入にすると、Wi-Fi 対応コンピュータから Ethernet ネットワーク上のすべてのサービスにアクセスできるようになります。ワイヤレス装置のインターネット共有サービスは提供されません。<\/p><p class='p'>ワイヤレス装置のインターネット共有機能と ISP の接続方法の間に互換性がない場合でも、ベースステーションまたは Time Capsule をブリッジとして使用することで対処できます。<\/p><p class='p'>PPPoE を使ってインターネットに接続している場合は、ワイヤレス装置をブリッジとして設定できません。PPPoE を使用するベースステーションは、ルーターとして機能し、DHCP と NAT を使ってネットワーク上のクライアントに IP アドレスを割り当てます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>ワイヤレス装置を選んで、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「インターネット」をクリックしてから、「インターネット接続」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「接続共有」ポップアップメニューから「切（ブリッジモード）」を選択します。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "ブリッジを設定する", 
+"name": "ブリッジを設定する", 
+"summary": "ブリッジモードを入にすると、ワイヤレスコンピュータから Ethernet ネットワーク上のすべてのサービスにアクセスできるようになります。 ベースステーションのインターネット共有サービスは提供されません。"}
+, 
+"aprt2706": {
+"content": "<div id='aprt2706' class='apd-topic'><div class='subjectids'><a name='aprt2706'><\/a><a name='alap12695'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>IPv6 を設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>IPv6 は、新しいバージョンの IP（Internet Protocol）です。現在のところ、IPv6 は一部の研究機関で主に使用されています。ほとんどのコンピュータでは IPv6 を設定または使用する必要はありません。<\/p><p class='p'>IPv6 の主な利点は、アドレスのサイズが 32 ビット（現在の IPv4 規格）から 128 ビットに拡張されることです。アドレスのサイズが 128 ビットあれば、膨大な数のアドレスに対応できます。これによって、利用可能なアドレス、つまりノードの数が、現在よりも大幅に増えます。また、IPv6 アドレスにはより多くの設定方法が用意されており、より簡単な手順で自動構成できます。<\/p><p class='p'>デフォルトでは IPv6 は自動的に構成され、通常はデフォルト設定で問題ありません。ただし、ネットワーク管理者またはインターネット・サービス・プロバイダ（ISP）から手動で IPv6 を構成するよう特に指示されている場合は、「AirMac ユーティリティ」を開き、設定する装置を選択してから、「手動設定」をクリックします。必要に応じて、パスワードを入力します。ツールバーの「詳細」をクリックしてから、「IPv6」をクリックします。<\/p><p class='p'>「AirMac ユーティリティ」は、Mac OS X を使用するコンピュータの場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「IPv6 のモード」ポップアップメニューから、指示された使用方法に応じて「ホスト」、「トンネル」、または「ルーター」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>「IPv6 を構成」ポップアップメニューから「手入力」を選択してから、ISP またはネットワーク管理者から提供された情報を入力します。<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "IPv6 を設定する", 
+"name": "IPv6 を設定する", 
+"summary": "IPv6 は、新しいバージョンの IP（Internet Protocol）です。 現在のところ、IPv6 は一部の研究機関で主に使用されています。 ほとんどのコンピュータでは IPv6 を設定または使用する必要はありません。"}
+, 
+"ap15212": {
+"content": "<div id='ap15212' class='apd-topic'><div class='subjectids'><a name='ap15212'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>IPv6 ファイアウォールをカスタマイズする<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションが IPv6 に対応している場合は、「AirMac ユーティリティ」を使って IPv6 ファイアウォールの設定を調整できます。「AirMac ユーティリティ」を使って Time Capsule の IPv6 ファイアウォール設定を調整することもできます。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>調整したい装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「詳細」をクリックしてから、「IPv6 ファイアウォール」をクリックします。<\/span><p class='p'>デフォルトでは、「Teredo トンネルを許可」と「IPSec を許可」が選択されています。<\/p><p class='p'>IPv6 ファイアウォール外部からネットワーク上の特定の装置にアクセスできるようにするには、「追加」（＋）ボタンをクリックしてから、その装置の IPv6 アドレスまたはポートを入力します。<\/p><\/li><\/ol><\/div><div class='section postreq'><p class='p'>IPv6 ファイアウォールを使用するには、ファームウェアバージョン 7.2 以降に対応した AirMac Extreme 802.11n ベースステーション、または Time Capsule が必要です。<\/p><p class='p'>AirMac のサポートサイトでベースステーションの最新のファームウェアを確認してください。<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>開く<\/strong><br><div><a class='link' href='http:\/\/www.apple.com\/jp\/support\/airmac\/' target='_blank'>AirMac サポート Web サイト<\/a><\/div><\/div><\/div><\/div>", 
+"alternativeName": "IPv6 ファイアウォールをカスタマイズする", 
+"name": "IPv6 ファイアウォールをカスタマイズする", 
+"summary": "ベースステーションが対応している場合は、「AirMac ユーティリティ」を使って IPv6 ファイアウォールの設定を調整できます。"}
+, 
+"aprt2712": {
+"content": "<div id='aprt2712' class='apd-topic'><div class='subjectids'><a name='aprt2712'><\/a><a name='alap10991'><\/a><a name='alap12688'><\/a><a name='alap12706'><\/a><a name='alap12710'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi ネットワークを設定する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>「ワイヤレス」パネルを使ってワイヤレスネットワークのオプションを設定します。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>新しいワイヤレスネットワークを作成するか、ワイヤレスネットワークを拡張するようにワイヤレスモードを設定します。<\/span><\/li><li class='li step'><span class='ph cmd'>ネットワークに名前を付けます。この名前は、Mac OS X を使用するコンピュータの場合はメニューバーにある AirMac の状況メニューに表示され、Windows コンピュータの場合はタスクバーにあるワイヤレスネットワークのアイコンの上に表示されます。<\/span><\/li><li class='li step'><span class='ph cmd'>無線モードを設定します。ワイヤレスネットワークの周波数のうち、ネットワークに接続するコンピュータと最も互換性の高い周波数を選択します。<\/span><ul class='ul choices'><li class='li choice'><p class='p'>802.11b または 802.11g を使用するコンピュータがネットワークに接続する場合は、「無線モード」ポップアップメニューから「802.11n（802.11b\/g 互換）」を選択します。<\/p><\/li><li class='li choice'><p class='p'>802.11a を使用するコンピュータがネットワークに接続する場合は、「802.11n（802.11a 互換）」を選択します。<\/p><\/li><li class='li choice'><p class='p'>802.11n を使用するコンピュータのみがネットワークに接続する場合は、「無線モード」ポップアップメニューから「802.11n のみ（2.4 GHz）」または「802.11n のみ（5 GHz）」を選択します。<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>ネットワークのチャンネルを選択します。ほとんどの場合、「自動」設定を使用するのが最も効率的ですが、特定のチャンネルをネットワークに選択することもできます。5 GHz（ギガヘルツ）周波数帯域で 802.11n のみを使用する場合は、チャンネルを手動で設定することはできません。<\/span><\/li><li class='li step'><span class='ph cmd'>ネットワークをパスワードで保護します。設定しているベースステーション、およびネットワークに接続するワイヤレス・クライアント・コンピュータの機能に応じて、WEP（Wired Equivalent Privacy）パーソナル、WPA（Wi-Fi Protected Access）パーソナル、WPA2 パーソナル、WPA エンタープライズ、WPA2 エンタープライズ、または WEP（Transitional Security Network）を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>その他のワイヤレスオプションを設定します。マルチキャストレート、送信出力、または地域を設定し、非公開ネットワークを作成し、および電波干渉の制御を使用するときは、「ワイヤレス・ネットワーク・オプション」をクリックします。ベースステーションが対応していて、「802.11n のみ（5 GHz）」無線モードを使用する場合は、ワイドチャンネルを使用することを選択できます。ワイドチャンネルを使用すると、ネットワークのデータスループットが向上します。<\/span><\/li><\/ul><\/div><\/div>", 
+"alternativeName": "Wi-Fi ネットワークを設定する", 
+"name": "Wi-Fi ネットワークを設定する", 
+"summary": "「ワイヤレス」パネルを使ってワイヤレスネットワークのオプションを設定します。"}
+, 
+"ap21462": {
+"content": "<div id='ap21462' class='apd-topic'><div class='subjectids'><a name='ap21462'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Time Capsule の内容をアーカイブする<\/h1><div class='body taskbody'><div class='section context'><p class='p'>内蔵 AirMac ディスクが Time Capsule に取り込まれるたびに、「AirMac ユーティリティ」を使用してその内容をアーカイブできます。<\/p><p class='p'>Time Capsule の内容をアーカイブする前に、外部ディスクを Time Capsule 上の USB ポートに接続する必要があります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>アーカイブしたい内蔵 AirMac ディスクを保存する Time Capsule を選択してから、「手動設定」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「ディスク」をクリックし、内蔵 AirMac ディスクを選択してから、ポップアップメニューから「ディスクをアーカイブ」を選択します。<\/span><\/li><li class='li step'><span class='ph cmd'>「アーカイブ先」ポップアップメニューからアーカイブ先のディスクを選択してから、「アーカイブ」を選択します。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ディスクがアーカイブされている間は、Time Capsule のステータスランプがオレンジ色に点滅します。ディスクの内容がアーカイブされて Time Capsule を再び使用できる状態になるまで、設定を変更したり、ファームウェアをアップデートしたり、Time Capsule を再起動することはできません。<\/p><\/div><\/div>", 
+"alternativeName": "Time Capsule の内容をアーカイブする", 
+"name": "Time Capsule の内容をアーカイブする", 
+"summary": "Time Capsule を使用している場合、「AirMac ユーティリティ」を使用して内蔵 AirMac ディスクの内容をアーカイブできます。"}
+, 
+"aprt2709": {
+"content": "<div id='aprt2709' class='apd-topic'><div class='subjectids'><a name='aprt2709'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ベースステーションのモデムを使用してインターネットに接続する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>ベースステーションにモデムが内蔵されていて、インターネット・サービス・プロバイダ（ISP）のダイヤルアップアカウントがある場合は、ベースステーションのモデムポートに標準の電話回線を接続し、PPP を使用してインターネットに接続できます。<\/p><p class='p'>「AirMac ユーティリティ」を使用する前に、アカウント情報を用意してください。<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>ISP アカウント名（ユーザ名）とパスワード<\/span><\/li><li class='li step'><span class='ph cmd'>ISP のダイヤルアップモデム用の電話番号<\/span><\/li><li class='li step'><span class='ph cmd'>TCP\/IP を手動で構成するか、PPP を使用するか<\/span><\/li><li class='li step'><span class='ph cmd'>IP アドレス（手動で構成する場合のみ）<\/span><\/li><li class='li step'><span class='ph cmd'>DNS（Domain Name System）サーバのアドレス<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>接続を解除するまでの待機時間、国別コードなど、モデムのオプションを設定するときは、「モデム」をクリックします。<\/p><\/div><\/div>", 
+"keywords": "AirMac ワイヤレス装置を設定する", 
+"name": "ベースステーションのモデムを使用してインターネットに接続する", 
+"alternativeName": "ベースステーションのモデムを使用してインターネットに接続する", 
+"summary": "ベースステーションにモデムが内蔵されていて、インターネット・サービス・プロバイダのダイヤルアップアカウントがある場合は、ベースステーションのモデムポートに標準の電話回線を接続できます。"}
+, 
+"aprt2717": {
+"content": "<div id='aprt2717' class='apd-topic'><div class='subjectids'><a name='aprt2717'><\/a><a name='alap12704'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>ワイヤレスネットワーク情報のログを記録する<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Mac OS X を使用するコンピュータの場合は Mac OS X システムログ（または Syslog ホスト）に、Windows を使用するコンピュータの場合は Syslog アプリケーションを使って、AirMac ベースステーションまたは Time Capsule の状況情報のログを記録するように設定できます。これは、問題を解決する際やワイヤレス装置の動作を監視する際に役立ちます。<\/p><p class='p'>ログを正確なものにするために、ワイヤレス装置の基本の日付と時刻を自動設定する必要があります。<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>「AirMac ユーティリティ」を開きます。Mac の場合は「アプリケーション」フォルダの「ユーティリティ」フォルダに、Windows コンピュータの場合は「スタート」＞「すべてのプログラム」＞「AirMac」にあります。<\/span><\/li><li class='li step'><span class='ph cmd'>設定する装置を選択して、「手動設定」をクリックします。必要に応じて、パスワードを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>ツールバーの「詳細」をクリックしてから、「ログと統計情報」をクリックします。<\/span><\/li><li class='li step'><span class='ph cmd'>「Syslog 書き込み先アドレス」フィールドに、ベースステーションのログを送信するコンピュータの IP アドレスを入力します。<\/span><\/li><li class='li step'><span class='ph cmd'>「Syslog レベル」ポップアップメニューから、ログに記録したい情報のタイプを選びます。<\/span><\/li><li class='li step'><span class='ph cmd'>ベースステーションのログを表示するときは、「ログと統計情報」をクリックします。<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>ログに記録される日付と時刻の情報を正確にするために、「AirMac」設定の「ベースステーション」パネルで「時刻を自動的に設定」を選択して、ポップアップメニューからネットワーク・タイム・サーバと時間帯を選択します。<\/p><\/div><\/div>", 
+"keywords": "ログを記録する, ログ, ロギング, ロギングする, ログの記録, ログ記録", 
+"name": "ワイヤレスネットワーク情報のログを記録する", 
+"alternativeName": "ワイヤレスネットワーク情報のログを記録する", 
+"summary": "ベースステーションの状況情報のログを Mac OS X システムログ（または Syslog ホスト）に記録するようにベースステーションを設定できます。"}
+}
+, 
+"hierarchy": [
+{
+"id": "button-0", 
+"children": [
+{
+"id": "ap35497", 
+"class": "default"}
+,{
+"id": "ap35497-a", 
+"children": [
+{
+"id": "aprt2735"}
+,{
+"id": "aprt2694"}
+,{
+"id": "aprt2756"}
+,{
+"id": "aprt2698"}
+,{
+"id": "aprt2699"}
+,{
+"id": "aprt2727"}
+,{
+"id": "aprt2721"}
+,{
+"id": "ap15210"}
+]
+}
+,{
+"id": "ap35497-b", 
+"children": [
+{
+"id": "aprt2744"}
+,{
+"id": "aprt2700"}
+,{
+"id": "aprt2702"}
+,{
+"id": "aprt2709"}
+,{
+"id": "aprt2707"}
+,{
+"id": "aprt2705"}
+,{
+"id": "aprt2771"}
+,{
+"id": "aprt2713"}
+,{
+"id": "aprt2755"}
+,{
+"id": "aprt2715"}
+,{
+"id": "aprt2725"}
+,{
+"id": "aprt2760"}
+,{
+"id": "aprt2703"}
+,{
+"id": "aprt2759"}
+,{
+"id": "aprt2769"}
+,{
+"id": "aprt2730"}
+,{
+"id": "aprt2761"}
+,{
+"id": "aprt2706"}
+,{
+"id": "aprt2717"}
+,{
+"id": "aprt2704"}
+,{
+"id": "aprt2775"}
+,{
+"id": "aprt2773"}
+,{
+"id": "ap15214"}
+,{
+"id": "ap15211"}
+]
+}
+,{
+"id": "ap35497-c", 
+"children": [
+{
+"id": "aprt2712"}
+,{
+"id": "aprt2736"}
+,{
+"id": "aprt2752"}
+,{
+"id": "aprt2753"}
+,{
+"id": "aprt2723"}
+,{
+"id": "aprt2695"}
+,{
+"id": "aprt2741"}
+,{
+"id": "aprt2728"}
+,{
+"id": "aprt2774"}
+,{
+"id": "aprt2697"}
+,{
+"id": "ap11953"}
+,{
+"id": "aprt2699"}
+,{
+"id": "aprt2748"}
+,{
+"id": "aprt2757"}
+,{
+"id": "aprt2758"}
+,{
+"id": "aprt2763"}
+,{
+"id": "aprt2710"}
+,{
+"id": "aprt2738"}
+,{
+"id": "aprt2739"}
+,{
+"id": "aprt2740"}
+,{
+"id": "aprt2718"}
+,{
+"id": "aprt2719"}
+,{
+"id": "ap20913"}
+,{
+"id": "ap21462"}
+,{
+"id": "ap15212"}
+]
+}
+,{
+"id": "ap35497-d", 
+"children": [
+{
+"id": "aprt2737"}
+,{
+"id": "aprt2734"}
+,{
+"id": "aprt2731"}
+,{
+"id": "aprt2754"}
+,{
+"id": "aprt2724"}
+,{
+"id": "alap11006"}
+,{
+"id": "cpap0006"}
+]
+}
+]
+}
+,{
+"id": "button-1", 
+"children": [
+{
+"id": "searchable-landing-com-apple-airportutility-help", 
+"class": "default"}
+,{
+"id": "local-searchtopichead-com-apple-airportutility-help", 
+"children": [
+{
+"id": "aprt2742"}
+,{
+"id": "aprt2732"}
+,{
+"id": "ap20881"}
+,{
+"id": "ap11863"}
+,{
+"id": "ap15213"}
+,{
+"id": "ap22913"}
+,{
+"id": "ap22914"}
+]
+}
+]
+}
+,{
+"id": "button-2", 
+"children": [
+{
+"id": "offline-message-com-apple-airportutility-help", 
+"class": "content-not-available-message"}
+]
+}
+]
+, 
+"settings": {
+"Design": "redFlamingo", 
+"BuildVersion": "12.14", 
+"ShowVersionNumber": 0, 
+"CategoryArt": "arik.png", 
+"AppVersion": "3.2", 
+"FolderName": "AirPortUtilityHelp", 
+"LocalizationISOCode": "ja", 
+"Title": "AirMac ユーティリティヘルプ", 
+"RemoteURL": "https:\/\/help.apple.com\/aputility\/mac\/5.5.3\/help\/"}
+}
+]

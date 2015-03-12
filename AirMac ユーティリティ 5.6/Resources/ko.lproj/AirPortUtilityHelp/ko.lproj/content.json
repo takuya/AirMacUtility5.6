@@ -1,0 +1,721 @@
+[{
+"content": {
+"aprt2731": {
+"content": "<div id='aprt2731' class='apd-topic'><div class='subjectids'><a name='aprt2731'><\/a><a name='alap11006'><\/a><a name='alap11038'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>USB 프린터가 응답하지 않습니다<\/h1><div class='body taskbody'><div class='section context'><p class='p'>프린터를 베이스 스테이션의 USB 포트나 무선 네트워크상의 Time Capsule에 연결했는데 해당 네트워크상의 컴퓨터에서 프린트할 수 없다면, 다음 권장사항에 따라 문제 해결을 시도해 보십시오.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>프린터가 벽의 콘센트에 연결되어 있고 켜져 있는지 확인하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>프린터가 켜져 있다면 프린터를 끈 다음 몇 초 후에 다시 켜십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>프린터와 무선 장비의 USB 포트에 케이블이 올바르게 연결되어 있는지 확인하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>클라이언트 컴퓨터의 프린터 목록에서 해당 프린터를 선택했는지 확인하십시오.<\/span><table border='1' frame='hsides' rules='rows' cellpadding='4' cellspacing='0' summary='' class='simpletable choicetable choicetableborder'><thead><tr><th id='d7539e84-option' valign='bottom' align='left'>옵션<\/th><th id='d7539e84-desc' valign='bottom' align='left'>설명<\/th><\/tr><\/thead><tbody><tr class='strow chrow'><td valign='top' headers='d7539e84-option' id='d7539e88' class='stentry choption'><strong>Mac OS X을 사용하는 컴퓨터에서:<\/strong><\/td><td valign='top' headers='d7539e84-desc d7539e88' class='stentry chdesc'> 시스템 환경설정을 열고 프린트 및 스캔을 클릭하십시오. 해당 프린터를 선택하고 삭제를 클릭하십시오. 추가를 클릭하고 목록에서 해당 프린터를 선택하십시오. 프린터가 목록에 없다면 추가(+)를 클릭하고 목록에서 해당 프린터를 찾으면 추가를 클릭하십시오.<\/td><\/tr><tr class='strow chrow'><td valign='top' headers='d7539e84-option' id='d7539e97' class='stentry choption'><strong>Windows를 사용하는 컴퓨터에서:<\/strong><\/td><td valign='top' headers='d7539e84-desc d7539e97' class='stentry chdesc'> AirPort 유틸리티 CD에 있는 Windows용 Bonjour를 설치하고 화면 지침에 따라 프린터를 연결하십시오.<\/td><\/tr><\/tbody><\/table><\/li><\/ul><\/div><div class='section postreq'><p class='p'>일부 USB 프린터는 AirPort와 호환이 되지 않을 수도 있습니다. 여전히 프린트할 수 없다면 제조업체에 문의하십시오. 제조업체의 웹 사이트에서 새로운 프린터 드라이버를 찾을 수도 있습니다.<\/p><\/div><\/div>", 
+"alternativeName": "USB 프린터가 응답하지 않습니다", 
+"name": "USB 프린터가 응답하지 않습니다", 
+"summary": "다음은 프린터의 문제를 해결할 수 있는 몇 가지 방법입니다."}
+, 
+"aprt2724": {
+"content": "<div id='aprt2724' class='apd-topic'><div class='subjectids'><a name='aprt2724'><\/a><a name='alap11006'><\/a><a name='alap12689'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi 네트워크에서 방해 요소 최소화하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>전자 레인지나 기타 방해 요소가 베이스 스테이션 또는 Time Capsule 가까이에 있으면 네트워크 성능에 문제가 있을 수도 있습니다. 방해 요소를 최소화하려면, 방해 요소 방지 기능을 켜십시오.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 네트워크 옵션을 클릭하고 \"방해 요소 방지 사용\" 체크상자를 선택하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>컴퓨터에 AirPort Extreme 카드가 장착되어 있는 경우 이 기능을 사용하려면, 메뉴 막대의 AirPort 상태 메뉴에서 방해 요소 방지 사용을 선택해야 합니다. 초기 AirPort 카드가 장착된 클라이언트 컴퓨터는 이미 이 기능이 사용되고 있습니다.<\/p><\/div><\/div>", 
+"keywords": "방해 요소 방지 기능, AirPort 문제 해결하기", 
+"name": "Wi-Fi 네트워크에서 방해 요소 최소화하기", 
+"alternativeName": "Wi-Fi 네트워크에서 방해 요소 최소화하기", 
+"summary": "방해 요소를 최소화하려면, 방해 요소 방지 기능을 켜십시오."}
+, 
+"aprt2725": {
+"content": "<div id='aprt2725' class='apd-topic'><div class='subjectids'><a name='aprt2725'><\/a><a name='alap11006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>무선 장비의 MAC 주소 찾기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>네트워크에 연결되어 있는 베이스 스테이션의 MAC(Media Access Control) 주소를 볼 수 있습니다. 무선 장비의 무선 및 유선(이더넷) 인터페이스에는 모두 고유한 MAC 주소가 있습니다.<\/p><p class='p'>주소는 Time Capsule과 AirPort Extreme 베이스 스테이션의 바닥, 그리고 AirPort Express의 뒷면에 프린트되어 있습니다.<\/p><p class='p'>무선 MAC 주소는 AirPort ID라고도 알려져 있습니다.<\/p><p class='p'>ISP(인터넷 서비스 제공업체)나 네트워크상의 클라이언트들에게 MAC 주소를 제공해야 할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>해당 베이스 스테이션 또는 Time Capsule을 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 MAC 주소는 AirPort 유틸리티의 요약 패널에서 AirPort ID로 표시됩니다.<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "AirPort 문제 해결하기", 
+"name": "무선 장비의 MAC 주소 찾기", 
+"alternativeName": "무선 장비의 MAC 주소 찾기", 
+"summary": "네트워크에 연결되어 있는 베이스 스테이션의 MAC(Media Access Control) 주소를 볼 수 있습니다."}
+, 
+"aprt2718": {
+"content": "<div id='aprt2718' class='apd-topic'><div class='subjectids'><a name='aprt2718'><\/a><a name='alap11006'><\/a><a name='alap12704'><\/a><a name='alap10987'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>네트워크 상의 무선 클라이언트 모니터링하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션에 연결되어 있는 모든 클라이언트에 대해 무선 신호, 잡음 및 데이터 패킷 전송 품질을 모니터링할 수 있습니다.<\/p><p class='p'>이렇게 하면, 네트워크의 문제나 네트워크에 연결된 개별 클라이언트의 문제를 해결하는 데 도움이 될 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 무선 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 고급을 클릭하고 로깅 및 통계를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>\"로그 및 통계\"를 클릭하고 무선 클라이언트를 클릭하십시오. 네트워크상의 무선 클라이언트의 신호, 잡음 및 데이터 전송률을 모니터링할 수 있습니다.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>네트워크 안에 한 대 이상의 베이스 스테이션이나 Time Capsule이 있다면 무선 클라이언트들이 여러 장비에 의해 모니터링되고 있을 수 있습니다.<\/p><\/div><\/div>", 
+"keywords": "AirPort에 관하여, 로그 기록하기, AirPort 문제 해결하기", 
+"name": "네트워크 상의 무선 클라이언트 모니터링하기", 
+"alternativeName": "네트워크 상의 무선 클라이언트 모니터링하기", 
+"summary": "네트워크상의 모든 클라이언트에 대해 무선 신호, 잡음 및 데이터 패킷 전송 품질을 모니터링할 수 있습니다."}
+, 
+"aprt2732": {
+"navigation": "false", 
+"content": "<div id='aprt2732' class='apd-topic'><div class='subjectids'><a name='aprt2732'><\/a><a name='alap11006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi 네트워크를 선택할 수 없습니다<\/h1><div class='body taskbody'><div class='section context'><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>적용 범위 바깥에 있을 수 있습니다. 컴퓨터가 연결하려는 무선 장비 범위 내에 있는지 확인하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>전자 레인지와 같은 무선 통신 주파수의 간섭이 없는지 확인하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>전원 코드를 연결 해제했다가 다시 연결하여 베이스 스테이션을 재시동하십시오. 그런 다음 다시 연결을 시도하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>AirPort 유틸리티에서 AirPort 설정의 무선 패널에 있는 무선 모드 팝업 메뉴가 끔으로 설정되어 있지 않아야 합니다.<\/span><\/li><li class='li step'><span class='ph cmd'>Wi-Fi 서비스가 선택되어 있지 않을 수 있습니다.<\/span><table border='1' frame='hsides' rules='rows' cellpadding='4' cellspacing='0' summary='' class='simpletable choicetable choicetableborder'><thead><tr><th id='d7773e82-option' valign='bottom' align='left'>옵션<\/th><th id='d7773e82-desc' valign='bottom' align='left'>설명<\/th><\/tr><\/thead><tbody><tr class='strow chrow'><td valign='top' headers='d7773e82-option' id='d7773e86' class='stentry choption'><strong>Mac에서:<\/strong><\/td><td valign='top' headers='d7773e82-desc d7773e86' class='stentry chdesc'> Mac에서 시스템 환경설정을 연 다음 네트워크를 클릭하십시오. 네트워크 연결 서비스 목록에 Wi-Fi가 있는지 확인하십시오. 없다면 추가(+)를 클릭하고 인터페이스 팝업 메뉴에서 Wi-Fi를 선택하십시오. Wi-Fi 서비스에 이름을 지정하고 생성을 클릭한 다음, 적용을 클릭하십시오.<\/td><\/tr><tr class='strow chrow'><td valign='top' headers='d7773e82-option' id='d7773e95' class='stentry choption'><strong>Windows 컴퓨터에서:<\/strong><\/td><td valign='top' headers='d7773e82-desc d7773e95' class='stentry chdesc'> 네트워크 제어판을 열고 네트워크 연결이 제대로 설정되어 있는지 확인하십시오.<\/td><\/tr><\/tbody><\/table><\/li><\/ul><\/div><div class='related-links'><div class='linklist linklist'><strong>관련 주제<\/strong><br><div><a class='link' href='#aprt2734'>Wi-Fi 네트워크를 방해할 수 있는 항목<\/a><\/div><\/div><\/div><\/div>", 
+"keywords": "AirPort 문제 해결하기", 
+"name": "Wi-Fi 네트워크를 선택할 수 없습니다", 
+"alternativeName": "Wi-Fi 네트워크를 선택할 수 없습니다", 
+"summary": "자신의 Wi-Fi 네트워크를 선택할 수 없다면 여기서 확인하십시오."}
+, 
+"aprt2740": {
+"content": "<div id='aprt2740' class='apd-topic'><div class='subjectids'><a name='aprt2740'><\/a><a name='alap10991'><\/a><a name='alap11032'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>컴퓨터에서 유효한 IP 주소를 보유하는 시간 제어하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Wi-Fi 네트워크 내에서 컴퓨터 한대당 IP 주소가 유효한 시간을 제어하려면, DHCP(Dynamic Host Configuration Protocol) 임대 시간을 설정하십시오.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 인터넷을 클릭하고 연결 공유 팝업 메뉴에서 “공용 IP 주소 공유” 또는 “IP 주소 범위 분배”가 선택되었는지 확인한 다음 DHCP를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>DHCP 임대 필드에 숫자를 입력하고 팝업 메뉴에서 분, 시 또는 일을 선택하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>아주 짧은 임대를 사용하여, DHCP는 사용할 수 있는 IP 주소보다 컴퓨터가 많은 네트워크를 동적으로 재구성할 수 있습니다.<\/p><p class='p'>DHCP 예약을 설정했다면 목록에 있는 컴퓨터는 DHCP 임대가 만료되면 새로운 DHCP 주소를 가져올 수 없습니다.<\/p><\/div><\/div>", 
+"keywords": "DHCP, AirPort 네트워크 설정하기", 
+"name": "컴퓨터에서 유효한 IP 주소를 보유하는 시간 제어하기", 
+"alternativeName": "컴퓨터에서 유효한 IP 주소를 보유하는 시간 제어하기", 
+"summary": "AirPort 유틸리티에서 DHCP(Dynamic Host Configuration Protocol) 임대 시간을 설정할 수 있습니다."}
+, 
+"aprt2719": {
+"content": "<div id='aprt2719' class='apd-topic'><div class='subjectids'><a name='aprt2719'><\/a><a name='alap10989'><\/a><a name='alap11032'><\/a><a name='alap12704'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>네트워크 상의 DHCP 클라이언트 모니터링하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>무선 네트워크에 연결되어 있는 클라이언트 컴퓨터의 MAC 주소, IP 주소 및 클라이언트 ID 그리고 DHCP 임대 시간을 볼 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 고급을 클릭하고 로깅 및 통계를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>\"로그 및 통계\"를 클릭하고 DHCP 클라이언트를 클릭하십시오. 네트워크상의 클라이언트의 Mac 주소, IP 주소, 클라이언트 ID 및 임대 시간을 볼 수 있습니다.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>클라이언트 ID는 옵션이며 네트워크에 필요하지 않을 수 있습니다.<\/p><\/div><\/div>", 
+"keywords": "DHCP, 로그 기록하기, AirPort 무선 장비 설정하기", 
+"name": "네트워크 상의 DHCP 클라이언트 모니터링하기", 
+"alternativeName": "네트워크 상의 DHCP 클라이언트 모니터링하기", 
+"summary": "무선 네트워크에 연결되어 있는 클라이언트 컴퓨터의 MAC 주소, IP 주소 및 클라이언트 ID 그리고 DHCP 임대 시간을 볼 수 있습니다."}
+, 
+"ap20913": {
+"content": "<div id='ap20913' class='apd-topic'><div class='subjectids'><a name='ap20913'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Time Capsule 디스크 지우기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Time Capsule을 사용한다면 AirPort 유틸리티를 사용하여 디스크를 지울 수 있습니다.<\/p><p class='p'>내장 AirPort 디스크를 지울 때 다음 수준의 보안을 선택할 수 있습니다.<\/p><p class='p'><strong class='ph b'>빠른 지우기(보안 안 됨):<\/strong> 빠른 지우기는 데이터에 더 이상 접근할 수 없도록 디스크에서 디렉토리 정보를 직접 지웁니다. 데이터가 추가 데이터가 그 위에 쓰여질 때까지 디스크에 남습니다. 데이터가 잠재적으로 복구 가능하기 때문에 이 선택은 가장 보안성이 낮습니다.<\/p><p class='p'><strong class='ph b'>데이터를 0으로 채우기:<\/strong> 디스크 상의 모든 데이터에 대해 0을 쓰려면 이 옵션을 선택하십시오. 이 옵션은 최소의 시간에 양호한 데이터 보호를 제공합니다. 이 옵션은 전체 디스크에 쓰기 때문에 빠른 지우기 옵션보다 오래 걸립니다.<\/p><p class='p'><strong class='ph b'>7 패스 지우기:<\/strong> 이 옵션은 전체 디스크에 0을 7번 씁니다. 7 패스 지우기는 매우 안전하게 데이터를 지우며, 데이터를 0으로 채우기 옵션보다 7배 더 오래 걸립니다.<\/p><p class='p'><strong class='ph b'>35 패스 지우기:<\/strong> 디스크를 가장 안전하게 지우려면 이 옵션을 선택하십시오. 이 옵션은 전체 디스크에 0을 35번 씁니다. 가장 안전하며 데이터를 0으로 채우기 옵션보다 35배 더 오래 걸립니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>지우려는 내장 AirPort 디스크가 포함된 Time Capsule을 선택하고 수동 설정을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 디스크를 클릭하고 내장 AirPort 디스크를 선택한 다음 해당 팝업 메뉴에서 디스크 지우기를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>해당 디스크의 이름을 제공하려면, 보안 지우기 팝업 메뉴에서 보안 수준을 선택한 다음 지우기를 클릭하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>디스크가 지워지는 동안 Time Capsule 상태 표시등이 황색으로 깜박입니다. 디스크가 지워지고 다시 사용 가능할 때까지 설정을 변경하거나, 펌웨어를 업데이트하거나, Time Capsule을 재시동할 수 없습니다.<\/p><\/div><\/div>", 
+"alternativeName": "Time Capsule 디스크 지우기", 
+"name": "Time Capsule 디스크 지우기", 
+"summary": "Time Capsule을 사용한다면 AirPort 유틸리티를 사용하여 내장 AirPort 디스크를 지울 수 있습니다."}
+, 
+"aprt2727": {
+"content": "<div id='aprt2727' class='apd-topic'><div class='subjectids'><a name='aprt2727'><\/a><a name='alap10990'><\/a><a name='alap11032'><\/a><a name='alap12696'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>인터넷 연결 공유하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>DHCP(Dynamic Host Configuration Protocol) 및 NAT(Network Address Translation)를 사용하여 네트워크 상의 모든 클라이언트와 단일 IP 주소를 공유하도록 베이스 스테이션이나 Time Capsule을 설정할 수 있습니다.<\/p><p class='p'>베이스 스테이션이나 Time Capsule에서 PPPoE를 사용하여 인터넷에 연결한다면, 이미 DHCP 및 NAT을 사용하여 단일 IP 주소를 공유하고 있는 것입니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 베이스 스테이션 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 인터넷을 클릭하고 인터넷 연결을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>연결 공유 팝업 메뉴에서 \"공용 IP 주소 공유\" 또는 \"IP 주소 범위 분배\"를 선택하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>공용 IP 주소를 공유하여 DHCP 및 NAT을 활성화하거나 IP 주소 범위를 분배하면 베이스 스테이션 또는 Time Capsule이 클라이언트 컴퓨터에 IP 주소를 동적이고 자동으로 지정하므로, 각 컴퓨터의 TCP\/IP 구성이 간소화됩니다.<\/p><\/div><\/div>", 
+"alternativeName": "인터넷 연결 공유하기", 
+"name": "인터넷 연결 공유하기", 
+"summary": "베이스 스테이션을 DHCP 및 NAT을 사용하여 네트워크상의 모든 클라이언트들과 함께 단일 IP 주소를 공유하도록 설정하거나, 브리지로 동작하도록 설정할 수 있습니다."}
+, 
+"aprt2741": {
+"content": "<div id='aprt2741' class='apd-topic'><div class='subjectids'><a name='aprt2741'><\/a><a name='alap10990'><\/a><a name='alap10991'><\/a><a name='alap12698'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>네트워크 상의 특정 컴퓨터에 네트워크 트래픽 전달하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>요청에 따라 웹, AppleShare 또는 네트워크상의 FTP 서버에 제대로 라우팅되게 하려면, 서버나 컴퓨터에 영구 IP 주소를 할당하고 AirPort 베이스 스테이션 또는 Time Capsule에 \"인바운드 포트 매핑\" 정보를 제공해야 합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 고급을 클릭하고 포트 매핑을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>추가(+) 버튼을 클릭하고 서비스 팝업 메뉴에서 원하는 서비스를 선택하십시오(예를 들어, 개인 파일 공유).<\/span><\/li><li class='li step'><span class='ph cmd'>사설 IP 주소 필드에 해당 서버의 IP 주소를 입력하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>포트 매핑을 사용하려면 웹, AppleShare 또는 FTP 서버를 실행하고 있는 컴퓨터에서 TCP\/IP를 수동으로 구성해야 합니다.<\/p><\/div><\/div>", 
+"keywords": "앞으로, 포트 매핑, AirPort 네트워크 설정하기, AirPort 사용하기", 
+"name": "네트워크 상의 특정 컴퓨터에 네트워크 트래픽 전달하기", 
+"alternativeName": "네트워크 상의 특정 컴퓨터에 네트워크 트래픽 전달하기", 
+"summary": "요청에 따라 웹, AppleShare 또는 네트워크상의 FTP 서버에 제대로 라우팅되게 하려면, 서버에 고정 IP 주소를 할당하고 AirPort 베이스 스테이션에 인바운드 포트 매핑 정보를 제공해야 합니다."}
+, 
+"aprt2734": {
+"content": "<div id='aprt2734' class='apd-topic'><div class='subjectids'><a name='aprt2734'><\/a><a name='alap11006'><\/a><a name='alap11846'><\/a><a name='alap12710'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi 네트워크를 방해할 수 있는 항목<\/h1><div class='body taskbody'><div class='section context'><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>전자 레인지.<\/span><\/li><li class='li step'><span class='ph cmd'>DSS(Direct Satellite Service) 라디오 주파수 누출량.<\/span><\/li><li class='li step'><span class='ph cmd'>특정 유형의 통신 위성 안테나와 함께 제공되는 초기 동축 케이블. 해당 장비 제조업체에 문의하여 최신 케이블을 구입하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>전원선, 전기 레일로드 트랙 및 전원 스테이션과 같은 특정 전기 장비.<\/span><\/li><li class='li step'><span class='ph cmd'>2.4 또는 5GHz(기가헤르츠) 범위에서 작동하는 무선 전화. 전화나 AirPort 통신에 문제가 있다면 베이스 스테이션의 채널을 변경하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>기타 Wi-Fi 네트워크.<\/span><\/li><li class='li step'><span class='ph cmd'>근접한 채널을 사용하는 인접한 무선 장비. 예를 들어, 장비 A를 채널 1로 설정한다면, 장비 B는 채널 6 또는 11로 설정되어야 합니다.<\/span><\/li><li class='li step'><span class='ph cmd'>컴퓨터와 베이스 스테이션 사이에 일시적으로 금속을 배치하는 움직이는 대상체.<\/span><\/li><\/ul><\/div><\/div>", 
+"alternativeName": "Wi-Fi 네트워크를 방해할 수 있는 항목", 
+"name": "Wi-Fi 네트워크를 방해할 수 있는 항목", 
+"summary": "특정 항목들은 무선 네트워크를 방해할 수 있습니다."}
+, 
+"aprt2730": {
+"content": "<div id='aprt2730' class='apd-topic'><div class='subjectids'><a name='aprt2730'><\/a><a name='alap11038'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi 네트워크에서 USB 프린터 사용하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>호환되는 USB 프린터를 AirPort Extreme 베이스 스테이션, AirPort Express 또는 Time Capsule에 연결하면 해당 네트워크상의 모든 컴퓨터가 유무선으로 해당 프린터로 프린트할 수 있습니다.<\/p><p class='p'>프린터를 장비에 연결하기 전에, 먼저 컴퓨터에 연결하여 테스트 페이지를 인쇄하십시오.<\/p><p class='p'>프린터가 올바르게 동작하는지 확인한 다음, 프린터를 무선 장비의 USB 포트에 연결하십시오.<\/p><\/div><div class='li step p'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서: 시스템 환경설정을 열고 프린트 및 스캔을 클릭하십시오. 목록에서 해당 프린터를 선택하십시오. 해당 프린터가 목록에 없다면 추가(+)를 클릭하고 해당 프린터를 선택한 다음, 추가를 클릭하십시오.<\/span><p class='p'>Windows 컴퓨터에서: AirPort 유틸리티 CD에 있는 Windows용 Bonjour를 설치하고 화면 지침에 따라 프린터를 연결하십시오.<\/p><\/div><\/div><div class='section postreq'><p class='p'>프린터가 무선 장비에 연결되어 있으면, 오류 또는 상태 메시지가 나타나지 않을 수 있습니다. 예를 들어, “용지가 없습니다” 또는 “프린터 사용 중”과 같은 메시지가 나타나지 않을 수 있습니다.<\/p><\/div><\/div>", 
+"alternativeName": "Wi-Fi 네트워크에서 USB 프린터 사용하기", 
+"name": "Wi-Fi 네트워크에서 USB 프린터 사용하기", 
+"summary": "USB 프린터를 AirPort Extreme 베이스 스테이션에 연결하면 Mac OS X 버전 10.2.3 이상이나 Windows XP(Service Pack 2)를 사용하는 AirPort 네트워크에 있는 모든 컴퓨터에서 이 USB 프린터로 프린트할 수 있습니다."}
+, 
+"aprt2742": {
+"navigation": "false", 
+"content": "<div id='aprt2742' class='apd-topic'><div class='subjectids'><a name='aprt2742'><\/a><a name='alap10989'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirPort 설정 찾기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Macintosh 컴퓨터에서 AirPort 유틸리티를 사용하고 있다면, AirPort 유틸리티 내의 검색 필드를 사용하여 베이스 스테이션 또는 Time Capsule의 IP 주소나 무선 통신 모드와 같이 원하는 설정을 빠르게 찾을 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>응용 프로그램 폴더 안의 유틸리티 폴더에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>검색란에 단어나 문구를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>목록에서 설정을 선택하여 해당 설정으로 이동하십시오.<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "AirPort 설정 찾기", 
+"name": "AirPort 설정 찾기", 
+"summary": "AirPort 유틸리티 안의 검색란을 사용하여 원하는 설정을 빠르게 찾을 수 있습니다."}
+, 
+"aprt2735": {
+"content": "<div id='aprt2735' class='apd-topic'><div class='subjectids'><a name='aprt2735'><\/a><a name='alap10987'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirPort에 관하여<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort는 가정이나 학교 등 어느 곳에서나 무선 인터넷 연결을 제공하는 간편한 방법입니다. 케이블을 사용하여 네트워크를 생성하는 대신에, AirPort는 무선 WLAN(Wireless Local Area Network) 기술을 사용하여 컴퓨터 간의 무선 통신을 제공합니다.<\/p><p class='p'>AirPort를 사용하여, 컴퓨터가 ISP와 직접적으로 무선 연결을 구축하는 것이 아닙니다. 컴퓨터로부터 인터넷에 연결된 베이스 스테이션 또는 Time Capsule에 무선 연결을 설치하거나 인터넷에 연결된 네트워크에 연결합니다.<\/p><\/div><div class='li step p'><span class='ph cmd'>AirPort 유틸리티를 사용하여 AirPort 네트워크 연결을 구성하거나 AirPort Extreme 베이스 스테이션 또는 Time Capsule을 설치하십시오.<\/span><p class='p'>AirPort 유틸리티는 Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><\/div><\/div>", 
+"alternativeName": "AirPort에 관하여", 
+"name": "AirPort에 관하여", 
+"summary": "AirPort는 가정이나 학교 등 어느 곳에서나 무선 인터넷 연결을 제공하는 간편한 방법입니다."}
+, 
+"aprt2736": {
+"content": "<div id='aprt2736' class='apd-topic'><div class='subjectids'><a name='aprt2736'><\/a><a name='alap10991'><\/a><a name='alap11031'><\/a><a name='alap11855'><\/a><a name='alap12685'><\/a><a name='alap12708'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>암호로 무선 네트워크 보호하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>무선 네트워크 상의 통신을 보호하려면, AirPort 베이스 스테이션 또는 Time Capsule에서 데이터 암호화를 켜십시오. 여러분의 무선 네트워크에 접속하는 사용자들은 암호, 또는 사용자 이름과 암호를 입력할 것을 요청 받습니다.<\/p><p class='p'>설정하는 장비와 여러분의 네트워크에 접속하는 클라이언트 컴퓨터의 성능에 따라, 네트워크 보호에 선택할 수 있는 암호 유형은 다릅니다.<\/p><p class='p'><strong class='ph b'>WEP:<\/strong> 베이스 스테이션에서 지원한다면, 이 옵션을 선택하고 암호를 입력하여 WEP(Wired Equivalent Privacy) 암호로 네트워크를 보호하십시오. 일부 AirPort Extreme 베이스 스테이션 및 AirPort Express 베이스 스테이션은 40비트 및 128비트 암호화를 지원합니다. 최대의 호환성을 위해 무선 보안 팝업 메뉴에서 “40비트 WEP”를 선택하거나, 강화된 WEP 보안을 제공하는 “128비트 WEP”를 선택하십시오.<\/p><p class='p'>128비트 암호화를 선택하면, 128비트 암호화가 가능한 무선 네트워크 카드가 장착된 컴퓨터만 네트워크에 접속할 수 있게 됩니다. 40비트 암호화를 선택했다면, 40비트 및 128비트 암호화가 가능한 무선 네트워크 카드가 장착된 컴퓨터가 무선 네트워크에 접속할 수 있지만, 40비트 암호화로만 접속합니다.<\/p><p class='p'><strong class='ph b'>개인용 WPA\/WPA2:<\/strong> WPA(Wi-Fi Protected Access)로 네트워크를 보호하려면 이 옵션을 선택하십시오. 암호를 선택하고 8에서 63자 사이의 ASCII 문자로 구성된 암호를 입력하거나 미리 공유된 키를 선택하고 정확히 64자의 16진수 문자로 구성된 암호를 입력하십시오. WPA 또는 WPA2를 사용하는 무선 클라이언트 컴퓨터에서 이 네트워크에 접속할 수 있습니다.<\/p><p class='p'><strong class='ph b'>개인용 WPA2:<\/strong> WPA2를 사용하는 클라이언트 컴퓨터만 해당 네트워크에 접속한다면 이 옵션을 선택하여 네트워크를 Wi-Fi Protected Acess로 보호하십시오.<\/p><p class='p'><strong class='ph b'>기업용 WPA\/WPA2:<\/strong> RADIUS(Remote Authentication Dial-In User Service) 서버와 같은 인증 서버가 포함된 네트워크를 설정한다면 이 옵션을 선택하십시오. 주요 서버 및 보조 서버에 대한 IP 주소 및 포트 번호를 입력한 다음, 서버 암호인 \"공유 보안\"을 입력하십시오. WPA 및 WPA2를 사용하는 무선 클라이언트 컴퓨터가 여러분의 네트워크에 접속한다면 이 옵션을 사용하십시오.<\/p><p class='p'><strong class='ph b'>기업용 WPA2:<\/strong> 인증 서버가 포함된 네트워크를 설정하고 WPA2를 사용하는 클라이언트 컴퓨터만 해당 네트워크에 접속한다면 이 옵션을 선택하십시오.<\/p><p class='p'><strong class='ph b'>WEP(Transitional Security Network):<\/strong> WEP 호환 및 WPA\/WPA2 호환 컴퓨터가 해당 네트워크에 접속한다면 이 옵션을 선택하십시오. 정확히 13자의 암호를 사용하십시오.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 무선 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 보안 팝업 메뉴에서 암호 체계를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>이 무선 네트워크에 접속하기 위해 모든 사용자가 필요로 할 암호를 입력하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>무선 보안 팝업 메뉴에서 없음을 선택하였다면, 해당 네트워크 범위 내에 있는 모든 사용자가 무선 네트워크에 접속할 수 있습니다.<\/p><p class='p'>개인용 WPA 및 기업용 WPA에 관한 자세한 정보를 보려면, 아래의 링크를 클릭하십시오.<\/p><\/div><\/div>", 
+"keywords": "AirPort 보안, RADIUS, AirPort 네트워크 설정하기, WPA(Wi-Fi Protected Access), WEP(Wired Equivalent Privacy), AirPort Extreme", 
+"name": "암호로 무선 네트워크 보호하기", 
+"alternativeName": "암호로 무선 네트워크 보호하기", 
+"summary": "무선 네트워크를 보호하려면, AirPort 유틸리티의 AirPort 윈도우에 있는 무선 보안 팝업 메뉴에서 암호 체계를 선택하십시오."}
+, 
+"aprt2723": {
+"content": "<div id='aprt2723' class='apd-topic'><div class='subjectids'><a name='aprt2723'><\/a><a name='alap10991'><\/a><a name='alap11031'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>네트워크 이름 가리기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 베이스 스테이션 또는 Time Capsule로 폐쇄된 네트워크를 구성하면, 무선 네트워크를 검색하는 컴퓨터에서 해당 네트워크 이름이 보이지 않습니다. 사용자는 네트워크에 접속하려면 올바른 네트워크 이름을 입력해야 하며, 암호를 입력해야 할 수도 있습니다. 네트워크 이름 및 암호 모두 대소문자를 구분합니다. 폐쇄된 네트워크는 해당 네트워크에 대하여 추가적인 보안을 제공할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 네트워크 옵션을 클릭하고 “폐쇄된 네트워크 생성” 체크상자를 선택하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>폐쇄된 네트워크에 접속하려면 메뉴 막대에 있는 AirPort 상태 메뉴에서 기타를 선택하고 네트워크 이름과 필요한 경우 네트워크 암호를 입력하십시오. 네트워크의 이름이나 암호를 모른다면 네트워크 관리자에게 문의하십시오.<\/p><\/div><\/div>", 
+"keywords": "AirPort 보안, AirPort 네트워크 설정하기", 
+"name": "네트워크 이름 가리기", 
+"alternativeName": "네트워크 이름 가리기", 
+"summary": "Wi-Fi 네트워크의 이름을 가려서 사용자들이 이름을 입력해야 네트워크에 접속할 수 있도록 할 수 있습니다."}
+, 
+"aprt2728": {
+"content": "<div id='aprt2728' class='apd-topic'><div class='subjectids'><a name='aprt2728'><\/a><a name='alap10989'><\/a><a name='alap11038'><\/a><a name='alap12693'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>원격 프린팅 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션이나 Time Capsule이 이더넷 네트워크에 연결되어 있고 이 장비에 호환되는 USB 프린터가 연결되어 있다면, 이더넷 네트워크상의 클라이언트들이 이 프린터로 프린트할 수 있습니다. 이것을 원격 프린팅이라고 합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 프린터를 클릭하고 프린터가 해당 목록에 있는지 확인하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>무선 장비 WAN 포트에서 프린터를 공유하려면 “WAN을 통해 프린터 공유”를 선택하십시오. Bonjour를 사용하여 인터넷을 통해 프린터를 공유할 수도 있습니다.<\/p><\/div><\/div>", 
+"alternativeName": "원격 프린팅 설정하기", 
+"name": "원격 프린팅 설정하기", 
+"summary": "베이스 스테이션이 이더넷 네트워크에 연결되어 있고 이 베이스 스테이션에 USB 프린터가 연결되어 있다면, 이더넷 네트워크상의 클라이언트들이 이 프린터로 프린트할 수 있습니다."}
+, 
+"aprt2744": {
+"content": "<div id='aprt2744' class='apd-topic'><div class='subjectids'><a name='aprt2744'><\/a><a name='alap10991'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>베이스 스테이션 또는 Time Capsule에 관한 정보 보기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>IP 주소, 생성하는 네트워크의 이름, 장비 펌웨어 버전 등과 같은 베이스 스테이션 또는 Time Capsule 설정을 볼 수 있습니다. 이것은 문제를 해결하려고 하거나 다른 사용자나 네트워크 관리자와 정보를 공유할 때 유용할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>사용하려는 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정 제목을 이중 클릭하여 AirPort 유틸리티에서 해당 설정 패널로 이동하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Mac에서 AirPort 유틸리티를 사용하려면 검색 필드에 단어나 문구를 입력하고 목록에서 결과를 선택하여 AirPort 유틸리티의 해당 패널로 이동할 수 있습니다.<\/p><\/div><\/div>", 
+"keywords": "AirPort 네트워크 설정하기", 
+"name": "베이스 스테이션 또는 Time Capsule에 관한 정보 보기", 
+"alternativeName": "베이스 스테이션 또는 Time Capsule에 관한 정보 보기", 
+"summary": "AirPort 유틸리티의 요약 패널을 사용하여 IP 주소, 생성하는 네트워크의 이름, 베이스 스테이션 펌웨어 버전 등과 같은 베이스 스테이션의 설정을 볼 수 있습니다."}
+, 
+"aprt2737": {
+"content": "<div id='aprt2737' class='apd-topic'><div class='subjectids'><a name='aprt2737'><\/a><a name='alap11006'><\/a><a name='alap12689'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi 네트워크에서 간섭이 일어납니다<\/h1><div class='body taskbody'><div class='section context'><p class='p'>학교나 사무실에 몇 개의 Wi-Fi 네트워크를 사용하고 그 중 하나에 간섭이 일어난다면, 사용하고 있는 채널을 변경해야 할 수 있습니다.<\/p><p class='p'>기본적으로 베이스 스테이션 또는 Time Capsule이 연결될 때 AirPort 소프트웨어가 자동으로 사용 가능한 최적의 채널을 선택합니다. 베이스 스테이션 또는 Time Capsule에 간섭이 일어난다면 사용 중인 채널을 변경해보십시오.<\/p><p class='p'>AirPort Extreme을 5GHz(기가헤르츠) 범위에서 사용하고 있다면 사용하는 채널을 변경할 수 없습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 베이스 스테이션 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>채널 팝업 메뉴에서 새로운 채널을 선택하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>인접한 무선 장비가 적어도 5개의 채널 이상 떨어져 있어야 합니다. 예를 들어, 장비 A를 채널 1로 설정한다면, 장비 B는 채널 6 또는 11로 설정되어야 합니다.<\/p><p class='p'>Wi-Fi 네트워크 상의 컴퓨터들은 자동으로 장비가 사용하는 채널에 맞게 조정됩니다. 장비의 채널을 변경하면, 무선 네트워크에 연결되어 있는 컴퓨터에서 채널을 변경할 필요가 없습니다.<\/p><\/div><\/div>", 
+"keywords": "방해 요소 방지 기능, AirPort 문제 해결하기", 
+"name": "Wi-Fi 네트워크에서 간섭이 일어납니다", 
+"alternativeName": "Wi-Fi 네트워크에서 간섭이 일어납니다", 
+"summary": "Wi-Fi 네트워크에 간섭이 일어난다면, 사용하는 채널을 변경해야 할 수 있습니다."}
+, 
+"button-0": {
+"type": "navigation", 
+"howdyPageID": "ap35497", 
+"alternativeNameStyle": "replace"}
+, 
+"aprt2752": {
+"content": "<div id='aprt2752' class='apd-topic'><div class='subjectids'><a name='aprt2752'><\/a><a name='alap11031'><\/a><a name='alap11855'><\/a><a name='alap12685'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>WPA2(Wi-Fi Protected Access 2)로 무선 네트워크 보호하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 유틸리티는 두 가지 WPA2 모드를 지원합니다. 사용자 인증에 RADIUS 서버를 사용하는 기업용 모드와 RADIUS 서버가 필요 없는 개인용 모드입니다.<\/p><p class='p'>기업용 모드는 IT 전문가가 설정하고 관리할 가능성이 큰 대형 네트워크용으로 설계되었습니다. 기업용 WPA 네트워크를 설정하려면, 우선 802.1X 연결이 설정되어 있어야 합니다. 802.1X 연결은 TTLS, LEAP 또는 PEAP과 같은 인증 프로토콜을 필요로 합니다. 네트워크 사용자의 증명서와 인증서를 관리하기 위해 인증 서버도 필요합니다.<\/p><p class='p'>개인용 WPA 네트워크 설정하기에 관한 정보와 지침을 보려면, 아래 링크를 클릭하십시오.<\/p><p class='p'><a class='xref' href='#aprt2753'>기업용 WPA2 네트워크 설정하기<\/a><\/p><p class='p'>개인용 모드는 가정 또는 작은 사무실 네트워크용이며, 대부분의 사용자가 직접 설치하고 관리할 수 있습니다. 개인용 모드는 별도의 인증 서버가 필요 없습니다. 네트워크 사용자들은 보통 네트워크에 접속하려면 사용자 이름과 암호를 입력해야 합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>WPA 및 WAP2와 호환되는 컴퓨터를 여러분의 네트워크에 접속시키려면 무선 보안 팝업 메뉴에서 개인용 WPA\/WPA2를 선택하십시오. WPA2와 호환되는 컴퓨터가 여러분의 네트워크에 접속하는 것을 허용하려면 개인용 WPA2를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>8~63자까지의 ASCII 문자로 구성된 ASCII 암호를 입력하십시오.<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "AirPort 보안, RADIUS, WPA(Wi-Fi Protected Access)", 
+"name": "WPA2(Wi-Fi Protected Access 2)로 무선 네트워크 보호하기", 
+"alternativeName": "WPA2(Wi-Fi Protected Access 2)로 무선 네트워크 보호하기", 
+"summary": "AirPort는 두 가지 WPA2 모드를 지원합니다. 사용자 인증에 RADIUS 서버를 사용하는 기업용 모드와 RADIUS 서버가 필요 없는 개인용 모드입니다."}
+, 
+"aprt2738": {
+"content": "<div id='aprt2738' class='apd-topic'><div class='subjectids'><a name='aprt2738'><\/a><a name='alap10991'><\/a><a name='alap11032'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>이더넷 네트워크에서 여러 대의 베이스 스테이션 사용하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>단일 무선 네트워크(\"로밍\" 네트워크로 알려진)를 생성하도록 여러 대의 AirPort Extreme 베이스 스테이션 또는 Time Capsule을 설정할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>모든 베이스 스테이션 및 Time Capsule을 이더넷 네트워크상의 동일한 서브네트에 연결하고 각 장비에 동일한 네트워크 이름과 암호를 지정하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>DHCP(Dynamic Host Configuration Protocol)를 사용하여 네트워크상에 있는 클라이언트에 IP 주소를 지정하려면, 하나의 장비를 DHCP 서버로 설정하십시오. 다음을 수행하려면,<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오. DHCP로 설정하려는 장비를 선택하고 수동 설정을 클릭하십시오.<\/p><p class='p'>장비에서 실제 IP 주소 범위를 지정했는지 확인합니다 NAT(Network Address Translation)에서 사용하는 사설 IP 주소는 로밍에 사용할 수 없습니다. 도구 막대에서 인터넷을 클릭하고 인터넷 연결을 클릭한 다음, 연결 공유 팝업 메뉴에서 “IP 주소 범위 분배”를 선택하십시오.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>DHCP 및 NAT을 꺼서 모든 다른 베이스 스테이션을 브리지로 설정하십시오. 다음을 수행하려면,<\/span><ul class='ul choices'><li class='li choice'><p class='p'>AirPort 유틸리티에서 브리지로 설정하려는 장비를 선택한 다음, 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/p><p class='p'>도구 막대에서 인터넷을 클릭하고 인터넷 연결을 클릭한 다음, 브리지로 설정하려는 장비에 있는 연결 공유 팝업 메뉴에서 \"끔(브리지 모드)\"을 선택하십시오.<\/p><\/li><\/ul><\/li><\/ol><\/div><div class='section postreq'><p class='p'>802.11n을 지원하는 무선 장비를 사용한다면 동적 WDS(Wireless Distribution System)을 설정하여 네트워크의 범위를 확장할 수 있습니다.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>관련 주제<\/strong><br><div><a class='link' href='#ap11953'>802.11n 네트워크의 범위 확장하기<\/a><\/div><\/div><\/div><\/div>", 
+"keywords": "DHCP, AirPort 네트워크 설정하기, AirPort Extreme", 
+"name": "이더넷 네트워크에서 여러 대의 베이스 스테이션 사용하기", 
+"alternativeName": "이더넷 네트워크에서 여러 대의 베이스 스테이션 사용하기", 
+"summary": "동일한 이더넷 서브넷에 여러 대의 베이스 스테이션을 설치하여 단일 무선 네트워크를 구축할 수 있습니다."}
+, 
+"ap35497": {
+"navigation": "false", 
+"content": "<div class='apd-topic' id='ap35497'><div class='subjectids'><a name='ap35497'><\/a><\/div><h1 class='title topictitle1'>AirPort 유틸리티 도움말<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>AirPort 유틸리티 도움말<\/h2><p class='p'>Apple 무선 장비 또는 Wi-Fi 네트워크 설정에 대한 도움말을 찾습니다.<\/p><\/div><\/div><\/div>", 
+"alternativeName": "AirPort 유틸리티 도움말", 
+"name": "AirPort 유틸리티 도움말", 
+"class": "default"}
+, 
+"aprt2760": {
+"content": "<div id='aprt2760' class='apd-topic'><div class='subjectids'><a name='aprt2760'><\/a><a name='alap10989'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>베이스 스테이션에 USB 하드 디스크 연결하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션에서 지원하는 경우, USB 하드 디스크를 베이스 스테이션에 있는 USB 포트에 연결하면 네트워크상에 있는 컴퓨터(유무선 모두)에서 접근하여 파일 및 데이터를 연결, 공유 및 저장할 수 있습니다.<\/p><p class='p'>Time Capsule을 사용한다면 이미 AirPort 디스크가 내장되어 있습니다. 추가 USB 디스크를 Time Capsule의 USB 포트에 연결할 수 있습니다.<\/p><\/div><div class='li step p'><span class='ph cmd'>하드 디스크를 해당 장비의 뒷면에 있는 USB 포트에 연결하십시오. USB 허브를 장비에 연결하면, 여러 개의 하드 디스크를 허브에 연결하고 무선 네트워크에서 이들 하드 디스크에 접근할 수 있습니다.<\/span><p class='p'>AirPort 유틸리티는 디스크를 포맷하는 것이 지원되지 않습니다. 컴퓨터를 사용하여 하드 디스크를 포맷하십시오. Macintosh에서 HFS Plus라고도 하는 Mac OS 확장 포맷을 사용하여 하드 디스크를 포맷하십시오. Windows를 사용하는 컴퓨터에서는 FAT32를 사용하십시오.<\/p><p class='p'>Time Capsule을 사용한다면 AirPort 유틸리티의 디스크 패널에서 내장 AirPort 디스크의 내용을 지울 수 있습니다.<\/p><\/div><\/div><div class='section postreq'><p class='p'>하드 디스크에 대한 정보를 보려면 AirPort 유틸리티를 열고 베이스 스테이션을 선택한 다음, 베이스 스테이션 > 수동 설정을 선택하십시오. 필요하다면 베이스 스테이션 암호를 입력하십시오. 도구 막대에서 디스크를 클릭하십시오.<\/p><p class='p'>해당 하드 디스크에 대한 접근 권한을 설정하고 파일 공유 패널에서 작업그룹 이름을 지정할 수 있습니다.<\/p><p class='p'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/p><\/div><\/div>", 
+"keywords": "AirPort 무선 장비 설정하기, 공유된 USB 장비", 
+"name": "베이스 스테이션에 USB 하드 디스크 연결하기", 
+"alternativeName": "베이스 스테이션에 USB 하드 디스크 연결하기", 
+"summary": "USB 하드 디스크를 자신의 컴퓨터에 연결하면 여러분의 네트워크상에 있는 컴퓨터에서 해당 디스크에 접근하여 파일 및 데이터를 공유 및 저장할 수 있습니다."}
+, 
+"aprt2753": {
+"content": "<div id='aprt2753' class='apd-topic'><div class='subjectids'><a name='aprt2753'><\/a><a name='alap11031'><\/a><a name='alap11855'><\/a><a name='alap12685'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>기업용 WPA2 네트워크 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>기업용 WPA2 네트워크를 설정하려면 사용자 이름, 암호 등과 같은 사용자의 신원을 관리하고 입증할 수 있도록 RADIUS 서버를 설정해야 합니다. 설정 방법은 RADIUS 서버와 함께 제공되는 설명서를 참조하십시오. 일단 서버가 설치되면, 다음 단계를 따라서 기업용 WPA2 네트워크를 설정하십시오.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정하는 베이스 스테이션과 여러분의 네트워크에 접속할 무선 클라이언트 컴퓨터의 호환성에 따라, 무선 보안 팝업 메뉴에서 기업용 WPA\/WPA2 또는 기업용 WPA2를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>RADIUS 구성을 클릭하고 주 및 보조 RADIUS 인증 서버의 IP 주소, 포트 및 공유 보안(또는 암호)을 입력하십시오.<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "AirPort 보안, RADIUS, WPA(Wi-Fi Protected Access)", 
+"name": "기업용 WPA2 네트워크 설정하기", 
+"alternativeName": "기업용 WPA2 네트워크 설정하기", 
+"summary": "기업용 WPA2 네트워크를 설정하려면 사용자 이름, 암호 등과 같은 사용자의 신원을 관리하고 입증할 수 있도록 RADIUS 서버를 설정해야 합니다."}
+, 
+"aprt2739": {
+"content": "<div id='aprt2739' class='apd-topic'><div class='subjectids'><a name='aprt2739'><\/a><a name='alap10989'><\/a><a name='alap10990'><\/a><a name='alap12711'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>오디오\/비디오 스트리밍 품질 제어하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Wi-Fi 네트워크에 오디오\/비디오 스트리밍 서버나 다중 전송률 기능이 있는 다른 응용 프로그램이 있다면, 다중 전송률을 설정하여 전송 품질을 제어할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 네트워크 옵션을 클릭한 다음, 다중 전송률 팝업 메뉴에서 전송률을 선택하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>다중 전송률을 높게 설정하면, 범위 내에 있고 설정한 속도를 얻을 수 있는 네트워크상의 클라이언트만 전송을 받게 됩니다.<\/p><p class='p'>다중 전송률을 1Mbps로 설정하여 네트워크의 범위를 기본 이상으로 확장할 수 있습니다.<\/p><\/div><\/div>", 
+"keywords": "AirPort 무선 장비 설정하기, AirPort 사용하기, 다중 전송률", 
+"name": "오디오\/비디오 스트리밍 품질 제어하기", 
+"alternativeName": "오디오\/비디오 스트리밍 품질 제어하기", 
+"summary": "다중 전송률을 설정하여 Wi-Fi 네트워크의 오디오\/비디오 스트리밍 품질을 제어할 수 있습니다."}
+, 
+"ap20881": {
+"navigation": "false", 
+"content": "<div id='ap20881' class='apd-topic'><div class='subjectids'><a name='ap20881'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>이더넷 WAN 포트를 통해 프린터 공유하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>이더넷 WAN 포트를 사용하여 프린터를 공유하도록 베이스 스테이션 또는 Time Capsule을 설정했다면, 로컬 네트워크에 없는 컴퓨터가 해당 프린트로 프린트할 수 있습니다. 예를 들어, 회사에 있다면 집에 있는 베이스 스테이션에 연결된 USB 프린터로 프린트할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>USB 프린터를 AirPort 베이스 스테이션 또는 Time Capsule에 연결하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>프린터를 공유할 장비를 선택하고 수동 설정을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 프린터를 클릭하고 \"이더넷 WAN 포트로 프린터 공유\"를 선택하십시오.<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "이더넷 WAN 포트를 통해 프린터 공유하기", 
+"name": "이더넷 WAN 포트를 통해 프린터 공유하기", 
+"summary": "이더넷 WAN 포트를 사용하여 프린터를 공유하도록 베이스 스테이션을 설정했다면, 로컬 네트워크에 없는 컴퓨터가 해당 프린트로 프린트할 수 있습니다."}
+, 
+"aprt2754": {
+"content": "<div id='aprt2754' class='apd-topic'><div class='subjectids'><a name='aprt2754'><\/a><a name='alap11006'><\/a><a name='alap11031'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>베이스 스테이션, Time Capsule 또는 네트워크 암호를 잊었습니다<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션, Time Capsule 또는 네트워크에 대한 암호를 잊었다면, 해당 장비를 재설정하고 새로운 암호를 선택할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>장비가 연결되어 있는 동안에 펜의 뾰족한 끝을 사용하여 재설정 버튼을 몇 초 동안 누르고 있으십시오. 그러면 장비 및 네트워크 암호가 일시적으로 \"public\"으로 재설정됩니다.<\/span><\/li><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>재설정한 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오. 기본 암호는 “public”입니다.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 베이스 스테이션을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>장비에 새로운 암호를 부여하고 업데이트를 클릭하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>재설정 후 5분 내에 어떤 변경도 하지 않으면, 장비를 다시 재설정해야 합니다.<\/p><\/div><\/div>", 
+"keywords": "AirPort 보안, AirPort 문제 해결하기", 
+"name": "베이스 스테이션, Time Capsule 또는 네트워크 암호를 잊었습니다", 
+"alternativeName": "베이스 스테이션, Time Capsule 또는 네트워크 암호를 잊었습니다", 
+"summary": "암호를 잊었다면, 베이스 스테이션을 재설정하여 새로운 암호를 선택할 수 있습니다."}
+, 
+"aprt2761": {
+"content": "<div id='aprt2761' class='apd-topic'><div class='subjectids'><a name='aprt2761'><\/a><a name='alap11038'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>USB 프린터 이름 변경하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 유틸리티를 사용하여 베이스 스테이션 또는 Time Capsule에 연결되어 있는 USB 프린터의 이름을 변경할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정하려는 베이스 스테이션 또는 Time Capsule을 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 프린터를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>USB 프린터 입력란에 새로운 이름을 입력하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>또한, USB 허브를 베이스 스테이션의 USB 포트에 연결한 다음, 여러 대의 프린터를 이 USB 허브에 연결할 수도 있습니다. 그런 다음, AirPort 유틸리티를 사용하여 모든 프린터의 이름을 변경할 수 있습니다.<\/p><\/div><\/div>", 
+"alternativeName": "USB 프린터 이름 변경하기", 
+"name": "USB 프린터 이름 변경하기", 
+"summary": "AirPort 유틸리티를 사용하여 프린터의 이름을 변경할 수 있습니다."}
+, 
+"aprt2755": {
+"content": "<div id='aprt2755' class='apd-topic'><div class='subjectids'><a name='aprt2755'><\/a><a name='alap11032'><\/a><a name='alap12694'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>베이스 스테이션 또는 Time Capsule이 NAT 및 DHCP를 제공하는 라우터에 연결되어 있습니다<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션 또는 Time Capsule이 NAT(Network Address Translation)를 사용하여 해당 네트워크상의 다른 컴퓨터와 단일 인터넷 연결을 공유하는 다른 네트워크 장비나 라우터에 연결되어 있고 DHCP(Dynamic Host Configuration Protocol)를 사용하여 사설 IP 주소를 제공한다면, 베이스 스테이션이나 Time Capsule의 NAT 및 DHCP를 꺼야 합니다.<\/p><p class='p'>대부분의 네트워크는 IP 주소를 제공하는 데 있어 NAT 및 DHCP를 사용하는 하나의 장비만 필요로 합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 인터넷을 클릭하고 인터넷 연결을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>연결 공유 팝업 메뉴에서 끔(브리지 모드)을 선택하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>NAT 및 DHCP가 꺼져 있으면, 장비는 네트워크상의 무선 컴퓨터와 유선 컴퓨터 사이에 간단한 브리지로 동작합니다.<\/p><\/div><\/div>", 
+"alternativeName": "베이스 스테이션 또는 Time Capsule이 NAT 및 DHCP를 제공하는 라우터에 연결되어 있습니다", 
+"name": "베이스 스테이션 또는 Time Capsule이 NAT 및 DHCP를 제공하는 라우터에 연결되어 있습니다", 
+"summary": "라우터에서 NAT 및 DHCP를 사용하고 있다면, 베이스 스테이션 또는 Time Capsule에서는 NAT와 DHCP를 꺼야 합니다."}
+, 
+"aprt2748": {
+"content": "<div id='aprt2748' class='apd-topic'><div class='subjectids'><a name='aprt2748'><\/a><a name='alap10991'><\/a><a name='alap12688'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>네트워크 범위 제어하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>송신측 전력 설정값을 낮춰서 Wi-Fi 네트워크의 범위를 제한하면 네트워크에 접속할 수 있는 사용자들을 제어할 수 있습니다. 네트워크의 범위를 좁혀서 베이스 스테이션 또는 Time Capsule에 충분히 가까이 있는 컴퓨터만 네트워크에 접속하도록 허용할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>제어하려는 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 네트워크 옵션을 클릭하고 송신 전력 팝업 메뉴에서 설정을 선택하십시오(퍼센트가 낮을수록 네트워크 범위가 좁아집니다).<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "AirPort 네트워크 설정하기, 송신 전력", 
+"name": "네트워크 범위 제어하기", 
+"alternativeName": "네트워크 범위 제어하기", 
+"summary": "송신측 전력 설정값을 낮춰서 무선 네트워크의 범위를 제한하면 네트워크에 접속할 수 있는 사용자들을 제어할 수 있습니다."}
+, 
+"button-1": {
+"type": "navigation", 
+"howdyPageID": "searchable-landing-com-apple-airportutility-help", 
+"alternativeNameStyle": "replace"}
+, 
+"aprt2756": {
+"content": "<div id='aprt2756' class='apd-topic'><div class='subjectids'><a name='aprt2756'><\/a><a name='alap11032'><\/a><a name='alap12694'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>여러 대의 컴퓨터와 인터넷 연결 공유하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 베이스 스테이션 또는 Time Capsule은 여러 대의 컴퓨터 간에 단일 인터넷 연결을 공유할 수 있습니다. 베이스 스테이션 또는 Time Capsule은 IP 주소를 제공할 수 있고, DHCP(Dynamic Host Configuration Protocol) 및 NAT(Network Address Translation)를 사용하여 Wi-Fi 네트워크 상의 컴퓨터에 인터넷 정보를 라우팅할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 인터넷을 클릭하고 인터넷 연결을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>연결 공유 팝업 메뉴에서 \"공용 IP 주소 공유\"를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>DHCP를 클릭하고 DHCP 범위 팝업 메뉴에서 주소 범위를 선택하십시오. 기본적으로, 장비는 10.0.1.2에서 10.0.1.200까지의 주소 범위를 사용합니다.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>또한, 클라이언트 컴퓨터에서 유효한 IP 주소를 받는 기간, 특정 클라이언트 컴퓨터를 위해 특정 IP 주소 예약 등과 같은 기타 DHCP 옵션도 설정할 수 있습니다.<\/p><\/div><\/div>", 
+"alternativeName": "여러 대의 컴퓨터와 인터넷 연결 공유하기", 
+"name": "여러 대의 컴퓨터와 인터넷 연결 공유하기", 
+"summary": "AirPort 베이스 스테이션은 여러 대의 컴퓨터 간에 단일 인터넷을 공유할 수 있습니다."}
+, 
+"aprt2763": {
+"content": "<div id='aprt2763' class='apd-topic'><div class='subjectids'><a name='aprt2763'><\/a><a name='alap12684'><\/a><a name='alap12686'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>SNMP 끄기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>SNMP(Simple Network Management Protocol)에 의해 관리되는 네트워크는 \"서비스 거부 공격\"에 취약할 수 있습니다. (SNMP는 AirPort 유틸리티에서 기본으로 켜져 있습니다.) 유사하게, WAN(Wide Area Network) 포트를 통해 원격으로 베이스 스테이션이 구성하는 것을 허용한다면, 허가되지 않은 사용자가 네트워크 설정을 변경할 수도 있습니다.<\/p><p class='p'>네트워크 및 무선 장비를 보호하려면 SNMP를 끄십시오.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 고급을 클릭하고 로깅 및 통계를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>SNMP 접근 허용 체크상자를 선택 해제하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>\"WAN을 통한 SNMP 허용\" 체크상자를 선택하여 WAN(Wide Area Network)에서 SNMP를 지원하도록 선택할 수 있습니다. WAN 포트를 통해 SNMP를 허용하면 장비를 원격으로 관리할 수 있습니다.<\/p><p class='p'>무선 장비 설정하기에 관한 정보를 보려면 아래의 “무선 네트워크 정보 로그 기록하기”를 클릭하여 네트워크 정보를 로그 기록하십시오.<\/p><\/div><\/div>", 
+"keywords": "원격 구성, SNMP", 
+"name": "SNMP 끄기", 
+"alternativeName": "SNMP 끄기", 
+"summary": "네트워크 및 베이스 스테이션을 보호하려면 SNMP를 끄십시오."}
+, 
+"button-2": {
+"type": "navigation", 
+"alternativeNameStyle": "replace"}
+, 
+"aprt2694": {
+"content": "<div id='aprt2694' class='apd-topic'><div class='subjectids'><a name='aprt2694'><\/a><a name='alap10989'><\/a><a name='alap10987'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirPort 설정 변경하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 유틸리티의 요약 패널을 사용하여 변경하고자 하는 AirPort 설정에 빠르게 접근할 수 있습니다.<\/p><\/div><div class='li step p'><span class='ph cmd'>무선 보안과 같은 베이스 스테이션 설정의 제목을 클릭하여 AirPort 유틸리티에서 해당 설정 패널로 넘어가십시오.<\/span><\/div><\/div><\/div>", 
+"alternativeName": "AirPort 설정 변경하기", 
+"name": "AirPort 설정 변경하기", 
+"summary": "AirPort 유틸리티의 요약 패널을 사용하여 변경하고자 하는 AirPort 설정에 빠르게 접근할 수 있습니다."}
+, 
+"ap11863": {
+"navigation": "false", 
+"content": "<div id='ap11863' class='apd-topic'><div class='subjectids'><a name='ap11863'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirPort 살펴보기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort를 사용하면 인터넷에 케이블을 연결할 필요가 없으므로, 복잡한 배선 작업이 없이도 여러분 가정의 모든 방을 온라인으로 연결할 수 있습니다. 특정 질문에 대한 대답은 필드에 단어나 구를 입력하십시오. AirPort로 할 수 있는 것들을 보려면, 주제를 클릭하십시오.<\/p><\/div><\/div><div class='topic task nested1' id='ap11863-a'><a name='ap11863-a'><!-- --><\/a><h2 class='title topictitle2'>AirPort의 시작<\/h2><div class='body taskbody'><div class='section context'><p class='p'>1999년에 Apple은 케이블 없이 인터넷에 연결할 수 있도록 해주는 사용이 쉬운 솔루션인 AirPort를 출시했습니다. 2003년에 AirPort Extreme은 802.11g 무선 표준을 통해 무선 연결을 한 단계 높은 수준으로 끌어올렸습니다. 2004년에는 AirPort Express가 무선 네트워킹을 지속적으로 고급화했으며, 무선 네트워킹, 오디오, 프린팅 및 브리지 성능이 하나의 휴대용 장비에 담긴 최초의 베이스 스테이션을 제공했습니다. 차세대 AirPort 무선 장비는 역사상 가장 빠르고 가장 강력한 무선 장비입니다. IEEE 802.11n draft 사양에 기반한 새로운 AirPort Extreme, 새로운 AirPort Express 및 Time Capsule은 최대 5배 빠른 속도와 2배 이상 넓은 범위를 제공합니다.<\/p><\/div><\/div><\/div><div class='topic task nested1' id='ap11863-c'><a name='ap11863-c'><!-- --><\/a><h2 class='title topictitle2'>AirPort 무선 장비 설정하기<\/h2><div class='body taskbody'><div class='section context'><p class='p'>AirPort Extreme 베이스 스테이션, AirPort Express 또는 Time Capsule의 설정 방법이 이전보다 쉬워졌습니다. AirPort 유틸리티가 여러분을 대신해서 대부분의 작업을 해주며, AirPort 무선 장비에서 생성한 AirPort 네트워크에 접근하도록 컴퓨터를 구성하고 네트워크를 설정합니다. 장비를 전원에 연결하고 상태 표시등에 불이 들어오면 AirPort 유틸리티를 열고 화면의 지침을 따르기만 하면 됩니다. 기타 설정값(고급 보안 옵션, 폐쇄된 네트워크, DHCP 임대 시간, 접근 제어, WAN 개인 보호 또는 전력 조절)을 설정 또는 변경하려면, AirPort 유틸리티를 사용하여 장비를 수동으로 설정할 수 있습니다.<\/p><\/div><\/div><\/div><div class='topic task nested1' id='ap11863-e'><a name='ap11863-e'><!-- --><\/a><h2 class='title topictitle2'>AirPort 사용하기<\/h2><div class='body taskbody'><div class='section context'><p class='p'>여러 대의 컴퓨터와 하나의 인터넷 연결을 공유하고 집이나 사무실의 어디서나 웹과 이메일에 접속할 수 있습니다. 무선으로 파일을 교환하고 게임을 플레이하며 가족이나 사무실에 있는 모든 사람들과 하드 디스크 또는 프린터를 공유할 수 있습니다. 또한, AirPort Express를 통해 사실상 집 안의 어디에서나 iTunes 음악 보관함을 즐길 수 있습니다.<\/p><\/div><\/div><\/div><\/div>", 
+"alternativeName": "AirPort 살펴보기", 
+"name": "AirPort 살펴보기", 
+"summary": "AirPort Extreme을 사용하면 인터넷에 케이블을 연결할 필요가 없으므로, 복잡한 배선 작업이 없이도 여러분 가정의 모든 방을 온라인으로 연결할 수 있습니다."}
+, 
+"aprt2771": {
+"content": "<div id='aprt2771' class='apd-topic'><div class='subjectids'><a name='aprt2771'><\/a><a name='alap10989'><\/a><a name='alap11032'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>베이스 스테이션 또는 Time Capsule용 DHCP 옵션 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>DHCP(Dynamic Host Configuration Protocol)를 사용하여 무선 네트워크상에 있는 컴퓨터 및 장비에 IP 주소를 제공하도록 베이스 스테이션 또는 Time Capsule을 설정했다면, 장비가 사용하는 IP 주소 범위를 선택하고 컴퓨터가 유효한 IP 주소를 가지게 될 시간을 결정하며, 환영 메시지를 입력하고 특정 IP 주소를 예약하여 여러분의 네트워크에 접속할 특정 컴퓨터를 지정할 수 있습니다.<\/p><p class='p'>AirPort 유틸리티(Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는)를 열고 목록에서 해당 장비를 선택한 다음, 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오. 도구 막대에서 인터넷을 클릭하고 DHCP를 클릭하십시오.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>DHCP 범위 팝업 메뉴에서 IP 주소 범위를 선택하십시오. 10.0, 192.168 또는 172.16을 선택하고 베이스 스테이션에서 제공할 주소에 따라 DHCP 시작 주소 및 DHCP 끝 주소 입력 필드에 시작 및 끝 주소를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>DHCP 임대란에 숫자를 입력하고 팝업 메뉴에서 분, 시 또는 일을 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>DHCP 메시지 입력 필드에 환영 메시지를 입력하십시오. 컴퓨터가 여러분의 네트워크에 접속하면 이 메시지가 표시됩니다.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 네트워크상에 있는 특정 컴퓨터에 특정 IP 주소를 제공하려면, DHCP 예약 목록 아래에 있는 추가(+)를 클릭하고 화면 지침에 따라 예약에 이름을 지정하십시오. MAC 주소 또는 DHCP 클라이언트 ID로 주소를 예악하십시오. MAC 주소를 선택했다면 계속을 클릭하고 MAC 주소 및 특정 IP 주소를 입력하십시오.<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>네트워크가 네트워크상의 LDAP(Lightweight Directory Access Protocol) 서버를 사용하도록 설정되어 있는 경우에는 LDAP 서버란에 해당 서버의 주소를 입력하면 네트워크상의 컴퓨터가 해당 서버에 접근할 수 있습니다.<\/p><\/div><\/div>", 
+"keywords": "DHCP, AirPort 무선 장비 설정하기", 
+"name": "베이스 스테이션 또는 Time Capsule용 DHCP 옵션 설정하기", 
+"alternativeName": "베이스 스테이션 또는 Time Capsule용 DHCP 옵션 설정하기", 
+"summary": "DHCP를 사용하여 무선 네트워크상에 있는 컴퓨터 및 장비에 IP 주소를 제공하도록 베이스 스테이션을 설정했다면, 베이스 스테이션에 대해 DHCP 옵션을 설정할 수 있습니다."}
+, 
+"aprt2695": {
+"content": "<div id='aprt2695' class='apd-topic'><div class='subjectids'><a name='aprt2695'><\/a><a name='alap10991'><\/a><a name='alap11846'><\/a><a name='alap11855'><\/a><a name='alap12688'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>네트워크에 대해 무선 옵션 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 유틸리티의 무선 패널을 사용하여 네트워크의 무선 설정을 관리하십시오.<\/p><p class='p'>무선 패널을 찾으려면 AirPort 유틸리티를 열고 해당 베이스 스테이션 또는 해당되는 경우 Time Capsule을 선택하고 베이스 스테이션 > 수동 설정을 선택하십시오. 필요하다면 장비 암호를 입력하십시오. 도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/p><p class='p'>AirPort 유틸리티는 Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더에, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>네트워크 모드를 설정하여 무선 네트워크를 생성하거나 WDS(Wireless Distribution System)에 접속하거나, 해당 장비에서 지원하고 다른 802.11n 장비를 네트워크에 연결할 예정이라면 무선 네트워크를 확장하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 네트워크 이름을 지정하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>사용자의 베이스 스테이션 및 네트워크에 접속할 클라이언트 컴퓨터에 따라, 무선 통신 모드를 802.11n(802.11b\/g 호환), 802.11n 전용(2.4GHz), 802.11n(802.11a 호환) 또는 802.11n 전용(5GHz)으로 설정하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정하는 베이스 스테이션 및 네트워크에 접속할 클라이언트 컴퓨터의 성능에 따라, WEP 또는 WPA를 사용하는 무선 네트워크에 대한 무선 보안 수준을 설정하십시오. 개인용 WPA\/WPA2 보안 수준을 권장합니다.<\/span><\/li><li class='li step'><span class='ph cmd'>다중 전송률 및 송신측 전력과 같은 추가 옵션을 설정하려면 무선 네트워크 옵션을 클릭하십시오.<\/span><\/li><\/ul><\/div><\/div>", 
+"alternativeName": "네트워크에 대해 무선 옵션 설정하기", 
+"name": "네트워크에 대해 무선 옵션 설정하기", 
+"summary": "AirPort 유틸리티의 무선 패널을 사용하여 베이스 스테이션의 무선 설정을 관리하십시오."}
+, 
+"aprt2758": {
+"content": "<div id='aprt2758' class='apd-topic'><div class='subjectids'><a name='aprt2758'><\/a><a name='alap12696'><\/a><a name='alap12698'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>네트워크에 기본 호스트 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Wi-Fi 네트워크에 있는 컴퓨터 한 대를 기본 호스트로 설정하면 이 컴퓨터가 인터넷에 노출되며 모든 인바운드 트래픽을 수신합니다. 이것은 네트워크 상의 컴퓨터를 사용하여 네트워크 게임을 플레이하거나 한 대의 컴퓨터로 모든 인터넷 트래픽을 라우팅하고자 할 때 유용할 수 있습니다.<\/p><p class='p'>베이스 스테이션 또는 Time Capsule은 DHCP(Dynamic Host Configuration Protocol) 및 NAT(Network Address Translation)을 사용하여 인터넷 연결을 공유하도록 설정해야 합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 인터넷을 클릭하고 NAT를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>\"기본 호스트 활성화\"를 선택하고 IP 주소를 기본 호스트로 설정하려는 네트워크상의 컴퓨터에 지정하십시오. 기본 주소는 10.0.1.25입니다.<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "포트 매핑, NAT(Network Address Translation)", 
+"name": "네트워크에 기본 호스트 설정하기", 
+"alternativeName": "네트워크에 기본 호스트 설정하기", 
+"summary": "네트워크 상의 컴퓨터를 기본 호스트로 설정할 수 있습니다. 이 컴퓨터가 인터넷에 노출되며 모든 인바운드 트래픽을 수신합니다."}
+, 
+"aprt2757": {
+"content": "<div id='aprt2757' class='apd-topic'><div class='subjectids'><a name='aprt2757'><\/a><a name='alap11032'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>클라이언트 컴퓨터에 특정 DHCP 주소 제공하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>네트워크 상에 있는 클라이언트 컴퓨터를 위해 DHCP 주소를 예약하도록 802.11n 베이스 스테이션 또는 Time Capsule을 설정할 수 있습니다. 이들 클라이언트 컴퓨터가 여러분의 네트워크에 접속하면 베이스 스테이션 또는 Time Capsule에서 해당 클라이언트에 동일한 DHCP 주소를 제공합니다.<\/p><p class='p'>DHCP 예약을 하기 전에 DHCP를 사용하여 네트워크상에 있는 클라이언트 컴퓨터들에게 IP 주소를 제공하도록 베이스 스테이션 또는 Time Capsule을 설정해야 합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 인터넷을 클릭하고 DHCP를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>DHCP 예약 목록 아래에 있는 추가(+)를 클릭하고 화면 지침에 따라 DHCP 주소를 예약하십시오. 주소를 예약하는 클라이언트 컴퓨터의 MAC 주소를 알아야 하며, DHCP 범위로부터 예약하고자 하는 주소를 결정해야 합니다.<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "DHCP", 
+"name": "클라이언트 컴퓨터에 특정 DHCP 주소 제공하기", 
+"alternativeName": "클라이언트 컴퓨터에 특정 DHCP 주소 제공하기", 
+"summary": "네트워크 상에 있는 클라이언트 컴퓨터를 위해 DHCP 주소를 예약하도록 베이스 스테이션을 설정할 수 있습니다."}
+, 
+"aprt2759": {
+"content": "<div id='aprt2759' class='apd-topic'><div class='subjectids'><a name='aprt2759'><\/a><a name='alap12702'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi 네트워크에 연결되어 있는 디스크에 대한 사용자 계정 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>무선 네트워크의 사용자에 대한 계정을 설정하여 사용자가 베이스 스테이션에 연결되어 있는 USB 하드 디스크를 공유하는 방법을 조절할 수 있습니다. Time Capsule을 사용한다면 내장 AirPort 디스크의 사용자에 대한 계정을 설정할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 디스크를 클릭하고 파일 공유를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>공유 디스크 보안 팝업 메뉴에서 \"계정 사용\"을 선택한 다음, 계정 구성을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>추가(+)를 클릭하고 사용자 이름을 입력한 다음, 사용자에게 암호를 제공하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>파일 공유 접근 팝업 메뉴에서 이 사용자에게 지정할 접근 권한에 따라 읽기 및 쓰기, 읽기 전용 또는 허용 안 함을 선택하십시오.<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "Wi-Fi 네트워크에 연결되어 있는 디스크에 대한 사용자 계정 설정하기", 
+"name": "Wi-Fi 네트워크에 연결되어 있는 디스크에 대한 사용자 계정 설정하기", 
+"summary": "무선 네트워크의 사용자에 대한 계정을 설정할 수 있습니다."}
+, 
+"aprt2773": {
+"content": "<div id='aprt2773' class='apd-topic'><div class='subjectids'><a name='aprt2773'><\/a><a name='alap11037'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirPort Express를 사용하여 AirPlay로 음악 재생하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>스테레오나 전원 스피커에 연결되어 있는 AirPort Express가 있다면 AirPlay를 사용하여 iTunes 음악을 재생할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>AirPort Express의 상단에 있는 미니 잭을 사용하여 스테레오나 전원 스피커를 AirPort Express에 연결하고 AirPort Express를 벽의 콘센트에 연결하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 음악을 클릭하고 AirPlay 활성화 체크상자를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>iTunes의 스피커 이름과 암호를 입력하십시오. 이것은 iTunes 윈도우의 하단에 있는 팝업 메뉴에 나타나는 이름입니다.<\/span><p class='p'>처음으로 AirPort Express를 설정한다면, 베이스 스테이션 > 도와주세요를 선택하고 화면 지침을 따르십시오.<\/p><\/li><\/ol><\/div><div class='section postreq'><p class='p'>AirPort Express를 연결하여 올바르게 설정했다면, iTunes를 열고 iTunes 윈도우의 하단에 있는 팝업 메뉴에서 사용자의 AirPort Express를 선택하십시오.<\/p><\/div><\/div>", 
+"keywords": "AirPort Express", 
+"name": "AirPort Express를 사용하여 AirPlay로 음악 재생하기", 
+"alternativeName": "AirPort Express를 사용하여 AirPlay로 음악 재생하기", 
+"summary": "스테레오나 전원 스피커에 연결되어 있는 AirPort Express가 있다면 AirPlay를 사용하여 iTunes 음악을 재생할 수 있습니다."}
+, 
+"aprt2774": {
+"content": "<div id='aprt2774' class='apd-topic'><div class='subjectids'><a name='aprt2774'><\/a><a name='alap11031'><\/a><a name='alap12679'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>사용자가 네트워크에 접근할 수 있는 시간 제어하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>컴퓨터가 해당 Wi-Fi 네트워크에 접근할 수 있는 날짜와 시간을 조절할 수 있습니다. 사용자가 네트워크를 사용하여 인터넷에 접속하고 파일을 공유하며 게임을 플레이할 수 있는 시간을 결정할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>해당 베이스 스테이션 또는 Time Capsule을 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 연결 조절을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>추가(+) 버튼을 클릭하고 네트워크 연결을 허용하려는 컴퓨터의 이름 또는 설명 및 MAC 주소를 입력하십시오. 또한, 이 컴퓨터를 클릭하여 사용 중인 컴퓨터의 MAC 주소와 이름을 추가할 수 있습니다.<\/span><\/li><li class='li step'><span class='ph cmd'>팝업 메뉴에서 값을 선택하십시오. 일수 팝업 메뉴에서 주중 요일이나 매일을 선택하고 기타 팝업 메뉴에서 \"하루종일\" 또는 \"다음 시간 사이\"를 선택하십시오. “다음 시간 사이”를 선택하면 시간 입력 필드를 이중 클릭하여 하루 중 시간을 편집할 수 있습니다.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>목록에 컴퓨터가 없다면, 편집을 클릭하고 팝업 메뉴에서 값을 선택하여 해당 네트워크에 접속하는 모든 사용자를 위한 기본 동작을 조절할 수 있습니다.<\/p><\/div><\/div>", 
+"keywords": "접근 제어, AirPort 보안", 
+"name": "사용자가 네트워크에 접근할 수 있는 시간 제어하기", 
+"alternativeName": "사용자가 네트워크에 접근할 수 있는 시간 제어하기", 
+"summary": "사용자가 네트워크를 사용하여 인터넷에 접속하고 파일을 공유하며 게임을 플레이할 수 있는 시간을 결정할 수 있습니다."}
+, 
+"aprt2697": {
+"content": "<div id='aprt2697' class='apd-topic'><div class='subjectids'><a name='aprt2697'><\/a><a name='alap10990'><\/a><a name='alap10991'><\/a><a name='alap11035'><\/a><a name='alap11037'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>무선 네트워크 범위 확장하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>여러 대의 AirPort Extreme 또는 AirPort Express 베이스 스테이션을 WDS(Wireless Distribution System)로 설정하여 무선 네트워크의 범위를 확장할 수 있습니다. WDS에서 베이스 스테이션들을 무선으로 연결할 때, 각 베이스 스테이션을 주 베이스 스테이션, 원격 베이스 스테이션 또는 릴레이 베이스 스테이션으로 설정하십시오.<\/p><div class='note note'><span class='notetitle'>주:<\/span> 802.11n 무선 네트워크의 범위를 확장한다면 아래 링크를 클릭하여 간단한 지침을 볼 수 있습니다.<\/div><p class='p'><a class='xref' href='#ap11953'>802.11n 네트워크의 범위 확장하기<\/a><\/p><p class='p'>주 베이스 스테이션은 인터넷에 연결되며, 원격 및 릴레이 베이스 스테이션과 연결을 공유합니다. 원격 베이스 스테이션은 주 베이스 스테이션의 인터넷 연결을 간단하게 공유합니다. 릴레이 베이스 스테이션은 주 베이스 스테이션의 인터넷 연결을 공유하고 연결을 다른 원격 베이스 스테이션에 전송합니다.<\/p><p class='p'>모두 3개의 베이스 스테이션 구성(주, 원격 및 릴레이)은 주 베이스 스테이션의 인터넷 연결을 무선으로 클라이언트 컴퓨터와 공유하거나 클라이언트 컴퓨터가 이더넷으로 베이스 스테이션에 연결되어 있다면 이더넷 연결을 통해 공유할 수도 있습니다.<\/p><p class='p'>베이스 스테이션을 WDS에서 설정했다면, 각 베이스 스테이션의 AirPort ID를 알아야 합니다. MAC(Media Access Controller) 주소로 알려진 AirPort ID는 AirPort Extreme 베이스 스테이션의 바닥에서 AirPort 기호 옆에, 그리고 AirPort Express 베이스 스테이션의 전원 어댑터 옆면에 있는 레이블에 프린트되어 있습니다. WDS의 설정을 쉽게 하려면, 모든 베이스 스테이션을 하나의 테이블에 놓고 모두 전원 공급 장치에 연결하십시오.<\/p><p class='p'>WDS의 설정을 시작하려면 AirPort 유틸리티를 열고 해당 무선 장비를 선택한 다음, 베이스 스테이션 > 수동 설정을 선택하십시오. 필요하다면 암호를 입력하십시오. 도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/p><p class='p'>AirPort 유틸리티는 Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더에, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>무선 모드 팝업 메뉴에서 \"WDS 네트워크에 접속\"을 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>WDS를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>다음 중 한가지를 수행하십시오.<\/span><ul class='ul choices'><li class='li choice'><p class='p'>WDS 주 베이스 스테이션을 설정한다면, 추가(+) 버튼을 클릭하고 WDS 원격 베이스 스테이션에 대한 AirPort ID 또는 무선 MAC 주소를 입력하십시오.<\/p><\/li><li class='li choice'><p class='p'>원격 베이스 스테이션을 설정한다면, WDS 주 베이스 스테이션의 AirPort ID나 무선 MAC 주소를 입력하십시오.<\/p><\/li><li class='li choice'><p class='p'>릴레이 베이스 스테이션을 설정한다면, WDS 주 베이스 스테이션의 AirPort ID 또는 무선 MAC 주소를 입력하고 추가(+)를 클릭하여 WDS 원격 베이스 스테이션의 AirPort ID 또는 무선 MAC 주소를 입력하십시오.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>WDS 내의 모든 베이스 스테이션에 대해 동일한 네트워크 이름 및 암호를 사용하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 무선을 클릭한 다음 WDS에서 각 베이스 스테이션에 동일한 채널을 사용하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>기본적으로 “무선 클라이언트 허용” 체크상자가 선택되어 있습니다. “이 베이스 스테이션에 무선 클라이언트 허용” 체크상자를 선택 해제하고 나중에 베이스 스테이션의 설정을 변경하고 싶다면, 이더넷 케이블을 사용하여 베이스 스테이션의 LAN 포트에 연결해야 합니다. 베이스 스테이션을 다시 구성하지 않으면 무선으로 해당 베이스 스테이션에 연결할 수 없습니다.<\/p><p class='p'>이더넷을 사용하여 베이스 스테이션이 연결된 경우 무선 네트워크의 범위를 확장하려면 “이더넷 네트워크에서 여러 대의 베이스 스테이션 사용하기”를 참조하십시오.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>관련 주제<\/strong><br><div><a class='link' href='#aprt2738'>이더넷 네트워크에서 여러 대의 베이스 스테이션 사용하기<\/a><\/div><\/div><\/div><\/div>", 
+"keywords": "AirPort Express, AirPort 네트워크 설정하기, AirPort 사용하기, WDS(Wireless Distribution System), AirPort Extreme", 
+"name": "무선 네트워크 범위 확장하기", 
+"alternativeName": "무선 네트워크 범위 확장하기", 
+"summary": "여러 대의 AirPort Extreme 또는 AirPort Express 베이스 스테이션을 WDS(Wireless Distribution System)로 설정하여 네트워크의 범위를 확장할 수 있습니다."}
+, 
+"aprt2698": {
+"content": "<div id='aprt2698' class='apd-topic'><div class='subjectids'><a name='aprt2698'><\/a><a name='alap10991'><\/a><a name='alap11031'><\/a><a name='alap12679'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>무선 네트워크에 대한 접근 제어하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>접근 제어를 사용하여 무선 네트워크를 통해 어떤 컴퓨터에서 정보를 주고 받을지 지정할 수 있습니다. 무선 장비가 지원하는 경우, 컴퓨터가 네트워크에 접속할 수 있는 시간과 일수를 조절할 수 있습니다.<\/p><p class='p'>접근 제어는 접근 제어 목록에 없는 컴퓨터가 Wi-Fi 네트워크에 연결하지 못하도록 합니다.<\/p><p class='p'>AirPort 유틸리티를 사용하여 접근 옵션을 설정하십시오. AirPort 유틸리티를 열고 해당 무선 장비를 선택한 다음, 베이스 스테이션 > 수동 설정을 선택하십시오. 필요하다면 암호를 입력하십시오. 도구 막대에서 AirPort를 클릭하고 접근 제어를 클릭하십시오.<\/p><p class='p'>AirPort 유틸리티는 Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더에, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><div class='li step p'><span class='ph cmd'>MAC 주소 접근 제어 팝업 메뉴에서 설정 중인 무선 장비에 따라 로컬(일부 AirPort 베이스 스테이션 모델에서 사용 가능), 시간별 연결 또는 RADIUS를 선택하십시오.<\/span><ul class='ul'><li class='li'><p class='p'>로컬을 선택한다면 추가(+) 버튼을 클릭하고 네트워크에 접근을 허용하려는 클라이언트의 AirPort ID 또는 무선 MAC 주소를 입력한 다음, 이 컴퓨터를 클릭하여 사용하고 있는 컴퓨터의 AirPort ID를 추가하십시오. 설명란을 사용하여 목록에서 해당 컴퓨터의 이름을 입력하십시오.<\/p><\/li><li class='li'><p class='p'>시간별 연결을 선택한다면, 추가(+) 버튼을 클릭하고 네트워크 접근을 허용하려는 컴퓨터의 이름 또는 설명 및 MAC 주소를 입력하십시오. 또한, 이 컴퓨터를 클릭하여 이 베이스 스테이션을 설정하기 위해 사용하고 있는 컴퓨터의 MAC 주소 및 이름을 추가할 수 있습니다. 팝업 메뉴에서 값을 선택하십시오. 일수 팝업 메뉴에서 주중 요일이나 매일을 선택하고 기타 팝업 메뉴에서 “하루종일” 또는 “다음 시간 사이”를 선택하십시오. “다음 시간 사이”를 선택하면 시간 입력 필드를 이중 클릭하여 하루 중 시간을 편집할 수 있습니다.<\/p><\/li><li class='li'><p class='p'>RADIUS를 선택한다면, 주 RADIUS 서버에 대한 주 포트, 공유 보안, RADIUS IP 주소 및 RADIUS 서비스 유형을 입력하십시오. 보조 RADIUS 서버가 있는 경우 해당 정보를 입력하십시오. 해당 정보가 없다면 서버 관리자에게 문의하십시오.<\/p><\/li><\/ul><\/div><\/div><div class='section postreq'><p class='p'>WDS(Wireless Distribution System)로 로컬 접근 제어를 사용한다면, 접근 제어 목록을 해당 네트워크 상의 모든 베이스 스테이션에 복사하십시오.<\/p><\/div><\/div>", 
+"keywords": "접근 제어, AirPort 보안, AirPort 네트워크 설정하기", 
+"name": "무선 네트워크에 대한 접근 제어하기", 
+"alternativeName": "무선 네트워크에 대한 접근 제어하기", 
+"summary": "접근 제어 기능을 통해 무선 네트워크에 연결할 수 있는 컴퓨터를 지정할 수 있습니다."}
+, 
+"ap11953": {
+"content": "<div id='ap11953' class='apd-topic'><div class='subjectids'><a name='ap11953'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>802.11n 네트워크의 범위 확장하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 유틸리티를 사용하면 다른 802.11n 베이스 스테이션 또는 Time Capsule에 연결하는 경우 802.11n 네트워크의 범위를 간단하게 확장할 수 있습니다. 두 대의 802.11n 장비를 연결하면 WDS 설정 프로세스가 크게 간소화됩니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>AirPort 유틸리티를 열고 인터넷에 연결될 베이스 스테이션 또는 Time Capsule을 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>수동 설정을 클릭하십시오. 필요하다면 베이스 스테이션 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭하고 무선을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 모드 팝업 메뉴에서 “무선 네트워크 생성”을 선택하고 “이 네트워크가 확장되는 것을 허용” 체크상자를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>다음으로, 이 네트워크를 확장할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 모드 팝업 메뉴에서 “무선 네트워크 확장”을 선택하고 네트워크 이름 팝업 메뉴에서 확장하려는 네트워크를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>필요하다면, 네트워크 및 장비 암호를 입력하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>이더넷을 사용하여 베이스 스테이션이 연결된 경우 무선 네트워크의 범위를 확장하려면 “이더넷 네트워크에서 여러 대의 베이스 스테이션 사용하기”를 참조하십시오.<\/p><p class='p'>802.11g 또는 802.11b를 사용하는 무선 네트워크의 범위를 확장하려는 경우, Apple 지원 웹 사이트를 확인하십시오<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>관련 주제<\/strong><br><div><a class='link' href='#aprt2738'>이더넷 네트워크에서 여러 대의 베이스 스테이션 사용하기<\/a><\/div><\/div><div class='linklist linklist'><strong>열기<\/strong><br><div><a class='link' href='http:\/\/www.apple.com\/support\/airport\/' target='_blank'>AirPort 지원 웹 사이트<\/a><\/div><\/div><\/div><\/div>", 
+"alternativeName": "802.11n 네트워크의 범위 확장하기", 
+"name": "802.11n 네트워크의 범위 확장하기", 
+"summary": "AirPort 유틸리티를 사용하면 다른 802.11n 베이스 스테이션에 연결하는 경우 802.11n 네트워크의 범위를 간단하게 확장할 수 있습니다."}
+, 
+"aprt2775": {
+"content": "<div id='aprt2775' class='apd-topic'><div class='subjectids'><a name='aprt2775'><\/a><a name='alap12692'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Bonjour를 사용하도록 베이스 스테이션 또는 Time Capsule 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>자동 구성 네트워크라고도 알려져 있는 Bonjour는 장비들이 어떤 구성이나 네트워크 설정 없이도 서로 자동으로 인식할 수 있도록 지원하는 네트워킹 기술입니다.<\/p><p class='p'>일부 버전의 AirPort Extreme 베이스 스테이션 및 모든 버전의 Time Capsule은 Bonjour를 사용하여 인터넷을 통한 서비스 알림을 지원합니다. 이는 동적 DNS 호스트 이름 (또는 동적 전역 호스트 이름) 및 인터넷 서비스 제공업체(ISP) 또는 네트워크 관리자로부터 받은 암호를 사용해야 합니다.<\/p><p class='p'>동적 전역 호스트 이름을 AirPort 무선 장비에 지정하면, 공용 IP 주소가 주기적으로 변경되더라도 현재 로컬 네트워크 외부의 장비에 연결할 수 있습니다.<\/p><p class='p'>계정 정보를 확보한 후에 다음 지침에 따라 AirPort 유틸리티에 정보를 입력하십시오.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>목록에서 해당 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>베이스 스테이션 또는 Time Capsule을 클릭하고 이름 필드 옆에 있는 편집을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>\"동적인 전역 호스트 이름 사용\"을 선택하고 해당 계정에 대한 정보를 입력하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>Bonjour 지원에 대한 추가 정보가 필요하다면 해당 ISP나 네트워크 관리자에게 문의하십시오.<\/p><\/div><\/div>", 
+"alternativeName": "Bonjour를 사용하도록 베이스 스테이션 또는 Time Capsule 설정하기", 
+"name": "Bonjour를 사용하도록 베이스 스테이션 또는 Time Capsule 설정하기", 
+"summary": "Bonjour는 장비들이 어떤 구성이나 네트워크 설정 없이 서로를 자동으로 감지할 수 있도록 지원하는 네트워킹 기술입니다."}
+, 
+"aprt2699": {
+"content": "<div id='aprt2699' class='apd-topic'><div class='subjectids'><a name='aprt2699'><\/a><a name='alap11031'><\/a><a name='alap12679'><\/a><a name='alap12685'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>RADIUS 접근 제어 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>RADIUS(Remote Authentication Dial-In User Service)는 원격 접근 서버가 중앙 데이터베이스에 대하여 무선 사용자를 인증할 수 있도록 허용하는 클라이언트\/서버 프로토콜로서, 네트워크에 있는 각 장비에 대한 사용자 정보를 유지 보수할 필요성을 없애줍니다.<\/p><p class='p'>RADIUS 서버가 설정되면(서버와 함께 제공되는 설명서 참조) AirPort 유틸리티를 열고 해당 무선 장비를 선택한 다음, 베이스 스테이션 > 수동 설정을 선택하십시오. 필요하다면 암호를 입력하십시오. 도구 막대에서 AirPort를 클릭하고 접근 제어를 클릭하십시오.<\/p><p class='p'>AirPort 유틸리티는 Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더에, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>MAC 주소 연결 조절 팝업 메뉴에서 RADIUS를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>\"RADIUS 유형\" 팝업 메뉴에서 RADIUS 서버의 설정 방식에 따라 기본 또는 대체를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>RADIUS 서버에 대한 IP 주소 및 기타 정보를 입력하십시오. 어떤 정보를 입력해야 할지 잘 모르겠다면 RADIUS 서버 관리자에게 문의하십시오.<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "접근 제어, AirPort 보안, RADIUS", 
+"name": "RADIUS 접근 제어 설정하기", 
+"alternativeName": "RADIUS 접근 제어 설정하기", 
+"summary": "RADIUS를 통해 사용자는 사용자 프로파일을 개별 AirPort 베이스 스테이션에 저장하는 대신, 서버의 중앙 데이터베이스에 보관할 수 있습니다."}
+, 
+"aprt2769": {
+"content": "<div id='aprt2769' class='apd-topic'><div class='subjectids'><a name='aprt2769'><\/a><a name='alap12702'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirPort 네트워크에 연결된 하드 디스크 보안하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션이 USB 하드 디스크로의 연결을 지원하거나 내장 AirPort 디스크가 있는 Time Capsule을 사용한다면 디스크에 대한 접근을 보안 설정할 수 있습니다. 베이스 스테이션에서 사용자 계정을 설정했다면 사용자별 기반으로, 또는 디스크에 암호를 지정하여 하드 디스크를 보안할 수 있습니다.<\/p><p class='p'>AirPort 유틸리티를 열고 베이스 스테이션 또는 Time Capsule을 선택한 다음, 베이스 스테이션 > 수동 설정을 선택하십시오. 필요하다면 장비 암호를 입력하십시오. 디스크를 클릭하십시오.<\/p><p class='p'>AirPort 유틸리티는 Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더에, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><div class='li step p'><span class='ph cmd'>공유 디스크 보안 팝업 메뉴에서 \"계정 사용\" 또는 \"단일 암호 사용\"를 선택하십시오.<\/span><ul class='ul'><li class='li'><p class='p'>\"단일 암호 사용\"을 선택했다면 암호를 입력하십시오. 사용자들이 디스크에 접근하려면 이 암호를 입력해야 합니다.<\/p><\/li><li class='li'><p class='p'>\"계정 사용\"을 선택했다면, 사용자들이 AirPort 유틸리티의 계정 패널에서 설정한 사용자 이름과 암호로 인증해야 합니다. 사용자 계정에 관한 정보를 보려면 아래 링크를 클릭하십시오.<\/p><\/li><\/ul><\/div><\/div><div class='section postreq'><p class='p'>또한, 디스크에 대한 방문자 접근을 제어하여 방문자들에게 접근 불가, 읽기 전용, 읽기 및 쓰기 접근을 허용할 수 있습니다.<\/p><p class='p'>디스크 보안 방법(사용자 계정에서 장비나 디스크 암호로)을 변경하거나 계정 이름을 변경하면 사용자가 해당 디스크의 모든 파일에 접근할 수 없을 수도 있습니다.<\/p><\/div><\/div>", 
+"alternativeName": "AirPort 네트워크에 연결된 하드 디스크 보안하기", 
+"name": "AirPort 네트워크에 연결된 하드 디스크 보안하기", 
+"summary": "사용자별 기반으로 또는 디스크에 암호를 지정하여 베이스 스테이션에 연결된 USB 하드 디스크에 대한 접근을 보안 설정할 수 있습니다."}
+, 
+"local-searchtopichead-com-apple-airportutility-help": {
+"name": "로컬 검색 가능한 콘텐츠", 
+"navigation": "false"}
+, 
+"ap35497-a": {
+"name": "AirPort에 관하여"}
+, 
+"cpap0006": {
+"content": "<div id='cpap0006' class='apd-topic'><div class='subjectids'><a name='cpap0006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>베이스 스테이션 및 Time Capsule 포트에 연결하는 것은 무엇입니까?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>이 표를 사용하여 AirPort 베이스 스테이션 또는 Time Capsule에 연결하는 것이 무엇인지 확인하십시오.<\/p><\/div><div class='example'><table cellpadding='4' cellspacing='0' summary='' border='1' class='simpletable'><tr class='sthead'><th valign='bottom' align='left' id='d12693e59' class='stentry'>기호<\/th><th valign='bottom' align='left' id='d12693e62' class='stentry'>포트<\/th><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/wani.gif' alt='WAN 아이콘'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>10\/100\/1000Base-T 이더넷 WAN 포트<\/p><p class='p'>DSL이나 케이블 모뎀을 연결하거나, 인터넷에 연결되어 있는 기존 이더넷 네트워크에 연결하십시오.<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/lan.gif' alt='LAN 아이콘'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>10\/100\/1000Base-T 이더넷 LAN 포트<\/p><p class='p'>로컬 이더넷 컴퓨터(인터넷에 연결되어 있지 않은 컴퓨터)와 프린터를 연결하십시오.<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/USB.gif' alt='USB 아이콘'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>USB(Universal Serial Bus) 프린터 또는 하드 디스크 포트<\/p><p class='p'>USB 프린터를 연결하여 AirPort 네트워크에 연결된 컴퓨터에서 프린터를 공유할 수 있습니다. 장비에서 지원한다면 호환되는 USB 하드 디스크를 연결하여 해당 네트워크에 연결되어 있는 컴퓨터들이 해당 디스크에 접근하는 것을 허용하거나, USB 허브를 연결한 다음 프린트와 하드 디스크를 모두 연결할 수 있습니다.<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d12693e59' class='stentry'><p class='p'><img class='image' src='..\/media\/adpt.gif' alt='전원 어댑터 포트'><\/p><\/td><td valign='top' headers='d12693e62' class='stentry'><p class='p'>전원 어댑터 포트<\/p><p class='p'>AirPort Extreme 베이스 스테이션 전원 어댑터의 한쪽 끝을 포트에 연결하고 다른 한쪽 끝은 전기 콘센트에 연결하십시오.<\/p><\/td><\/tr><\/table><\/div><\/div><\/div>", 
+"alternativeName": "베이스 스테이션 및 Time Capsule 포트에 연결하는 것은 무엇입니까?", 
+"name": "베이스 스테이션 및 Time Capsule 포트에 연결하는 것은 무엇입니까?", 
+"summary": "이 표를 사용하여 AirPort 베이스 스테이션 또는 Time Capsule에 연결하는 것이 무엇인지 확인하십시오."}
+, 
+"ap35497-b": {
+"name": "AirPort 무선 장비 설정하기"}
+, 
+"ap35497-c": {
+"name": "Wi-Fi 네트워크 설정하기"}
+, 
+"ap35497-d": {
+"name": "문제 해결하기"}
+, 
+"alap11006": {
+"content": "<div id='alap11006' class='apd-topic'><div class='subjectids'><a name='alap11006'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>깜박이는 표시등은 무엇을 의미합니까?<\/h1><div class='body taskbody'><div class='section context'><p class='p'>아래 표는 AirPort Extreme 802.11n 베이스 스테이션, Time Capsule 및 AirPort Express에 대한 상태 표시등 동작을 설명한 것입니다. AirPort Express 상태 표시등은 파란색으로 반짝이지 않습니다.<\/p><\/div><div class='example'><table cellpadding='4' cellspacing='0' summary='' border='1' class='simpletable'><tr class='sthead'><th valign='bottom' align='left' id='d24e59' class='stentry'>AirPort 표시등<\/th><th valign='bottom' align='left' id='d24e62' class='stentry'>상태\/설명<\/th><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>꺼짐<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>장비가 전원에 연결되어 있지 않습니다.<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>녹색으로 깜박임<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>장비가 시동 중입니다.<\/p><p class='p'>상태 표시등 팝업 메뉴(AirPort 유틸리티에서 AirPort 설정의 베이스 스테이션 패널에 있는)에서 사용 중일 때 깜박임을 선택하면, 정상적인 활동 상태일 경우 상태 표시등이 초록색으로 깜박일 수 있습니다.<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>녹색<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>장비가 정상적으로 작동 중입니다. 상태 표시등 팝업 메뉴(AirPort 유틸리티에서 AirPort 설정의 베이스 스테이션 패널에 있는)에서 사용 중일 때 깜박임을 선택하면, 정상적인 활동 상태일 경우 상태 표시등이 초록색으로 깜박일 수 있습니다.<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>황색으로 깜박임<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>장비에 문제가 있습니다. 아래를 참조하십시오.<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>황색<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>장비가 시동 작업을 완료하고 있습니다.<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>황색 및 녹색으로 깜박임<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>시동에 문제가 있습니다. 장비가 재시동되고 다시 시도됩니다.<\/p><\/td><\/tr><tr class='strow'><td valign='top' headers='d24e59' class='stentry'><p class='p'>파란색<\/p><\/td><td valign='top' headers='d24e62' class='stentry'><p class='p'>장비가 무선 클라이언트에게 해당 네트워크에 대한 접속을 허용할 준비가 되었습니다.<\/p><\/td><\/tr><\/table><\/div><\/div><div class='section postreq'><p class='p'>표시등이 황색으로 깜박이는 것에 관한 정보를 보려면 AirPort 유틸리티를 열고 해당 장비를 선택한 다음, 베이스 스테이션 메뉴에서 수동 설정을 선택하십시오. 필요한 경우 장비의 암호를 입력하고 베이스 스테이션 상태를 클릭하여 깜박이는 표시등에 대한 정보를 봅니다.<\/p><\/div><\/div>", 
+"alternativeName": "깜박이는 표시등은 무엇을 의미합니까?", 
+"name": "깜박이는 표시등은 무엇을 의미합니까?", 
+"summary": "아래 표는 AirPort Extreme 802.11n 베이스 스테이션, Time Capsule 및 AirPort Express에 대한 상태 표시등 동작을 설명한 것입니다."}
+, 
+"aprt2700": {
+"content": "<div id='aprt2700' class='apd-topic'><div class='subjectids'><a name='aprt2700'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>베이스 스테이션 또는 Time Capsule에 이름 및 암호 지정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>무선 장비에 이름을 지어서 네트워크 안에 여러 장비가 있는 경우 쉽게 식별할 수 있습니다. 이렇게 하면 장비를 쉽게 찾을 수 있습니다. 무선 장비의 이름이 AirPort 유틸리티의 왼쪽에 있는 목록에 나타납니다. 또한, 무선 장비를 암호로 보호할 수도 있습니다. 이렇게 하면, 해당 암호를 아는 사람들만 설정을 변경할 수 있습니다.<\/p><p class='p'>SNMP(Simple Network Management Protocol)를 사용하여 장비의 활동을 모니터링한다면 연락처 및 위치 정보가 유용할 것입니다.<\/p><\/div><\/div><div class='section postreq'><p class='p'>이더넷 WAN 포트를 통해 무선 장비를 구성하려면 \"WAN을 통한 구성 허용\"을 선택하십시오. 이렇게 하면 네트워크를 통해 연결되어 있을 때 설정을 변경할 수 있게 됩니다. 해당 무선 장비에서 도메인 이름 서비스가 있는 계정을 가지는 것을 지원한다면, \"Bonjour를 사용하여 인터넷을 통한 설정 허용\" 체크상자를 선택하여 인터넷을 통해 이 베이스 스테이션을 사용할 수 있도록 하십시오.<\/p><p class='p'>네트워크 또는 인터넷상에서 네트워크 시간 서버에 대한 접속 권한이 있다면, \"자동으로 시간 설정\" 체크상자를 선택하고 네트워크 시간 서버를 선택할 수 있습니다. 또한 해당 장비에서 지원한다면, 팝업 메뉴에서 시간대를 선택할 수도 있습니다. 이렇게 하면, 해당 무선 장비가 올바른 시간으로 설정되며 로그를 모니터링하는 경우 유용합니다.<\/p><\/div><\/div>", 
+"keywords": "AirPort 무선 장비 설정하기", 
+"name": "베이스 스테이션 또는 Time Capsule에 이름 및 암호 지정하기", 
+"alternativeName": "베이스 스테이션 또는 Time Capsule에 이름 및 암호 지정하기", 
+"summary": "베이스 스테이션을 식별할 수 있도록 이름을 지정하고 암호를 사용하여 베이스 스테이션을 보호하십시오."}
+, 
+"offline-message-com-apple-airportutility-help": {
+"navigation": "false", 
+"content": "<div id='offline-message-com-apple-airportutility-help' class='apd-topic'><div class='subjectids'><a name='offline-message-com-apple-airportutility-help'><\/a><\/div><h1 class='title topictitle1'>콘텐츠 사용 불가<\/h1><div class='body conbody'><p class='p'>이 정보는 컴퓨터를 인터넷에 연결할 수 없기 때문에 사용할 수 없습니다.<\/p><p class='p'>이 정보를 보려면 컴퓨터를 인터넷에 연결하십시오. 연결하는 데 문제가 발생한다면 네트워크 진단을 사용하십시오.<\/p><\/div><\/div>", 
+"alternativeName": "콘텐츠 사용 불가", 
+"name": "콘텐츠 사용 불가", 
+"class": "content-not-available-message"}
+, 
+"aprt2702": {
+"content": "<div id='aprt2702' class='apd-topic'><div class='subjectids'><a name='aprt2702'><\/a><a name='alap12704'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>무선 장비의 날짜와 시간 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션이나 Time Capsule을 Mac OS X 시스템 로그(또는 syslog 호스트)에 상태 정보를 로그하도록 설정했거나 지원되는 네트워크에서 정기적인 사용자 접근을 사용한다면, 날짜와 시간을 자동으로 설정하도록 베이스 스테이션이나 Time Capsule을 설정해야 합니다. 이렇게 하면 로그가 정확해지며 사용자들이 올바른 시간에 네트워크에 접근할 수 있습니다.<\/p><p class='p'>시간을 자동으로 설정하려면, 네트워크나 인터넷상에서 NTS(네트워크 시간 서버)에 접속할 수 있어야 합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>해당 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 AirPort를 클릭한 다음, 설정할 장비에 따라 베이스 스테이션 또는 Time Capsule을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>\"자동으로 시간 설정\" 체크상자를 선택하고 팝업 메뉴에서 시간 서버를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>해당 장비에서 지원한다면, 시간대 팝업 메뉴에서 해당 시간대를 선택하십시오.<\/span><\/li><\/ol><\/div><\/div>", 
+"keywords": "로그 기록하기", 
+"name": "무선 장비의 날짜와 시간 설정하기", 
+"alternativeName": "무선 장비의 날짜와 시간 설정하기", 
+"summary": "로그의 정확성을 보장하기 위해, 베이스 스테이션의 날짜와 시간을 자동으로 설정해야 합니다."}
+, 
+"aprt2703": {
+"content": "<div id='aprt2703' class='apd-topic'><div class='subjectids'><a name='aprt2703'><\/a><a name='alap10989'><\/a><a name='alap12691'><\/a><a name='alap12712'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>네트워크에서 USB 하드 디스크 공유하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션에서 지원하는 경우, USB 하드 디스크를 베이스 스테이션에 있는 USB 포트에 연결하면 네트워크상에 있는 컴퓨터(유무선 모두)에서 하드 디스크에 연결하여 파일과 데이터를 저장하고 공유 및 접근할 수 있습니다.<\/p><p class='p'>하드 디스크를 베이스 스테이션의 뒷면에 있는 USB 포트에 연결하십시오. AirPort 유틸리티를 열고 해당 베이스 스테이션을 선택한 다음, 베이스 스테이션 > 수동 설정을 선택하십시오. 필요하다면 암호를 입력하십시오. 도구 막대에서 디스크를 클릭하십시오.<\/p><div class='note note'><span class='notetitle'>주:<\/span> Time Capsule을 사용한다면 외장 USB 하드 디스크에 연결할 필요가 없습니다. Time Capsule에는 AirPort 디스크 하나가 내장되어 있습니다. 다음 지침을 사용하여 Time Capsule 또는 베이스 스테이션에 연결된 하드 디스크에서 디스크 공유를 설정하십시오.<\/div><p class='p'>AirPort 유틸리티는 Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더에, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>파일 공유를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>공유된 디스크를 암호로 보안하려면 \"디스크 암호 사용\" 또는 \"베이스 스테이션 암호 사용\"을 선택하거나 계정을 사용하여 디스크에 보안을 설정하려면 \"계정 사용\"을 선택하십시오.<\/span><p class='p'>계정 사용을 선택했다면 계정 구성을 클릭하고 추가(+) 버튼을 클릭한 다음, 해당 디스크에 접근할 각 사용자의 이름과 암호를 입력하십시오.<\/p><\/li><li class='li step'><span class='ph cmd'>AirPort 디스크 방문객 연결 팝업 메뉴에서 \"허용되지 않음\", \"읽기 전용\" 또는 \"읽기 및 쓰기\"를 선택하여 해당 디스크로의 방문객 접근 수준을 지정하십시오.<\/span><p class='p'>방문자는 사용자 계정이 아닌 하드 디스크에 대한 접근 권한을 가집니다.<\/p><\/li><li class='li step'><span class='ph cmd'>WAN 포트를 통해 해당 디스크에 원격 접근을 제공하려면 \"이더넷 WAN 포트로 디스크 공유\" 체크상자를 선택하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>USB 허브를 베이스 스테이션에 연결하면, 여러 개의 하드 디스크를 허브에 연결하고 무선 네트워크로부터 이들 하드 디스크에 접근할 수 있습니다.<\/p><\/div><\/div>", 
+"keywords": "원격 파일 공유, AirPort 무선 장비 설정하기, 공유된 USB 장비", 
+"name": "네트워크에서 USB 하드 디스크 공유하기", 
+"alternativeName": "네트워크에서 USB 하드 디스크 공유하기", 
+"summary": "USB 하드 디스크를 사용하여 파일 및 데이터를 접근, 공유 및 저장할 수 있습니다."}
+, 
+"aprt2710": {
+"content": "<div id='aprt2710' class='apd-topic'><div class='subjectids'><a name='aprt2710'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>다이얼업 모뎀 옵션 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션에 모뎀이 있다면, 인터넷 설정의 모뎀 패널을 사용하여 모뎀과 다이얼업 연결에 대한 특정 기능을 설정하십시오.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>모뎀이 대기 상태일 때 연결 해제하기 전 모뎀의 대기 시간을 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>모뎀의 국가 코드를 설정하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>v.90 또는 v.34 모뎀 프로토콜 중 하나를 선택하십시오. v.34를 사용하면 v.90 사용 시 문제를 해결할 수 있습니다.<\/span><\/li><li class='li step'><span class='ph cmd'>전화 서비스에 따라 전자식이나 기계식을 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>웹 브라우저를 열 때나 이메일을 보낼 때 해당 ISP(인터넷 서비스 제공업체)에 전화를 걸도록 모뎀을 설정하려면 자동 전화 걸기를 선택하십시오.<\/span><\/li><\/ul><\/div><\/div>", 
+"keywords": "AirPort 무선 장비 설정하기", 
+"name": "다이얼업 모뎀 옵션 설정하기", 
+"alternativeName": "다이얼업 모뎀 옵션 설정하기", 
+"summary": "이 패널을 사용하여 모뎀과 다이얼업 연결에 대한 특정 기능을 설정하십시오."}
+, 
+"ap15210": {
+"content": "<div id='ap15210' class='apd-topic'><div class='subjectids'><a name='ap15210'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>802.11n 네트워크에 무선 클라이언트 추가하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>802.11n을 지원하는 AirPort 베이스 스테이션을 사용하거나 Time Capsule을 사용하며 네트워크가 개인용 WPA 또는 개인용 WPA\/WPA2를 사용하여 암호로 보호되어 있다면, 네트워크 암호를 입력하지 않아도 해당 네트워크에 무선 클라이언트 접근을 제공할 수 있습니다.<\/p><p class='p'>네트워크에 대한 클라이언트 연결을 허용하면, 클라이언트의 이름 및 무선 MAC 주소(또는 AirPort ID)가 목록에서 제거할 때까지 AirPort 유틸리티의 접근 제어 목록에 저장됩니다. 또한, 클라이언트가 여러분의 네트워크에 더 이상 접속할 수 없는 시점 이후에 24시간의 연결을 제공할 수도 있습니다.<\/p><p class='p'>무선 네트워크에 클라이언트 연결을 제공할 때 클라이언트는 네트워크 암호를 입력할 필요가 없습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>베이스 스테이션 > 무선 클라이언트 추가를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>클라이언트를 네트워크에 연결시킬 방법을 선택하십시오.<\/span><ul class='ul choices'><li class='li choice'><p class='p'>PIN을 선택하여 네트워크 연결을 요청하는 클라이언트가 제공하는 8자리의 숫자를 입력하십시오.<\/p><\/li><li class='li choice'><p class='p'>“처음 시도”를 선택하여 해당 네트워크에 접속을 시도하는 다음 클라이언트에 대한 네트워크 접속을 허용하십시오.<\/p><\/li><li class='li choice'><p class='p'>네트워크에 하루 동안의 접속만 제공하려면 “클라이언트 접근 24시간으로 제한”을 선택하십시오. 이 옵션을 선택하지 않으면 여러분이 목록에서 해당 클라이언트의 이름을 제거할 때까지 클라이언트가 여러분의 네트워크에 연결할 수 있습니다.<\/p><\/li><\/ul><\/li><\/ol><\/div><div class='section postreq'><p class='p'>클라이언트를 제거하려면 AirPort 유틸리티 도구 막대에서 AirPort를 클릭하고 접근 제어를 클릭한 다음, 클라이언트의 이름을 선택하고 삭제(-)를 클릭하십시오. 목록에서 클라이언트를 제거한 후에 장비를 업데이트해야 합니다.<\/p><\/div><\/div>", 
+"alternativeName": "802.11n 네트워크에 무선 클라이언트 추가하기", 
+"name": "802.11n 네트워크에 무선 클라이언트 추가하기", 
+"summary": "무선 네트워크에 대한 연결을 제공할 때 클라이언트는 네트워크 암호를 입력할 필요가 없습니다."}
+, 
+"aprt2704": {
+"content": "<div id='aprt2704' class='apd-topic'><div class='subjectids'><a name='aprt2704'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>베이스 스테이션 또는 Time Capsule 최신으로 유지하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>새로운 펌웨어가 사용 가능하다면 AirPort 베이스 스테이션 또는 Time Capsule의 펌웨어를 업그레이드할 수 있습니다. 새로운 펌웨어가 있다면 다음에 AirPort 유틸리티를 열 때 통보됩니다. 화면 지침에 따라 새로운 펌웨어를 다운로드 및 설치하십시오.<\/p><p class='p'>또한, 수동으로 업데이트를 확인할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>AirPort 유틸리티 메뉴에서 \"업데이트 확인\"을 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>다운로드를 클릭하여 사용 가능한 모든 펌웨어 업데이트를 다운로드하거나 세부사항 보기를 클릭하여 업데이트하려는 무선 장비에 대한 특정 펌웨어를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>펌웨어를 다운로드한 다음 업데이트를 클릭하여 해당 장비에 설치하십시오. 한 대 이상의 장비를 업데이트한다면 세부사항 보기를 클릭하여 업데이트하려는 장비들을 선택하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>펌웨어를 다운로드했지만 설치하지 않았다면 나중에 설치할 수 있습니다. AirPort 유틸리티를 열고 업데이트하려는 장비를 선택한 다음, 수동 설정을 클릭하십시오. AirPort 설정의 요약 패널에 있는 업데이트를 클릭하여 펌웨어를 설치하십시오.<\/p><\/div><\/div>", 
+"keywords": "AirPort 무선 장비 설정하기", 
+"name": "베이스 스테이션 또는 Time Capsule 최신으로 유지하기", 
+"alternativeName": "베이스 스테이션 또는 Time Capsule 최신으로 유지하기", 
+"summary": "새로운 베이스 스테이션 펌웨어가 사용 가능하다면 AirPort 베이스 스테이션의 펌웨어를 업그레이드할 수 있습니다."}
+, 
+"ap15211": {
+"content": "<div id='ap15211' class='apd-topic'><div class='subjectids'><a name='ap15211'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>PPP를 사용하여 원격으로 베이스 스테이션에 연결하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>듀얼 이더넷(Snow) 또는 내장 모뎀이 있는 AirPort 베이스 스테이션을 사용하고 베이스 스테이션 모뎀이 전화 잭에 연결되어 있다면, 원격 컴퓨터에서 베이스 스테이션으로 전화를 걸어 네트워크에 접속할 수 있습니다.<\/p><p class='p'>사용자의 베이스 스테이션에 원격으로 연결하면 이더넷으로 연결된 모든 컴퓨터를 포함하여 해당 네트워크에 대한 사용자의 연결이 허용됩니다. 베이스 스테이션이 DSL 또는 케이블 모뎀을 통해 인터넷에 연결되어 있어도 인터넷에 연결할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>베이스 스테이션을 선택한 다음, 수동 설정을 클릭하십시오. 필요하다면 베이스 스테이션 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>네트워크를 클릭하고, PPP 다이얼 인 활성화 체크상자를 선택한 다음 구성을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>사용자 이름과 암호, 응답하기 전의 벨소리 횟수 및 기타 설정을 입력하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>수신되는 전화에 응답하도록 베이스 스테이션을 설정하였으므로, 베이스 스테이션을 위해 전용 전화선을 사용할 것을 고려하십시오. 동일한 선으로 수신되는 다른 전화 때문에 AirPort 베이스 스테이션 모뎀의 연결이 끊어질 수도 있습니다.<\/p><div class='note note'><span class='notetitle'>주:<\/span> 베이스 스테이션의 내장 모뎀을 사용하여 인터넷에 연결한다면, PPP 다이얼 인을 사용할 수 없습니다.<\/div><\/div><\/div>", 
+"alternativeName": "PPP를 사용하여 원격으로 베이스 스테이션에 연결하기", 
+"name": "PPP를 사용하여 원격으로 베이스 스테이션에 연결하기", 
+"summary": "베이스 스테이션에서 지원한다면 원격 컴퓨터로부터 해당 베이스 스테이션에 전화를 걸어 해당 AirPort 네트워크에 연결할 수 있습니다."}
+, 
+"aprt2705": {
+"content": "<div id='aprt2705' class='apd-topic'><div class='subjectids'><a name='aprt2705'><\/a><a name='alap12680'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>이더넷을 사용하여 인터넷에 연결하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>DSL 또는 케이블 모뎀을 사용하여 인터넷에 연결하거나 LAN(Local Area Network)을 사용하여 인터넷에 연결한다면, 베이스 스테이션 또는 Time Capsule을 해당 모뎀 또는 네트워크에 연결하고 무선 네트워크상에 있는 컴퓨터 및 클라이언트와 인터넷 연결을 공유할 수 있습니다.<\/p><p class='p'>베이스 스테이션에서 또는 Time Capsule이 ISP(인터넷 서비스 제공업체) 또는 네트워크로부터 인터넷 주소를 받는 방식과 장비가 해당 네트워크 상에 있는 컴퓨터들과 인터넷 연결을 공유하는 방식을 설정해야 합니다.<\/p><p class='p'>AirPort 유틸리티를 열고 설정하려는 장비를 선택한 다음, 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오. 도구 막대에서 인터넷을 클릭하고 인터넷 연결을 클릭하십시오. 연결 팝업 메뉴에서 이더넷을 선택한 다음 TCP\/IP를 클릭하십시오.<\/p><p class='p'>AirPort 유틸리티는 Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더에, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>IPv4 구성 팝업 메뉴에서 다음 중 하나를 선택하여 무선 장비에서 ISP로부터 IP 주소를 수신하는 방법을 설정하십시오.<\/span><ul class='ul choices'><li class='li choice'><p class='p'>ISP에서 IP 주소를 자동으로 보낸다면 DHCP 사용을 선택하십시오.<\/p><\/li><li class='li choice'><p class='p'>ISP에서 계정과 함께 IP 주소를 제공하였다면 수동을 선택하십시오. IP 주소, 서브네트 마스크, 라우터 주소 및 적절한 기타 정보와 같은 ISP에서 받은 정보를 입력하십시오.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>연결 공유를 클릭하고 장비에서 네트워크상에 있는 컴퓨터와 인터넷 연결을 공유하는 방법을 설정하거나, 장비가 네트워크에 연결되어 있다면 브리지로 설정하십시오.<\/span><ul class='ul choices'><li class='li choice'><p class='p'>DHCP 및 NAT를 사용하여 네트워크상에 있는 컴퓨터들과 IP 주소를 사용하려면 연결 공유 팝업 메뉴에서 \"공용 IP 주소 공유\"를 선택하십시오.<\/p><\/li><li class='li choice'><p class='p'>ISP에서 특정 범위의 IP 주소를 제공한다면 연결 공유 팝업 메뉴에서 \"IP 주소 범위 분배\"를 선택하십시오.<\/p><\/li><li class='li choice'><p class='p'>장비가 IP 주소들을 분배하는 DHCP 서버가 있는 네트워크에 연결되어 있다면 끔(브리지 모드)을 선택하십시오.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>업데이트를 클릭하여 이들 새로운 설정으로 장비를 재설정하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>PPPoE(Point-to-Point Protocol over Ethernet) 계정을 사용하여 인터넷에 연결한다면 아래 링크를 클릭하십시오.<\/p><\/div><\/div>", 
+"alternativeName": "이더넷을 사용하여 인터넷에 연결하기", 
+"name": "이더넷을 사용하여 인터넷에 연결하기", 
+"summary": "베이스 스테이션을 케이블 또는 DSL 모델이나 이더넷 네트워크에 연결하고 해당 베이스 스테이션의 무선 네트워크에 있는 컴퓨터들과 인터넷 연결을 공유할 수 있습니다."}
+, 
+"searchable-landing-com-apple-airportutility-help": {
+"navigation": "false", 
+"content": "<div class='apd-topic' id='searchable-landing-com-apple-airportutility-help'><div class='subjectids'><a name='searchable-landing-com-apple-airportutility-help'><\/a><\/div><h1 class='title topictitle1'>AirPort 유틸리티 도움말<\/h1><div class='body conbody'><div class='section'><h2 class='title sectiontitle'>AirPort 유틸리티 도움말<\/h2><p class='p'>검색 가능한 주제<\/p><\/div><\/div><\/div>", 
+"alternativeName": "AirPort 유틸리티 도움말", 
+"name": "AirPort 유틸리티 도움말", 
+"class": "default"}
+, 
+"ap22913": {
+"navigation": "false", 
+"content": "<div id='ap22913' class='apd-topic'><div class='subjectids'><a name='ap22913'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>방문자 네트워크 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>방문자 네트워크 설정 시, 인터넷에 연결 부분이 “방문자”로 예약되어, 무선 클라이언트가 해당 방문자 네트워크에 연결하여 사설 네트워크에 연결하지 않고 인터넷에 연결할 수 있습니다.<\/p><p class='p'>공유 서비스가 클라이언트 컴퓨터에서 설정되면, 방문자가 서로 통신할 수도 있습니다.<\/p><p class='p'>Apple 무선 장비는 공용 IP 주소를 공유하도록 설정해야 합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>방문자 네트워크에서 설정하려는 무선 장비를 선택한 다음 계속을 클릭하십시오.<\/span><p class='p'>사용하려는 설정을 해당 장비 및 사설 네트워크에 제공하려면 설정 지원을 사용하십시오.<\/p><\/li><li class='li step'><span class='ph cmd'>기본으로 방문자 네트워크는 XXX Guest Network라는 이름으로, XXX는 해당 사설 네트워크의 이름입니다. “방문자 네트워크 활성화” 필드에 새로운 이름을 입력하여 방문자 네트워크의 이름을 변경할 수 있습니다.<\/span><\/li><li class='li step'><span class='ph cmd'>방문자 네트워크에 암호를 지정하거나 “방문자 네트워크 보안” 팝업 메뉴에서 없음을 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정 지원에서 계속을 클릭하여 설정값 입력을 끝낸 다음, 업데이트를 클릭하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>방문자 컴퓨터들 간에 서로 통신할 수 있도록 허용하는 경우, 공유 서비스가 클라이언트 컴퓨터에 설정되어 있는지 확인하십시오. AirPort 유틸리티에서 무선 장비를 선택하고 수동 설정을 클릭하십시오. 도구 막대에서 AirPort를 클릭하고 방문자 네트워크를 클릭한 다음, “방문자 네트워크 클라이언트가 서로 통신할 수 있도록 허용”을 선택하십시오.<\/p><\/div><\/div>", 
+"alternativeName": "방문자 네트워크 설정하기", 
+"name": "방문자 네트워크 설정하기", 
+"summary": "방문자 네트워크는 무선 클라이언트가 사설 네트워크에 연결하지 않고 인터넷에 연결하도록 허용합니다."}
+, 
+"ap15213": {
+"navigation": "false", 
+"content": "<div id='ap15213' class='apd-topic'><div class='subjectids'><a name='ap15213'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>가져오기 설정<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션 또는 Time Capsule로부터 설정 파일을 저장했거나 네트워크 관리자가 설정 파일을 제공했다면, 설정을 베이스 스테이션 또는 Time Capsule로 가져올 수 있습니다.<\/p><p class='p'>전체 설정을 가져오거나 시간이 제한된 접근 제어, 계정 설정 또는 모든 다른 설정을 선택할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>파일 > 가져오기를 선택하고 설정 파일을 찾은 다음, 열기를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>가져오려는 설정을 선택하고 승인을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>업데이트를 클릭하여 새로운 설정을 활성시키십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>설정 파일을 저장하려면 파일 > “복사본 별도 저장”을 선택하십시오. 나중에 설정을 가져올 때 해당 장비의 암호를 입력하도록 요구하려면 “암호화된 데이터로 암호 보호”를 선택하십시오. 암호를 제외한 모든 설정을 보려면, 암호를 입력하지 않고 계속을 클릭하면 됩니다.<\/p><\/div><\/div>", 
+"alternativeName": "가져오기 설정", 
+"name": "가져오기 설정", 
+"summary": "베이스 스테이션으로부터 설정 파일을 저장했거나 네트워크 관리자에 의해 하나를 제공 받았다면 해당 설정을 베이스 스테이션으로 가져올 수 있습니다."}
+, 
+"ap22914": {
+"navigation": "false", 
+"content": "<div id='ap22914' class='apd-topic'><div class='subjectids'><a name='ap22914'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi 네트워크에서 나의 Mac으로 돌아가기 사용하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>MobileMe 계정이 있으면 나의 Mac으로 돌아가기를 사용하여 AirPort 베이스 스테이션 또는 Time Capsule에 연결할 수 있습니다. 베이스 스테이션 또는 Time Capsule에 연결하여 네트워크를 모니터링하거나 베이스 스테이션 또는 Time Capsule 설정을 변경할 수 있습니다.<\/p><p class='p'>Time Capsule에 내장된 하드 디스크나, 베이스 스테이션 또는 Time Capsule에 연결된 외장 USB 하드 디스크에도 연결할 수 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>목록에서 베이스 스테이션 또는 Time Capsule을 선택하고 수동 설정을 클릭하십시오. 필요한 경우 베이스 스테이션 또는 Time Capsule 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 고급을 클릭하고 MobileMe를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>해당 MobileMe 사용자 이름 및 암호를 입력하십시오.<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "Wi-Fi 네트워크에서 나의 Mac으로 돌아가기 사용하기", 
+"name": "Wi-Fi 네트워크에서 나의 Mac으로 돌아가기 사용하기", 
+"summary": "MobileMe 계정이 있으면 나의 Mac으로 돌아가기를 사용하여 AirPort 베이스 스테이션 또는 Time Capsule에 연결할 수 있습니다."}
+, 
+"ap15214": {
+"content": "<div id='ap15214' class='apd-topic'><div class='subjectids'><a name='ap15214'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>AirPort 유틸리티 환경설정 구성하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 유틸리티 환경설정을 사용하여 해당 베이스 스테이션 또는 Time Capsule에 대한 업데이트가 있을 경우 경고를 표시하도록 설정할 수 있습니다. 또한, 문제가 발견되었을 경우 여러분에게 통지하고 문제 해결에 도움이 되는 지침을 제공하도록 환경설정을 구성할 수도 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>Mac에서는 AirPort 유틸리티 메뉴에 있는 환경설정을 선택하고 Windows를 사용하는 컴퓨터에서는 파일 메뉴에 있는 기본 설정을 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>다음 체크상자 중에서 선택하십시오.<\/span><ul class='ul choices'><li class='li choice'><p class='p'>AirPort 유틸리티를 열 때마다 소프트웨어 및 펌웨어 업데이트에 대한 Apple 웹 사이트를 자동으로 확인하려면 \"AirPort 유틸리티를 열 때 업데이트 확인\"을 선택하십시오.<\/p><\/li><li class='li choice'><p class='p'>\"업데이트 확인\" 체크상자를 선택하고 팝업 메뉴에서 매주와 같은 시간 간격을 선택하여 배경에서 소프트웨어 및 펌웨어 업데이트를 확인하십시오. 업데이트가 있을 때 AirPort 유틸리티가 열립니다.<\/p><\/li><li class='li choice'><p class='p'>“AirPort 무선 장비 문제 모니터”를 선택하여 베이스 스테이션의 상태 표시등이 황색으로 깜박이는 원인이 될 수 있는 문제를 조사하십시오. 이 체크상자가 선택되어 있으면 문제가 감지되었을 경우 AirPort 유틸리티가 열리고 문제 해결에 대한 지침을 제공합니다. 이 옵션은 네트워크상의 모든 베이스 스테이션을 모니터링합니다.<\/p><\/li><li class='li choice'><p class='p'>사용하고 있는 컴퓨터에서 설정한 베이스 스테이션으로 모니터하는 베이스 스테이션의 대수를 제한하려면 “내가 구성한 AirPort 무선 장비만 모니터”를 선택하십시오.<\/p><\/li><li class='li choice'><p class='p'>무선 장비를 원격으로 모니터하려면 “Bonjour를 사용하여 인터넷을 통한 AirPort 무선 장비를 모니터”를 선택하십시오.<\/p><\/li><\/ul><\/li><\/ol><\/div><div class='section postreq'><p class='p'>AirPort 무선 장비에 문제가 없는지 모니터링하려면 AirPort 베이스 스테이션 펌웨어 7.0 이상을 지원하는 AirPort Extreme 베이스 스테이션 및 AirPort 유틸리티 5.2 이상이 필요합니다.<\/p><\/div><\/div>", 
+"alternativeName": "AirPort 유틸리티 환경설정 구성하기", 
+"name": "AirPort 유틸리티 환경설정 구성하기", 
+"summary": "AirPort 환경설정을 사용하여 업데이트나 문제가 발견될 경우 여러분에게 알리도록 베이스 스테이션을 설정할 수 있습니다."}
+, 
+"aprt2721": {
+"content": "<div id='aprt2721' class='apd-topic'><div class='subjectids'><a name='aprt2721'><\/a><a name='alap10989'><\/a><a name='alap11037'><\/a><a name='alap12690'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>프로파일 사용하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>일부 버전의 AirPort 베이스 스테이션 및 Time Capsule은 프로파일로 알려진 최대 5개의 구성을 저장할 수 있습니다. 프로파일에는 베이스 스테이션에서 인터넷에 연결하는 방법과 같은 네트워크 구성 정보 및 이름과 암호와 같은 베이스 스테이션 설정이 포함되어 있습니다.<\/p><p class='p'>프로파일을 사용하면 장비를 한 곳에서 다른 곳으로 이동할 때 유용할 수 있습니다. 예를 들어, PPPoE를 사용하여 인터넷에 연결하는 집에서 베이스 스테이션 또는 Time Capsule을 사용하기 위해 하나의 프로파일을 가질 수 있습니다. DHCP를 사용하여 인터넷에 연결된 사무실에 다른 프로파일을 가질 수 있습니다.<\/p><p class='p'>새로운 프로파일을 만들면, 현재 설정의 복사본이 현재 프로파일에 저장됩니다. 새로운 프로파일을 추가하고, 프로파일 설정을 변경하고, 새로운 설정으로 장비를 업데이트할 수 있습니다.<\/p><p class='p'>AirPort 유틸리티를 열고 프로파일을 추가하려는 장비를 선택한 다음, 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/p><p class='p'>AirPort 유틸리티는 Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더에, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>베이스 스테이션 메뉴에서 프로파일 관리를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>다음 중 한가지를 수행하십시오.<\/span><ul class='ul choices'><li class='li choice'><p class='p'>Mac에서 추가(+)를 클릭하여 현재 베이스 스테이션 설정을 복사하십시오. 예를 들어 복사본에 “사무실”과 같은 이름을 지정하고, 사용하는 방법에 따라 베이스 스테이션을 적절하게 변경하십시오.<\/p><\/li><li class='li choice'><p class='p'>Windows 컴퓨터에서는 목록에서 원하는 프로파일을 선택하고 복제를 클릭하십시오. 예를 들어 복사본에 “사무실”과 같은 이름을 지정한 다음 완료를 클릭하십시오. 사용하는 방법에 따라 베이스 스테이션을 적절하게 변경하십시오.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>업데이트를 클릭하여 변경사항을 저장하고 새로운 설정으로 전환할 수 있습니다.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>설정한 프로파일 사이를 전환하려면, AirPort 유틸리티 윈도우의 하단에 있는 프로파일 팝업 메뉴에서 사용하려는 프로파일을 선택하고 업데이트를 클릭하십시오.<\/p><\/div><\/div>", 
+"alternativeName": "프로파일 사용하기", 
+"name": "프로파일 사용하기", 
+"summary": "프로파일에는 베이스 스테이션에서 인터넷에 연결하는 방법과 같은 네트워크 구성 정보 및 이름과 암호와 같은 베이스 스테이션 설정이 포함되어 있습니다."}
+, 
+"aprt2707": {
+"content": "<div id='aprt2707' class='apd-topic'><div class='subjectids'><a name='aprt2707'><\/a><a name='alap12683'><\/a><a name='alap12696'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>PPPoE를 사용하여 인터넷에 연결하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>일부 DSL 및 케이블 모뎀 인터넷 서비스 제공업체는 인터넷 연결에 PPPoE(Point-to-Point Protocol over Ethernet)의 사용을 요구할 수 있습니다.<\/p><p class='p'>DSL 또는 케이블 모뎀을 사용한다면, 베이스 스테이션을 설정하기 전에 해당 장비가 전화나 케이블 잭, 그리고 해당 무선 장비의 WAN(Wide Area Network) 포트에 연결되었는지 확인하십시오.<\/p><p class='p'>AirPort 유틸리티를 열고 설정하려는 장비를 선택한 다음, 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오. 도구 막대에서 인터넷을 클릭하고 인터넷 연결을 클릭하십시오. 연결 팝업 메뉴에서 PPPoE를 선택하십시오.<\/p><p class='p'>AirPort 유틸리티는 Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>사용자 이름, 암호 및 해당 인터넷 서비스 제공업체로부터 받은 기타 모든 정보를 입력하십시오.<\/span><p class='p'>PPPoE를 사용하여 연결하도록 베이스 스테이션이나 Time Capsule을 설정하면, 장비가 해당 ISP로부터 자동으로 IP 주소를 받고 DHCP 및 NAT를 사용하여 무선 네트워크상에 있는 컴퓨터들과 해당 IP 연결을 공유합니다.<\/p><\/li><li class='li step'><span class='ph cmd'>연결 팝업 메뉴에서 항상 켬, 자동 또는 수동을 선택하십시오.<\/span><ul class='ul choices'><li class='li choice'><p class='p'>항상 켬을 선택하면, 무선 장비가 모뎀이 켜져 있는 동안 항상 모뎀과 인터넷에 연결된 상태를 유지합니다.<\/p><\/li><li class='li choice'><p class='p'>연결 팝업 메뉴에서 자동 또는 수동을 선택하면 “대기시 연결 해제” 팝업 메뉴에서 “10분”과 같은 특정 시간을 선택해야 합니다. 인터넷 응용 프로그램이 인터넷을 사용하지 않는다면 특정 시간 후 인터넷에서 연결 해제됩니다.<\/p><\/li><li class='li choice'><p class='p'>자동을 선택하면 해당 무선 장비가 모뎀에 연결되며, 이 모뎀은 이메일, 인스턴트 메시지 또는 웹 응용 프로그램과 같이 인터넷 연결이 필요한 응용 프로그램을 사용할 때 인터넷에 연결됩니다.<\/p><\/li><li class='li choice'><p class='p'>수동을 선택하면 인터넷 연결이 필요한 응용 프로그램을 사용할 때 모뎀을 인터넷에 연결해야 합니다.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>업데이트를 클릭하여 이들 새로운 설정으로 무선 장비를 재설정하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>인터넷에 접속할 때 웹 브라우저에서 연결 오류가 보고된다면, 컴퓨터가 AirPort 네트워크에 연결되고 네트워크가 인터넷에 연결될 때까지 기다리십시오.<\/p><p class='p'>연결을 확인하려면 Mac에서는 메뉴 막대에 있는 무선 연결 상태 아이콘을, Windows 컴퓨터에서는 상태 표시줄에 있는 무선 네트워크 아이콘을 사용하십시오.<\/p><\/div><\/div>", 
+"alternativeName": "PPPoE를 사용하여 인터넷에 연결하기", 
+"name": "PPPoE를 사용하여 인터넷에 연결하기", 
+"summary": "일부 DSL 및 케이블 모뎀 인터넷 서비스 제공업체는 인터넷 연결을 위해 PPPoE의 사용을 요청합니다."}
+, 
+"aprt2713": {
+"content": "<div id='aprt2713' class='apd-topic'><div class='subjectids'><a name='aprt2713'><\/a><a name='alap11037'><\/a><a name='alap12692'><\/a><a name='alap12696'><\/a><a name='alap12698'><\/a><a name='alap12736'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>베이스 스테이션 또는 Time Capsule용 NAT 옵션 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>AirPort 무선 장비용 NAT(Network Address Translation) 옵션을 설정하려면, 해당 장비의 구성을 열어 인터넷을 선택하고 연결 공유 팝업 메뉴에서 해당 장비가 공용 IP 주소를 공유하도록 설정되어 있는지 확인한 다음 NAT를 클릭하십시오.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>기본 호스트 활성화: 기본 호스트는 인터넷에 노출되어 있고 들어오는 모든 트래픽을 받는 네트워크상의 한 대의 컴퓨터입니다. 기본 호스트는 AirPort 네트워크상의 컴퓨터를 사용하여 네트워크 게임을 플레이하거나 한 대의 컴퓨터로 모든 인터넷 트래픽을 라우팅하고자 할 때 유용할 수 있습니다.<\/span><\/li><li class='li step'><span class='ph cmd'>NAT-PMP(NAT 포트 매핑 프로토콜) 활성화: NAT-PMP(NAT 포트 매핑 프로토콜)는 많은 NAT 라우터에 구현된 보다 일반적인 UPnP(Universal Plug and Play) 프로토콜의 대체 항목인 IETF(Internet Engineering Task Force)의 Internet Draft입니다. NAT-PMP를 통해 사설 네트워크(NAT 라우터 뒤에)에 있는 컴퓨터가 사설 네트워크 외부의 클라이언트가 이 컴퓨터에 접속할 수 있도록 라우터를 자동 구성할 수 있습니다.<\/span><p class='p'>이 프로토콜에는 NAT 게이트웨이의 공용 IP 주소를 검색하는 방식이 포함되어 있어서, 클라이언트가 이 공용 IP 주소와 포트 번호를 통신하고자 하는 피어에 알릴 수 있습니다. 이 프로토콜은 Mac OS X 10.4 Tiger, AirPort Extreme 및 AirPort Express 네트워크 제품, Time Capsule 그리고 Windows용 Bonjour를 포함한 현재 Apple 제품들에 구현되어 있습니다.<\/p><\/li><\/ul><\/div><div class='section postreq'><p class='p'>NAT 옵션을 설정하려면, 베이스 스테이션 또는 Time Capsule이 DHCP 및 NAT를 사용하여 인터넷 연결을 공유하도록 설정되어 있어야 합니다.<\/p><\/div><\/div>", 
+"alternativeName": "베이스 스테이션 또는 Time Capsule용 NAT 옵션 설정하기", 
+"name": "베이스 스테이션 또는 Time Capsule용 NAT 옵션 설정하기", 
+"summary": "이 패널을 사용하여 네트워크상의 기본 호스트를 설정하고 NAT 포트 매핑 프로토콜을 활성화하십시오."}
+, 
+"aprt2715": {
+"content": "<div id='aprt2715' class='apd-topic'><div class='subjectids'><a name='aprt2715'><\/a><a name='alap10989'><\/a><a name='alap12694'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>브리지 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>인터넷 공유를 꺼서 네트워크의 무선 컴퓨터와 유선 컴퓨터 사이에 브리지 기능을 허용할 수 있습니다. 브리지 기능이 켜져 있으면 Wi-Fi 지원 컴퓨터에서 이더넷 네트워크 상의 모든 서비스에 접속할 수 있습니다. 해당 무선 장비는 인터넷 공유 서비스를 제공하지 않습니다.<\/p><p class='p'>베이스 스테이션 또는 Time Capsule을 브리지로 사용하면 무선 장비의 인터넷 공유 기능과 ISP의 연결 방식 사이의 비호환성을 해결할 수 있습니다.<\/p><p class='p'>PPPoE를 사용하여 인터넷에 연결한다면 브리지로 설정할 수 없습니다. 베이스 스테이션이 PPPoE를 사용한다면, 베이스 스테이션이 라우터로 동작하여 IP 주소를 DHCP 및 NAT을 사용하여 네트워크상의 클라이언트들로 분배합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>해당 무선 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 인터넷을 클릭하고 인터넷 연결을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>연결 공유 팝업 메뉴에서 끔(브리지 모드)을 선택하십시오.<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "브리지 설정하기", 
+"name": "브리지 설정하기", 
+"summary": "브리지 기능이 켜져 있으면 무선 컴퓨터에서 이더넷 네트워크 상의 모든 서비스에 접속할 수 있습니다. 해당 베이스 스테이션은 인터넷 공유 서비스를 제공하지 않습니다."}
+, 
+"aprt2706": {
+"content": "<div id='aprt2706' class='apd-topic'><div class='subjectids'><a name='aprt2706'><\/a><a name='alap12695'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>IPv6 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>IPv6은 새로운 버전의 IP(Internet Protocol)입니다. 현재 IPv6은 일부 연구 기관에서 주로 사용되고 있습니다. 대부분의 컴퓨터는 IPv6을 설정하거나 사용할 필요가 없습니다.<\/p><p class='p'>IPv6의 주요 이점은 주소 크기를 32비트(현재 IPv4 표준)에서 128비트로 높인다는 점입니다. 128비트는 엄청난 개수의 주소를 충분히 지원할 수 있는 주소 크기입니다. 따라서, 현재보다 더 많은 주소나 노드가 지원됩니다. IPv6은 또한 주소와 간단한 자동 구성을 설정할 수 있는 추가적인 방법을 제공합니다.<\/p><p class='p'>기본적으로 IPv6은 자동으로 구성되며 기본 설정도 충분합니다. 하지만, 네트워크 관리자 또는 인터넷 서비스 제공업체(ISP)가 특별히 IPv6을 수동으로 구성하라고 말했다면 AirPort 유틸리티를 열고 설정하려는 장비를 선택한 다음 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오. 도구 막대에서 고급을 클릭하고 IPv6를 클릭하십시오.<\/p><p class='p'>AirPort 유틸리티는 Mac OS X을 사용하는 컴퓨터에서는 응용 프로그램 폴더 안에 있는 유틸리티 폴더에, Windows 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>지침된 사용 방식에 따라 IPv6 모드 팝업 메뉴에서 호스트, 터널이나 라우터를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>IPv6 구성 팝업 메뉴에서 수동을 선택하고 ISP나 네트워크 관리자로부터 받은 정보를 입력하십시오.<\/span><\/li><\/ol><\/div><\/div>", 
+"alternativeName": "IPv6 설정하기", 
+"name": "IPv6 설정하기", 
+"summary": "IPv6은 새로운 버전의 IP(Internet Protocol)입니다. 현재 IPv6은 일부 연구 기관에서 주로 사용되고 있습니다. 대부분의 컴퓨터는 IPv6을 설정하거나 사용할 필요가 없습니다."}
+, 
+"ap15212": {
+"content": "<div id='ap15212' class='apd-topic'><div class='subjectids'><a name='ap15212'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>IPv6 방화벽 사용자화하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>베이스 스테이션에서 IPv6를 지원한다면 AirPort 유틸리티를 사용하여 IPv6 방화벽 설정을 조절할 수 있습니다. 또한, AirPort 유틸리티를 사용하여 Time Capsule의 IPv6 방화벽 설정을 조절할 수도 있습니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>조절하려는 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 고급을 클릭하고 IPv6 방화벽을 클릭하십시오.<\/span><p class='p'>기본적으로 “Teredo 터널 허용” 및 “IPSec 인증 허용”이 선택되어 있습니다.<\/p><p class='p'>IPv6 방화벽 외부로부터 여러분의 네트워크상에 있는 특정 장비에 대한 접근을 제공하려면, 추가(+) 버튼을 클릭하고 해당 장비에 대한 포트 및\/또는 IPv6 주소를 입력하십시오.<\/p><\/li><\/ol><\/div><div class='section postreq'><p class='p'>IPv6 방화벽을 사용하려면 펌웨어 버전 7.2 이상이 설치된 AirPort Extreme 802.11n 베이스 스테이션 또는 Time Capsule이 필요합니다.<\/p><p class='p'>최신 베이스 스테이션 펌웨어에 대한 AirPort 지원 사이트를 참조하십시오.<\/p><\/div><div class='related-links'><div class='linklist linklist'><strong>열기<\/strong><br><div><a class='link' href='http:\/\/www.apple.com\/support\/airport\/' target='_blank'>AirPort 지원 웹 사이트<\/a><\/div><\/div><\/div><\/div>", 
+"alternativeName": "IPv6 방화벽 사용자화하기", 
+"name": "IPv6 방화벽 사용자화하기", 
+"summary": "베이스 스테이션에서 지원한다면 AirPort 유틸리티를 사용하여 IPv6 방화벽 설정을 조절할 수 있습니다."}
+, 
+"aprt2712": {
+"content": "<div id='aprt2712' class='apd-topic'><div class='subjectids'><a name='aprt2712'><\/a><a name='alap10991'><\/a><a name='alap12688'><\/a><a name='alap12706'><\/a><a name='alap12710'><\/a><a name='alap12735'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Wi-Fi 네트워크 설정하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>무선 패널을 사용하여 무선 네트워크에 대한 옵션을 설정하십시오.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>새로운 무선 네트워크를 생성하거나 무선 네트워크를 확장하려면 무선 모드를 설정하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>네트워크에 이름 지정하기. 이것은 Mac OS X을 사용하는 컴퓨터에서는 메뉴 막대에 있는 AirPort 상태 메뉴에, Windows 컴퓨터에서는 상태 표시줄의 무선 네트워크 아이콘 위에 나타나는 이름입니다.<\/span><\/li><li class='li step'><span class='ph cmd'>무선 통신 모드 설정하기. 여러분의 네트워크에 접속하는 컴퓨터들과 가장 호환성이 높은 무선 네트워크에 대한 주파수를 선택하십시오.<\/span><ul class='ul choices'><li class='li choice'><p class='p'>802.11b 또는 802.11g를 사용하는 컴퓨터가 여러분의 네트워크에 접속할 것이라고 예상되면 무선 통신 모드 팝업 메뉴에서 “802.11n(802.11b\/g 호환)”을 선택하십시오.<\/p><\/li><li class='li choice'><p class='p'>802.11a를 사용하는 컴퓨터가 여러분의 네트워크에 접속할 것이라고 예상되면 “802.11n(802.11a 호환)”을 선택하십시오.<\/p><\/li><li class='li choice'><p class='p'>802.11n를 사용하는 컴퓨터만 여러분의 네트워크에 접속할 것이라고 예상되면 무선 통신 모드 팝업 메뉴에서 “802.11n 전용(2.4GHz)” 또는 “802.11n 전용(5GHZ)”을 선택하십시오.<\/p><\/li><\/ul><\/li><li class='li step'><span class='ph cmd'>네트워크의 채널 선택하기. 자신의 네트워크에 대해 특정 채널을 선택하고자 할 때도 있지만, 대부분의 경우 자동 설정을 사용하는 것이 가장 효율적입니다. 5GHz(기가헤르츠) 범위에서 802.11n 전용으로 사용한다면 채널을 수동으로 설정할 수 없습니다.<\/span><\/li><li class='li step'><span class='ph cmd'>네트워크 암호로 보호하기. 설정하는 베이스 스테이션과 여러분의 네트워크에 접속할 무선 클라이언트 컴퓨터의 성능을 기반으로, WEP(Wired Equivalent Privacy), WPA(Wi-Fi Protected Access) 또는 개인용 WPA2, 기업용 WPA나 WPA2 또는 WEP(TSN)을 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>추가 무선 옵션 설정하기. 무선 네트워크 옵션을 클릭하여 다중 전송률, 송신 전력, 지역을 설정하고 폐쇄된 네트워크를 생성하며, 방해 요소 방지 사용을 켜십시오. 베이스 스테이션에서 지원하며 802.11n 전용(5GHz) 무선 통신 모드를 사용한다면, 네트워크에 높은 데이터 처리율을 제공하는 와이드 채널 사용을 선택할 수도 있습니다.<\/span><\/li><\/ul><\/div><\/div>", 
+"alternativeName": "Wi-Fi 네트워크 설정하기", 
+"name": "Wi-Fi 네트워크 설정하기", 
+"summary": "무선 패널을 사용하여 무선 네트워크에 대한 옵션을 설정하십시오."}
+, 
+"ap21462": {
+"content": "<div id='ap21462' class='apd-topic'><div class='subjectids'><a name='ap21462'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>Time Capsule 콘텐츠 아카이브하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>모든 Time Capsule은 AirPort 유틸리티를 사용하여 해당 콘텐츠를 아카이브할 수 있는 내장 AirPort 디스크를 포함합니다.<\/p><p class='p'>Time Capsule의 콘텐츠를 아카이브하기 전에 외장 디스크를 Time Capsule의 USB 포트에 연결해야 합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>아카이브하려는 내장 AirPort 디스크가 포함된 Time Capsule을 선택하고 수동 설정을 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 디스크를 클릭하고 내장 AirPort 디스크를 선택한 다음 해당 팝업 메뉴에서 디스크 아카이브를 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>대상 팝업 메뉴에서 대상 디스크를 선택한 다음 아카이브를 클릭하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>디스크가 아카이브되는 동안 Time Capsule 상태 표시등이 황색으로 깜박입니다. 디스크의 콘텐츠가 아카이브되고 Time Capsule이 다시 사용 가능할 때까지 설정을 변경하거나, 펌웨어를 업데이트하거나, Time Capsule을 재시동할 수 없습니다.<\/p><\/div><\/div>", 
+"alternativeName": "Time Capsule 콘텐츠 아카이브하기", 
+"name": "Time Capsule 콘텐츠 아카이브하기", 
+"summary": "Time Capsule을 사용한다면, 내장 AirPort 디스크의 콘텐츠에 AirPort 유틸리티를 사용할 수 있습니다."}
+, 
+"aprt2709": {
+"content": "<div id='aprt2709' class='apd-topic'><div class='subjectids'><a name='aprt2709'><\/a><a name='alap10989'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>베이스 스테이션 모뎀을 사용하여 인터넷에 연결하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>내장 모뎀이 있는 베이스 스테이션과 ISP와 다이얼업 계정을 가지고 있다면, 표준 전화선에 베이스 스테이션 모뎀 포트를 연결하고 PPP를 사용하여 인터넷에 연결할 수 있습니다.<\/p><p class='p'>AirPort 유틸리티를 사용하기 전에 계정 정보를 준비해두는 것이 좋습니다.<\/p><\/div><ul class='ul steps-unordered'><li class='li step'><span class='ph cmd'>ISP 계정 이름(사용자 이름) 및 암호<\/span><\/li><li class='li step'><span class='ph cmd'>ISP의 다이얼업 모뎀 전화 번호<\/span><\/li><li class='li step'><span class='ph cmd'>TCP\/IP를 수동으로 구성하는지 PPP를 사용하는지 여부<\/span><\/li><li class='li step'><span class='ph cmd'>IP 주소(수동 구성만)<\/span><\/li><li class='li step'><span class='ph cmd'>DNS(Domain Name System) 서버 주소<\/span><\/li><\/ul><\/div><div class='section postreq'><p class='p'>모뎀을 클릭하여 연결을 해제하기 전에 모뎀의 대기 시간, 국가 코드 및 기타 옵션과 같은 모뎀 옵션을 설정하십시오.<\/p><\/div><\/div>", 
+"keywords": "AirPort 무선 장비 설정하기", 
+"name": "베이스 스테이션 모뎀을 사용하여 인터넷에 연결하기", 
+"alternativeName": "베이스 스테이션 모뎀을 사용하여 인터넷에 연결하기", 
+"summary": "베이스 스테이션이 내장 모뎀과 함께 제공되며 ISP와 다이얼업 계정을 가지고 있다면, 표준 전화선에 베이스 스테이션 모뎀 포트를 연결할 수 있습니다."}
+, 
+"aprt2717": {
+"content": "<div id='aprt2717' class='apd-topic'><div class='subjectids'><a name='aprt2717'><\/a><a name='alap12704'><\/a><\/div><h1 class='title topictitle1'><img class='image category-art' src='..\/media\/xicnap.gif'>무선 네트워크 정보 로그 기록하기<\/h1><div class='body taskbody'><div class='section context'><p class='p'>Mac OS X을 사용하는 컴퓨터에서는 Mac OS X 시스템 로그(또는 syslog 호스트)에, Windows를 사용하는 컴퓨터에서는 syslog 응용 프로그램을 사용하여 상태 정보를 로그 기록하도록 AirPort 베이스 스테이션 또는 Time Capsule을 설정할 수 있습니다. 이것은 무선 장비의 활동을 모니터링하고 문제를 해결하는 데 유용합니다.<\/p><p class='p'>로그의 정확성을 보장하기 위해, 무선 장비의 기본 날짜와 시간을 자동으로 설정해야 합니다.<\/p><\/div><ol class='ol steps'><li class='li step'><span class='ph cmd'>Mac에서는 응용 프로그램 폴더 안의 유틸리티 폴더, Windows를 사용하는 컴퓨터에서는 시작 > 모든 프로그램 > AirPort에 있는 AirPort 유틸리티를 여십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>설정할 장비를 선택하고 수동 설정을 클릭하십시오. 필요하다면 암호를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>도구 막대에서 고급을 클릭하고 로깅 및 통계를 클릭하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>Syslog 대상 주소 필드에서 베이스 스테이션 로그를 수신할 컴퓨터의 IP 주소를 입력하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>Syslog 단계 팝업 메뉴에서 로그 기록하려는 정보의 유형을 선택하십시오.<\/span><\/li><li class='li step'><span class='ph cmd'>베이스 스테이션 로그를 보려면 “로그 및 통계”를 클릭하십시오.<\/span><\/li><\/ol><\/div><div class='section postreq'><p class='p'>로그에 정확한 날짜와 시간 정보가 포함되도록 보장하려면, AirPort 설정의 베이스 스테이션 패널에서 \"자동으로 시간 설정\"을 선택하고 팝업 메뉴에서 네트워크 시간 서버와 시간대를 선택하십시오.<\/p><\/div><\/div>", 
+"keywords": "로그 기록하기", 
+"name": "무선 네트워크 정보 로그 기록하기", 
+"alternativeName": "무선 네트워크 정보 로그 기록하기", 
+"summary": "상태 정보가 Mac OS X 시스템 로그나(syslog 호스트)에 로그로 기록되도록 베이스 스테이션을 설정할 수 있습니다."}
+}
+, 
+"hierarchy": [
+{
+"id": "button-0", 
+"children": [
+{
+"id": "ap35497", 
+"class": "default"}
+,{
+"id": "ap35497-a", 
+"children": [
+{
+"id": "aprt2735"}
+,{
+"id": "aprt2694"}
+,{
+"id": "aprt2756"}
+,{
+"id": "aprt2698"}
+,{
+"id": "aprt2699"}
+,{
+"id": "aprt2727"}
+,{
+"id": "aprt2721"}
+,{
+"id": "ap15210"}
+]
+}
+,{
+"id": "ap35497-b", 
+"children": [
+{
+"id": "aprt2744"}
+,{
+"id": "aprt2700"}
+,{
+"id": "aprt2702"}
+,{
+"id": "aprt2709"}
+,{
+"id": "aprt2707"}
+,{
+"id": "aprt2705"}
+,{
+"id": "aprt2771"}
+,{
+"id": "aprt2713"}
+,{
+"id": "aprt2755"}
+,{
+"id": "aprt2715"}
+,{
+"id": "aprt2725"}
+,{
+"id": "aprt2760"}
+,{
+"id": "aprt2703"}
+,{
+"id": "aprt2759"}
+,{
+"id": "aprt2769"}
+,{
+"id": "aprt2730"}
+,{
+"id": "aprt2761"}
+,{
+"id": "aprt2706"}
+,{
+"id": "aprt2717"}
+,{
+"id": "aprt2704"}
+,{
+"id": "aprt2775"}
+,{
+"id": "aprt2773"}
+,{
+"id": "ap15214"}
+,{
+"id": "ap15211"}
+]
+}
+,{
+"id": "ap35497-c", 
+"children": [
+{
+"id": "aprt2712"}
+,{
+"id": "aprt2736"}
+,{
+"id": "aprt2752"}
+,{
+"id": "aprt2753"}
+,{
+"id": "aprt2723"}
+,{
+"id": "aprt2695"}
+,{
+"id": "aprt2741"}
+,{
+"id": "aprt2728"}
+,{
+"id": "aprt2774"}
+,{
+"id": "aprt2697"}
+,{
+"id": "ap11953"}
+,{
+"id": "aprt2699"}
+,{
+"id": "aprt2748"}
+,{
+"id": "aprt2757"}
+,{
+"id": "aprt2758"}
+,{
+"id": "aprt2763"}
+,{
+"id": "aprt2710"}
+,{
+"id": "aprt2738"}
+,{
+"id": "aprt2739"}
+,{
+"id": "aprt2740"}
+,{
+"id": "aprt2718"}
+,{
+"id": "aprt2719"}
+,{
+"id": "ap20913"}
+,{
+"id": "ap21462"}
+,{
+"id": "ap15212"}
+]
+}
+,{
+"id": "ap35497-d", 
+"children": [
+{
+"id": "aprt2737"}
+,{
+"id": "aprt2734"}
+,{
+"id": "aprt2731"}
+,{
+"id": "aprt2754"}
+,{
+"id": "aprt2724"}
+,{
+"id": "alap11006"}
+,{
+"id": "cpap0006"}
+]
+}
+]
+}
+,{
+"id": "button-1", 
+"children": [
+{
+"id": "searchable-landing-com-apple-airportutility-help", 
+"class": "default"}
+,{
+"id": "local-searchtopichead-com-apple-airportutility-help", 
+"children": [
+{
+"id": "aprt2742"}
+,{
+"id": "aprt2732"}
+,{
+"id": "ap20881"}
+,{
+"id": "ap11863"}
+,{
+"id": "ap15213"}
+,{
+"id": "ap22913"}
+,{
+"id": "ap22914"}
+]
+}
+]
+}
+,{
+"id": "button-2", 
+"children": [
+{
+"id": "offline-message-com-apple-airportutility-help", 
+"class": "content-not-available-message"}
+]
+}
+]
+, 
+"settings": {
+"Design": "redFlamingo", 
+"BuildVersion": "12.14", 
+"ShowVersionNumber": 0, 
+"CategoryArt": "arik.png", 
+"AppVersion": "3.2", 
+"FolderName": "AirPortUtilityHelp", 
+"LocalizationISOCode": "ko", 
+"Title": "AirPort 유틸리티 도움말", 
+"RemoteURL": "https:\/\/help.apple.com\/aputility\/mac\/5.5.3\/help\/"}
+}
+]
